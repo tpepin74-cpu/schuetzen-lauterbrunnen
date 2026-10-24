@@ -1,0 +1,35 @@
+{
+  "title": "Saint-Bernard — variante donnant la patte",
+  "created": "2026-10-24",
+  "method": "Built-in image_gen.imagegen, transparent-background edit; no CLI",
+  "use_case": "precise-object-edit",
+  "input": "public/assets/collage/bernard.webp",
+  "output": "public/assets/collage/bernard-paw.webp",
+  "original_generated": "docs/asset-sources/bernard-paw-original.png",
+  "prompt": "Use case: precise-object-edit.\nAsset type: alternate interactive website cut-paper photographic sprite, second state of the EXACT provided Saint Bernard.\nInput image: /workspace/scratch/da58fe833176/schuetzen-journey/public/assets/collage/bernard.webp is the EDIT TARGET. Preserve its entire canvas layout and identity.\nPrimary request: the SAME friendly sitting Saint Bernard gives the viewer his paw. Lift ONLY the front paw on the viewer's LEFT (the front leg nearer the image centre, currently reaching the bottom centre) into a natural friendly \"shake paw\" position, bent at the elbow and extending slightly toward the viewer in front of his chest. The other front paw, on viewer's right, stays firmly planted exactly where it is. Exactly two front legs. His lifted paw is at lower chest height and clearly recognisable.\nCrucial invariants: same photorealistic dog's exact head, facial features, soft open mouth and tongue, fur texture, white blaze, brown patches, red-and-white Vichy gingham bandana, torso, hindquarters, tail and ground stance. Same camera viewpoint, body scale, face location and photographic lighting. Head centre stays around x=745,y=240 in the original 1254px square coordinate frame. Head top stays at y=15, body does not shift or zoom. Preserve the head and body as closely as possible; only change the one foreleg. The animal remains entirely inside frame.\nStyle: real photo with existing irregular white paper-cut contour and delicate paper edge, matching source exactly. Natural plush fur, anatomically correct paw and leg; no illustration or cartoon.\nBackground: true transparent alpha, transparent everywhere outside the white cut-paper outline, no black fill, no opaque white background.\nCanvas/framing: square 1254x1254 equivalent layout, keep the dog in precisely the same place and scale as reference, no automatic recentering, no extra margins.\nAvoid: any new props or text, collars or barrels, other limbs, extra paw, any changes to face or fur markings, any movement of the head, any environment, hands, shadows outside the paper silhouette, watermark.",
+  "processing": "Generated 1254×1254 RGBA kept at original dimensions; WebP quality 90, method 6, exact alpha. No retouching, compositing, recentering or scaling.",
+  "visual_validation": "Same dog identity, face, Vichy bandana, sitting body, grounded right-of-view front paw and white cut-paper contour. Only the centre/left-of-view forepaw rises to chest height. Transparent alpha verified. Head and upper body align closely with original for an opacity crossfade.",
+  "dimensions": {
+    "width": 1254,
+    "height": 1254
+  },
+  "alpha_extrema": [
+    0,
+    255
+  ],
+  "alignment": {
+    "original_alpha_128_bbox": [
+      91,
+      17,
+      1016,
+      1234
+    ],
+    "variant_alpha_128_bbox": [
+      91,
+      15,
+      1016,
+      1178
+    ],
+    "notes": "Same left/right silhouette extents; bottom moves upward because the centre forepaw is lifted. Canvas preserved rather than cropping to the new silhouette."
+  }
+}

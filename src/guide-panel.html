@@ -1,0 +1,19 @@
+<button class="cg-tab" type="button" data-cg-open aria-label="Ouvrir le Concierge en ligne" aria-expanded="false" aria-controls="cg-panel"><span class="cg-tab__avatar" aria-hidden="true"><img src="/assets/collage/concierge.webp" width="800" height="1200" alt="" loading="lazy" decoding="async"></span><span>Concierge en ligne<small>Vous avez une question ?</small></span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 5h14v11H9l-4 4V5Z"/><path d="M9 9h6m-6 3h4"/></svg></button>
+<section class="cg" id="cg-panel" data-cg role="dialog" aria-modal="false" aria-labelledby="cg-title" aria-describedby="cg-description" hidden>
+  <div class="cg__grab" aria-hidden="true"></div>
+  <header class="cg__head">
+    <span class="cg__avatar" aria-hidden="true"><img src="/assets/collage/concierge.webp" width="800" height="1200" alt="" loading="lazy" decoding="async"></span>
+    <div><small>GRÜEZI, BIENVENUE !</small><h2 id="cg-title">Concierge en ligne</h2><p id="cg-description">Votre séjour, en quelques choix.</p></div>
+    <button class="icon-btn" type="button" data-cg-close aria-label="Fermer le Concierge en ligne"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18"/></svg></button>
+  </header>
+  <nav class="cg__toolbar" aria-label="Parcours du Concierge en ligne">
+    <button type="button" data-cg-back aria-label="Revenir au choix précédent" disabled><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m14 6-6 6 6 6"/></svg><span>Retour</span></button>
+    <span data-cg-step>À vous de choisir</span>
+    <button type="button" data-cg-reset aria-label="Recommencer depuis l’accueil du Concierge en ligne" disabled><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 11a8 8 0 1 1 2 7M4 4v7h7"/></svg><span>Recommencer</span></button>
+  </nav>
+  <div class="cg__log" data-cg-log role="log" aria-label="Votre conversation avec le Concierge en ligne" aria-live="off" tabindex="0"></div>
+  <div class="cg__choices-head">À vous de choisir</div>
+  <div class="cg__chips" data-cg-chips aria-label="Les choix du Concierge en ligne"></div>
+  <form class="cg__form" data-cg-form autocomplete="off"><label class="sr" for="cg-input">Votre question au Concierge en ligne</label><input id="cg-input" name="q" placeholder="Ou posez une question…" maxlength="240" enterkeyhint="send"><button type="submit" aria-label="Envoyer ma question"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m4 12 16-8-6 16-2.5-6.5L4 12Z"/><path d="m11.5 13.5 5-5"/></svg></button></form>
+  <p class="sr" data-cg-status role="status" aria-live="polite" aria-atomic="true"></p>
+</section>

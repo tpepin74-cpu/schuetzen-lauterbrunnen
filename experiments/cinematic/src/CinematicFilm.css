@@ -1,0 +1,20 @@
+.cinematic-film {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  overflow: hidden;
+  isolation: isolate;
+  pointer-events: none;
+  background: #344d49 url('/assets/journey/cascade.webp') center / cover no-repeat;
+}
+.cinematic-film > video,
+.cinematic-film-still {
+  display: block;
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+.cinematic-film > video { opacity: 0; }

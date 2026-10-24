@@ -1,0 +1,21 @@
+{
+  "title": "Postier suisse chaleureux — variante joufflue à barbe blanche",
+  "created": "2026-10-24",
+  "tool": "image_gen built-in",
+  "transparent_background": true,
+  "edit_target": "public/assets/collage/postman.webp",
+  "original_generated": "docs/asset-sources/postman-friendly-original.png",
+  "generated_tool_path": "/workspace/scratch/da58fe833176/generated_images/exec-b3e715d3-46af-4e59-8df3-a3f9f3adc680.png",
+  "output": "public/assets/collage/postman-friendly.webp",
+  "prompt": "Use case: precise-object-edit.\nAsset type: replacement photographic paper-cut Swiss postman mascot for an existing hotel website.\nEDIT TARGET: the provided postman.webp reference. Preserve the EXACT overall square composition, camera, scale, hands and sign placement so the real HTML button that sits on the blank sign will remain correctly positioned.\nPrimary change: replace the man’s overly polished appearance with an older, wonderfully friendly and ordinary Swiss village postman, around sixty-five to seventy. He is visibly plump and round-cheeked, with a broad soft face, rosy cheeks, natural laugh lines, textured skin, a very generous thick WHITE beard and white moustache, kind twinkling eyes and a broad genuinely JOYFUL laughing smile. A charming, slightly funny grandfatherly character, approachable and full of good humour. Not a fashion model, not idealised, not a caricature. The beard should be long and fluffy down to the upper chest, entirely ABOVE the sign.\nClothing and pose: preserve the vivid postal-YELLOW jacket and YELLOW cap, dark collar and trousers, dark leather mail satchel and strap. Keep the body a little fuller/chubbier while retaining the exact stance. Keep both hands naturally gripping the outer two side edges of the sign at exactly the same positions. Correct believable fingers. No extra hands.\nESSENTIAL LAYOUT INVARIANTS: 1200×1200 equivalent square layout. Cap top near top centre, body to mid-thigh near the bottom edge. The completely blank warm-cream rectangular sign remains exactly frontal, horizontal, flat, unwarped, from approximately x=135 to1080 and y=555 to895 in the 1200×1200 frame. The central sign face MUST be entirely blank, clean and unobscured, with at least x=210 to990 clear for the real HTML button overlay. Do not move, shrink, tilt or decorate the sign. Do not enlarge the hands into the blank area. No beard over the sign.\nPhotographic style: true realistic editorial photograph, authentic older skin and beard detail, tactile yellow fabric and leather, warm soft neutral daylight matching the reference, not a drawing, 3D render, plastic skin or cartoon. Keep a white, slightly irregular cut-paper contour around the combined silhouette, matching the reference collage.\nBackground: genuine fully transparent alpha outside the person/sign cutout and in all empty gaps, no scene, no ground, no blurred backdrop. No text, no logos, no stamps, no watermark. Fictional person; no imitation of a named real person. Keep the postal outfit, not a Santa outfit.",
+  "dimensions": [
+    1200,
+    1200
+  ],
+  "bytes": 148732,
+  "alpha_extrema": [0, 255],
+  "processing": "Generated1254×1254 RGBA mechanically resized to existing1200×1200 image dimensions. WebPquality88,method6,exactalpha. No cropping, retouching or compositing outside image_gen.",
+  "intended_use": "Replace the editorial postman photo while preserving the real HTML PostCard Creator link positioned over the blank cream sign; fictional person, no official partnership implied.",
+  "visual_validation": "Joyful older fictional Swiss postman with a round rosy face, full white beard and moustache, yellow cap and jacket, mail satchel and both hands gripping sign edges. Same square layout and body-to-mid-thigh framing. Sign remains horizontal and frontal with central HTML link area entirely blank; no beard over the sign. No printed text, branding or backdrop.",
+  "layout": "Existing button footprint at approximately x19–81%, y49–64% remains on the empty cream sign. Minor silhouette differences do not require re-positioning the HTML link."
+}

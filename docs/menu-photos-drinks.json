@@ -1,0 +1,274 @@
+[
+  {
+    "id": "eau-staubbach",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: A clear straight-sided elegant water tumbler filled with sparkling alpine water, delicate small bubbles, a few subtle condensation drops. No lemon or garnish. Simple clear water, believable glass reflections, fresh and clean.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-fa81f92a-0815-4587-ab21-9c7967826e5b.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/eau-staubbach.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 64590,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.5749,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "the-froid",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: One tall unbranded glass of homemade amber iced tea, clear ice cubes and a thin lemon wheel inside the glass, tiny condensation droplets. Natural rich tea color, refreshing, no straw.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-52abd992-a92c-45cf-b2e7-e0d920136f68.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/the-froid.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 81026,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.6123,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "sirop",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: One small sturdy cafe tumbler of translucent ruby red fruit syrup diluted with water, a few ice cubes, realistic child-sized drink serving, no garnish and no straw. Friendly rich raspberry red.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-75b5bfdd-19cb-40e6-a2d1-192ff891661c.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/sirop.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 79410,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.5423,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "lager",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: One unbranded classic tall gently tapered pilsner glass of clear brilliant golden lager draft beer topped with a compact creamy white head about two fingers high. Tiny rising bubbles, real condensation, clear golden lager distinct from cloudy wheat beer.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-62679006-b969-4c45-aee0-47081eeba5cc.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/lager.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 69012,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.6697,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "weizen",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: One unbranded traditional tall curving German-style wheat beer glass, filled with naturally cloudy light golden wheat beer and a generous creamy white foam head. Hazy straw-gold liquid, tiny condensation, entirely realistic serving.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-59fe4535-4af1-44d9-a538-9d3e29574ab3.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/weizen.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 37418,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.7188,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "cidre",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: One unbranded short stemmed broad cider goblet of slightly cloudy golden apple cider with delicate bubbles and just a thin rim of foam, not a tall beer glass. Natural apple-gold color, realistic condensation.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-5bb1aee4-6708-4a30-9198-6e7330c7a202.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/cidre.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 91810,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.5443,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "vin-blanc",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: One elegant unbranded stemmed white wine glass about one-third full of pale straw-yellow Swiss white wine. No bottle, no grapes, no garnish. Real glass, delicate white wine highlights.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-97659b9c-fd3b-4fdf-aa22-5b36f2903fc2.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/vin-blanc.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 37442,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.7427,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "vin-rose",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: One elegant unbranded stemmed wine glass about one-third full of soft salmon-pink Swiss rosé wine. No bottle, no grapes, no garnish. Real glass, subtle pink highlights.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-a9597d39-a878-483b-8b8f-41b6e3643be5.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/vin-rose.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 34112,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.7493,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "vin-rouge",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: One elegant unbranded stemmed red wine glass about one-third full of deep ruby-red Swiss wine. Luminous burgundy edges, realistic transparent glass. No bottle, no grapes, no garnish.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-54df9007-2673-4c27-9939-a61fe673c1f0.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/vin-rouge.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 38132,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.7228,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "aperitifs",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: A tasteful pair of unbranded stemmed balloon aperitif glasses standing side by side: left a bright orange Aperol Spritz with ice and an orange half-wheel; right a pale elderflower Hugo spritz with ice, fresh mint leaves and a lime slice. Entire distinct glasses visible, no overlap, no bottles.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-f66d6188-2130-477d-8394-d47ecf876583.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/aperitifs.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 116580,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.5115,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "vieille-prune",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: One small elegant tulip-shaped short-stemmed digestif glass holding a modest serving of aged plum brandy, rich transparent amber gold color. Small 4cl serving at bottom of glass, no ice or garnish. Realistic refined glass.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-c002529c-adcb-4b87-ae86-27952b9547e0.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/vieille-prune.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 45598,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.69,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "eaux-de-vie",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: A neat trio of small slender tulip-shaped digestif glasses holding clear colorless fruit eau-de-vie. One Kirsch, one plum, one Williams represented by three identical small clear 2cl servings, with no fruit, labels, ice or garnish. Entire separate glasses with some space between them, simple low triangular group.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-ee335cf6-5d11-4a17-a39d-5fb71f75a31d.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/eaux-de-vie.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 78992,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.6012,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "chocolat-chaud",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: One generous white ceramic cup and saucer of rich hot chocolate, topped with a modest swirl of whipped cream and a light sprinkle of cocoa. No branded packet, no spoon, no marshmallows. Soft warm chocolate color, natural textures.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-58397e89-45e2-4cf9-a862-613bf622bb8c.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/chocolat-chaud.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 55708,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.4208,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "cafes",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: A compact carefully arranged trio of white ceramic cafe cups each with its saucer: small espresso with caramel crema, medium cafe creme with rich coffee, and a larger cappuccino with natural creamy milk foam. Three distinct drinks, slightly overlapping saucers but not hiding cups. No spoons or biscuits.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-93b65b58-5cd5-4104-a7a1-46152a42d673.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/cafes.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 48160,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.5218,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "cafes-liqueur",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: A tasteful pair of small footed Irish-coffee glasses with handles, both topped with soft whipped cream: left a light creamy brown Baileys coffee, right a darker Irish coffee with distinct dark coffee and white cream layer. Entire vessels visible side by side, no bottles, labels or garnish.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-0babc57b-98ca-491d-b5b6-e28bb169e7dc.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/cafes-liqueur.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 102332,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.4635,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  },
+  {
+    "id": "iced-coffees",
+    "prompt": "Use case: product-mockup. Asset: individual Swiss chalet restaurant menu photograph. Create an ultra-photorealistic beverage product cutout, not an illustration. Real glass/refraction, tiny condensation droplets, warm neutral soft daylight from upper left, faithful natural color. Camera front three-quarter slightly above rim. Entire drink vessel(s) fully visible, centered with generous transparent margin. Surround each object silhouette with a crisp slightly irregular white paper scissor-cut outline, about 5–8px at image size. True transparent alpha background outside the white outline. No surface, no rectangle backdrop, no people, hands, text, watermark, logos or branded labels. No extra decorative objects. Square composition. Subject: A compact pair of tall unbranded clear glasses of iced coffee: one softly layered iced latte with cream-colored milk and caramel espresso swirling around realistic ice cubes, the other a cocoa-brown iced mocha with ice. Entire glasses visible side by side. No whipped cream, syrup drips, straws, labels or extra props.",
+    "source": "/workspace/scratch/da58fe833176/generated_images/exec-f09cd6ba-b10e-4fc0-bdac-3aa04733059d.png",
+    "tool": "image_gen.imagegen",
+    "output": "public/assets/menu/iced-coffees.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 86546,
+    "alpha_range": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.4736,
+    "review": "Visually inspected generated original and optimized WebP: distinct beverage type, photorealistic cutout with white contour, true transparent exterior, no labels or logos.",
+    "illustration_notice": "Generated illustrative menu photo; not an actual photograph of the restaurant serving."
+  }
+]

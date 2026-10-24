@@ -1,0 +1,321 @@
+{
+  "count": 45,
+  "total_bytes": 3465418,
+  "assets": [
+    {
+      "id": "soupe-patate-douce",
+      "width": 640,
+      "height": 585,
+      "bytes": 67482,
+      "alpha": true
+    },
+    {
+      "id": "salad-bowl",
+      "width": 640,
+      "height": 427,
+      "bytes": 76652,
+      "alpha": true
+    },
+    {
+      "id": "caprese",
+      "width": 640,
+      "height": 585,
+      "bytes": 99936,
+      "alpha": true
+    },
+    {
+      "id": "salade-berger",
+      "width": 640,
+      "height": 585,
+      "bytes": 102480,
+      "alpha": true
+    },
+    {
+      "id": "salade-poulet",
+      "width": 640,
+      "height": 427,
+      "bytes": 65324,
+      "alpha": true
+    },
+    {
+      "id": "frites",
+      "width": 640,
+      "height": 427,
+      "bytes": 59402,
+      "alpha": true
+    },
+    {
+      "id": "fondue",
+      "width": 640,
+      "height": 464,
+      "bytes": 72450,
+      "alpha": true
+    },
+    {
+      "id": "raclette",
+      "width": 616,
+      "height": 640,
+      "bytes": 102642,
+      "alpha": true
+    },
+    {
+      "id": "rosti-paysan",
+      "width": 640,
+      "height": 585,
+      "bytes": 121222,
+      "alpha": true
+    },
+    {
+      "id": "rosti-casimir",
+      "width": 640,
+      "height": 585,
+      "bytes": 111818,
+      "alpha": true
+    },
+    {
+      "id": "rosti-legumes",
+      "width": 640,
+      "height": 427,
+      "bytes": 95818,
+      "alpha": true
+    },
+    {
+      "id": "bratwurst",
+      "width": 640,
+      "height": 585,
+      "bytes": 85200,
+      "alpha": true
+    },
+    {
+      "id": "macaronis",
+      "width": 640,
+      "height": 585,
+      "bytes": 87486,
+      "alpha": true
+    },
+    {
+      "id": "pierre-chaude",
+      "width": 640,
+      "height": 427,
+      "bytes": 71914,
+      "alpha": true
+    },
+    {
+      "id": "schnitzel",
+      "width": 640,
+      "height": 427,
+      "bytes": 81294,
+      "alpha": true
+    },
+    {
+      "id": "perche",
+      "width": 640,
+      "height": 427,
+      "bytes": 80382,
+      "alpha": true
+    },
+    {
+      "id": "saumon-grille",
+      "width": 640,
+      "height": 427,
+      "bytes": 78612,
+      "alpha": true
+    },
+    {
+      "id": "hamburger",
+      "width": 640,
+      "height": 427,
+      "bytes": 84218,
+      "alpha": true
+    },
+    {
+      "id": "cheeseburger",
+      "width": 640,
+      "height": 427,
+      "bytes": 76096,
+      "alpha": true
+    },
+    {
+      "id": "burger-paysan",
+      "width": 640,
+      "height": 427,
+      "bytes": 85572,
+      "alpha": true
+    },
+    {
+      "id": "chickenburger",
+      "width": 640,
+      "height": 427,
+      "bytes": 76672,
+      "alpha": true
+    },
+    {
+      "id": "burger-vegetal",
+      "width": 640,
+      "height": 427,
+      "bytes": 77390,
+      "alpha": true
+    },
+    {
+      "id": "tarte-classique",
+      "width": 640,
+      "height": 427,
+      "bytes": 81440,
+      "alpha": true
+    },
+    {
+      "id": "tarte-vegetarienne",
+      "width": 640,
+      "height": 427,
+      "bytes": 86702,
+      "alpha": true
+    },
+    {
+      "id": "tarte-saumon",
+      "width": 640,
+      "height": 427,
+      "bytes": 88894,
+      "alpha": true
+    },
+    {
+      "id": "wrap-vegetarien",
+      "width": 640,
+      "height": 427,
+      "bytes": 73630,
+      "alpha": true
+    },
+    {
+      "id": "wrap-poulet",
+      "width": 640,
+      "height": 427,
+      "bytes": 78954,
+      "alpha": true
+    },
+    {
+      "id": "nuggets-poulet",
+      "width": 640,
+      "height": 427,
+      "bytes": 68756,
+      "alpha": true
+    },
+    {
+      "id": "nuggets-poisson",
+      "width": 640,
+      "height": 427,
+      "bytes": 60112,
+      "alpha": true
+    },
+    {
+      "id": "eau-staubbach",
+      "width": 640,
+      "height": 640,
+      "bytes": 64590,
+      "alpha": true
+    },
+    {
+      "id": "the-froid",
+      "width": 640,
+      "height": 640,
+      "bytes": 81026,
+      "alpha": true
+    },
+    {
+      "id": "sirop",
+      "width": 640,
+      "height": 640,
+      "bytes": 79410,
+      "alpha": true
+    },
+    {
+      "id": "lager",
+      "width": 640,
+      "height": 640,
+      "bytes": 69012,
+      "alpha": true
+    },
+    {
+      "id": "weizen",
+      "width": 640,
+      "height": 640,
+      "bytes": 37418,
+      "alpha": true
+    },
+    {
+      "id": "cidre",
+      "width": 640,
+      "height": 640,
+      "bytes": 91810,
+      "alpha": true
+    },
+    {
+      "id": "vin-blanc",
+      "width": 640,
+      "height": 640,
+      "bytes": 37442,
+      "alpha": true
+    },
+    {
+      "id": "vin-rose",
+      "width": 640,
+      "height": 640,
+      "bytes": 34112,
+      "alpha": true
+    },
+    {
+      "id": "vin-rouge",
+      "width": 640,
+      "height": 640,
+      "bytes": 38132,
+      "alpha": true
+    },
+    {
+      "id": "aperitifs",
+      "width": 640,
+      "height": 640,
+      "bytes": 116580,
+      "alpha": true
+    },
+    {
+      "id": "vieille-prune",
+      "width": 640,
+      "height": 640,
+      "bytes": 45598,
+      "alpha": true
+    },
+    {
+      "id": "eaux-de-vie",
+      "width": 640,
+      "height": 640,
+      "bytes": 78992,
+      "alpha": true
+    },
+    {
+      "id": "chocolat-chaud",
+      "width": 640,
+      "height": 640,
+      "bytes": 55708,
+      "alpha": true
+    },
+    {
+      "id": "cafes",
+      "width": 640,
+      "height": 640,
+      "bytes": 48160,
+      "alpha": true
+    },
+    {
+      "id": "cafes-liqueur",
+      "width": 640,
+      "height": 640,
+      "bytes": 102332,
+      "alpha": true
+    },
+    {
+      "id": "iced-coffees",
+      "width": 640,
+      "height": 640,
+      "bytes": 86546,
+      "alpha": true
+    }
+  ]
+}

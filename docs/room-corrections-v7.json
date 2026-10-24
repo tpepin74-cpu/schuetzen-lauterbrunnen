@@ -1,0 +1,39 @@
+{
+  "removed": [
+    "basic"
+  ],
+  "remaining_count": 8,
+  "changes": [
+    {
+      "id": "familiale",
+      "changes": {
+        "guests": {
+          "before": "4 personnes",
+          "after": "5 personnes"
+        },
+        "cap": {
+          "before": 4,
+          "after": 5
+        },
+        "beds": {
+          "before": "1 grand lit + 1 lit simple + 1 lit superposé",
+          "after": "1 lit simple + 1 lit superposé + 1 grand lit double"
+        }
+      }
+    },
+    {
+      "id": "familiale-superieure",
+      "changes": {
+        "guests": {
+          "before": "4 personnes",
+          "after": "4 adultes maximum · 6 couchages"
+        },
+        "beds": {
+          "before": "1 grand lit + 2 lits superposés",
+          "after": "2 lits superposés + 1 grand lit double"
+        }
+      }
+    }
+  ],
+  "other_business_data_unchanged": true
+}

@@ -1,0 +1,1557 @@
+[
+  {
+    "id": "s36c31c7834",
+    "text": "{count} bébé",
+    "context": "message:guests.babies.one"
+  },
+  {
+    "id": "s7864febddc",
+    "text": "{count} bébés",
+    "context": "message:guests.babies.other"
+  },
+  {
+    "id": "s7bb17a1253",
+    "text": "{count} catégorie encore libre à ces dates.",
+    "context": "message:availability.categories.one"
+  },
+  {
+    "id": "s41c2dcf7a2",
+    "text": "{count} catégories encore libres à ces dates.",
+    "context": "message:availability.categories.other"
+  },
+  {
+    "id": "sfc9f7e5e2c",
+    "text": "La {room} accueille jusqu’à {capacity} par chambre.",
+    "context": "message:room.capacity"
+  },
+  {
+    "id": "s63a3895dde",
+    "text": "Pour {guests}, choisissez une chambre plus grande ou ajoutez une chambre.",
+    "context": "message:room.capacityAdvice"
+  },
+  {
+    "id": "seb57428c35",
+    "text": "Pour {guests} dans {rooms}, choisissez une chambre plus grande ou ajoutez une chambre.",
+    "context": "message:room.capacityAdviceRooms"
+  },
+  {
+    "id": "s3f71b8b8f0",
+    "text": "La {room} se réserve en direct auprès de la réception ; elle n’est pas proposée sur Booking.com.",
+    "context": "message:room.direct"
+  },
+  {
+    "id": "sc3c6ea7488",
+    "text": "par e-mail",
+    "context": "message:room.email"
+  },
+  {
+    "id": "scb9bc1dba0",
+    "text": "{room} sélectionnée",
+    "context": "message:room.selected"
+  },
+  {
+    "id": "scb9e8be2a8",
+    "text": "Vérification des disponibilités…",
+    "context": "message:availability.loading"
+  },
+  {
+    "id": "s23e89e69ca",
+    "text": "Plus de chambre libre sur Booking.com du {arrival} au {departure}.",
+    "context": "message:availability.none"
+  },
+  {
+    "id": "s2ffdde9179",
+    "text": "Essayez d’autres dates, ou demandez à la réception : il reste parfois une chambre en direct.",
+    "context": "message:availability.otherDates"
+  },
+  {
+    "id": "s3ef87a9919",
+    "text": "La {room} n’est plus disponible du {arrival} au {departure}.",
+    "context": "message:availability.roomUnavailable"
+  },
+  {
+    "id": "s7ce62bcc05",
+    "text": "Encore libres à ces dates :",
+    "context": "message:availability.alternatives"
+  },
+  {
+    "id": "s1fac00e11f",
+    "text": "La {room} est disponible à ces dates.",
+    "context": "message:availability.roomAvailable"
+  },
+  {
+    "id": "s2faa4e0544",
+    "text": "Arrivée {arrival} · choisissez le départ",
+    "context": "message:stay.arrival"
+  },
+  {
+    "id": "sf902df8401",
+    "text": "Arrivée, départ, hôtes",
+    "context": "message:stay.empty"
+  },
+  {
+    "id": "s4bb5b7a29d",
+    "text": "Cliquez sur une date pour choisir une nouvelle arrivée.",
+    "context": "message:calendar.restart"
+  },
+  {
+    "id": "sb8a0a57ea1",
+    "text": "Dates choisies. Un nouveau clic recommence par l’arrivée.",
+    "context": "message:calendar.complete"
+  },
+  {
+    "id": "s0a163dc7ea",
+    "text": "Choisissez maintenant votre date de départ.",
+    "context": "message:calendar.chooseDeparture"
+  },
+  {
+    "id": "s811384334d",
+    "text": "Choisissez d’abord votre date d’arrivée.",
+    "context": "message:calendar.chooseArrival"
+  },
+  {
+    "id": "s4dfebf56a5",
+    "text": "Au-delà de 30 nuits, contactez la réception.",
+    "context": "message:calendar.limit"
+  },
+  {
+    "id": "s535707c762",
+    "text": "Mois précédent",
+    "context": "message:calendar.previous"
+  },
+  {
+    "id": "s7b08eaecd2",
+    "text": "Mois suivant",
+    "context": "message:calendar.next"
+  },
+  {
+    "id": "s9f8db63f95",
+    "text": "Effacer les dates",
+    "context": "message:calendar.clear"
+  },
+  {
+    "id": "s9686c29cb4",
+    "text": "Âge du bébé {number} au début du séjour",
+    "context": "message:baby.ageLabel"
+  },
+  {
+    "id": "sed29902b16",
+    "text": "Choisir l’âge",
+    "context": "message:baby.chooseAge"
+  },
+  {
+    "id": "s6b2ddd42e4",
+    "text": "Moins de 1 an",
+    "context": "message:baby.underOne"
+  },
+  {
+    "id": "sacda5f1833",
+    "text": "à préciser",
+    "context": "message:mail.unspecified"
+  },
+  {
+    "id": "sefa7e54f0c",
+    "text": "à conseiller",
+    "context": "message:mail.adviseRoom"
+  },
+  {
+    "id": "s87edadcd2a",
+    "text": "à définir",
+    "context": "message:mail.undefinedDate"
+  },
+  {
+    "id": "s30304eacd0",
+    "text": "Demande de réservation",
+    "context": "message:mail.bookingSubject"
+  },
+  {
+    "id": "s9d2326236f",
+    "text": "Bonjour, Je souhaite réserver à l’Hotel Schützen Lauterbrunnen : Arrivée : {arrival} Départ : {departure} Hôtes : {guests} Chambre souhaitée : {room} Merci et à bientôt,",
+    "context": "message:mail.bookingBody"
+  },
+  {
+    "id": "s010af3ec00",
+    "text": "Demande d’événement · Hotel Schützen Lauterbrunnen Type : {type} Personnes : {count} Date : {date} Chambres : {rooms} Contact : {name} · {email} Projet : {project}",
+    "context": "message:mail.groupBody"
+  },
+  {
+    "id": "sc1fd943345",
+    "text": "Demande d’événement · {type}",
+    "context": "message:mail.groupSubject"
+  },
+  {
+    "id": "sf3a09ef101",
+    "text": "Vos dates sont déjà notées : {arrival} → {departure}. {guests}. Vous pourrez les modifier sur la page de réservation.",
+    "context": "message:guide.savedDates"
+  },
+  {
+    "id": "s42eb6158b1",
+    "text": "Copié dans le presse-papiers",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s53a3a0ca8f",
+    "text": "Sélectionnez le texte pour le copier",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s3c188d328d",
+    "text": "Choisissez votre date de départ",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s86ab78c02e",
+    "text": "Choisissez d’abord vos dates",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s00549bf856",
+    "text": "Précisez l’âge de chaque bébé au début du séjour.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s177b10aa35",
+    "text": "Fermer le menu",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sc040c1a9b1",
+    "text": "Événement",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sc1fb46a1de",
+    "text": "Fondue de groupe",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "saae630767c",
+    "text": "Fête de famille",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sd505b3d37c",
+    "text": "Mariage ou anniversaire",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s269a4b006a",
+    "text": "Séminaire ou sortie d’entreprise",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sce84e3af1b",
+    "text": "Voyage de groupe",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s93a4bcbade",
+    "text": "Nombre de personnes",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sa685f4e5b7",
+    "text": "Date souhaitée",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s2cab2d06b2",
+    "text": "Chambres nécessaires",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "se8f8827310",
+    "text": "Aucune",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s2bcb2d7b5b",
+    "text": "Quelques chambres",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s1233da4774",
+    "text": "Tout l’hôtel",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "seccd3ba097",
+    "text": "Nom & société",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s0d01e2e866",
+    "text": "E-mail",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s7f4dc1fe42",
+    "text": "Votre projet",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s292d01627f",
+    "text": "Programme, horaires, menu, musique…",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "se37f46fe12",
+    "text": "Préparer ma demande",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s9ff293d9e3",
+    "text": "Indiquez votre nom pour préparer votre demande.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s2144e58f82",
+    "text": "Indiquez une adresse e-mail valide.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s4257ff86bb",
+    "text": "Indiquez un nombre de personnes entre 6 et 120. Pour une autre taille de groupe, contactez la réception.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sac438c7758",
+    "text": "Choisissez une date à venir ou laissez la date à définir.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s1ce5dc1175",
+    "text": "Votre demande est prête. Ouvrez votre messagerie pour la relire et l’envoyer à la réception.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s75097392b0",
+    "text": "Ouvrir ma messagerie",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s5ed9c37113",
+    "text": "Copier la demande",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s0c1bdc6520",
+    "text": "Pour chaque compagnon de voyage",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s39d8196c94",
+    "text": "Dates, voyageurs et disponibilités",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s8610c6a467",
+    "text": "Manger une fondue",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sd52cf0f00e",
+    "text": "Une question pratique",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s4d11941e09",
+    "text": "Les réponses avant de partir",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sd5a1f3002a",
+    "text": "Une échappée à deux",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s9b35f1e314",
+    "text": "Des panoramas à partager, le temps de se retrouver et le plaisir de rentrer au chalet.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s0cf8d50b0e",
+    "text": "Les Alpes en famille",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s0bf0dba70f",
+    "text": "Une idée de séjour pour les petits curieux et les grands amateurs de plein air.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sbd31300fc8",
+    "text": "Au fil des cascades",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s2c4fe18f12",
+    "text": "Un carnet d’inspiration autour de la vallée et de ses cascades, à adapter à la saison.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sdf79f9f472",
+    "text": "L’appel des sommets",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s4d4729cded",
+    "text": "Des idées de marches panoramiques, à choisir selon la saison, votre niveau et les conditions.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "see88395b20",
+    "text": "La Suisse sans voiture",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sb307474ad3",
+    "text": "Prendre le temps du train, des villages et des grands paysages.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sd5644c28fc",
+    "text": "Un hiver au chalet",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "se3092e1972",
+    "text": "Les envies de neige et de grand air, puis la chaleur d’un retour au Schützen.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sa4a338e10f",
+    "text": "La réception vous renseigne volontiers.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s114166ecb4",
+    "text": "Découvrir ce séjour",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sc96437cbf0",
+    "text": "Les idées, les étapes et les repères utiles",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s3e634e8f76",
+    "text": "Réserver mon séjour",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s8656b16c07",
+    "text": "Une autre envie",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s54c0391b11",
+    "text": "Votre tribu au Schützen",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s484768ef7f",
+    "text": "Pour plusieurs chambres, une sortie entre amis ou un groupe, dites-nous ce qui vous ferait plaisir. La réception vous aidera à préparer votre séjour.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s4f74f5fe16",
+    "text": "Voir toutes les chambres",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s1303a22b50",
+    "text": "Contacter la réception",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s2c998a7d33",
+    "text": "Votre petite pause alpine",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s791a79d69e",
+    "text": "De la place pour toute la famille",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s851326cece",
+    "text": "Un balcon pour deux",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sc4f90a2802",
+    "text": "La Familiale accueille 5 personnes. La Familiale Supérieure dispose de 6 couchages, avec un maximum de 4 adultes. Retrouvez le détail des lits et des équipements dans chaque fiche.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sb5143b387f",
+    "text": "Une chambre pour soi, avec vue sur la montagne et salle de bain privative. Découvrez ses équipements avant de choisir vos dates.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sa44f63578e",
+    "text": "Deux catégories à découvrir pour une escapade à deux. La fiche de chaque chambre vous présente la vue et les équipements.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s92f2062b7f",
+    "text": "Comparer les autres chambres",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s3da3374bfa",
+    "text": "Trouver une idée de séjour",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "scca20dc6e5",
+    "text": "Avec qui partez-vous ?",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s87021800cb",
+    "text": "Huit catégories de chambres, et autant de façons de vivre le chalet. Je vous montre quelques pistes pour votre voyage.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s5c45e493cd",
+    "text": "En solo ou en randonnée",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s2f8a290f70",
+    "text": "En groupe",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "saed9070319",
+    "text": "Voir les 8 catégories",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s0291142afc",
+    "text": "Quelle est votre envie de Suisse ?",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sd47c3fc489",
+    "text": "Choisissez une ambiance. Vous trouverez un carnet d’idées à explorer depuis le Schützen, puis un accès à la réservation.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s9975055df7",
+    "text": "Tous les séjours à imaginer",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s37c49ac209",
+    "text": "Votre prochaine escapade commence ici",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s3e450931ba",
+    "text": "Choisissez vos dates et vos voyageurs sur la page de réservation. Vous pourrez ensuite consulter les disponibilités et les tarifs auprès de nos partenaires, ou contacter la réception.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s581b461223",
+    "text": "Comparer les chambres",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s39e618a52a",
+    "text": "J’ai besoin d’inspiration",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s9947338a3c",
+    "text": "Je préfère contacter la réception",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s051ae4ffa6",
+    "text": "Un petit goût de Suisse",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s7246e7fad8",
+    "text": "Fondue, raclette, rösti… Retrouvez la carte du Restaurant Schützen et préparez votre prochaine tablée.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sa217ac3d00",
+    "text": "À table, au Schützen",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sc091543cdc",
+    "text": "Spécialités suisses, plats et boissons",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sa2e1c471a7",
+    "text": "Le petit-déjeuner",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s22036d6500",
+    "text": "Les horaires",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sef93e39668",
+    "text": "Nous venons en groupe",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sf897dd0d8e",
+    "text": "Les horaires de la table",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s1126441c54",
+    "text": "Petit-déjeuner de 7h30 à 10h, ouvert à tous. Restaurant de 11h à 21h, cuisine chaude de 12h à 20h, tous les jours.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s14e3b49942",
+    "text": "Voir le restaurant",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s926cc4b97f",
+    "text": "La carte et les spécialités",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s3b2fbeb88b",
+    "text": "Préparer une grande tablée",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s4599e35127",
+    "text": "Venez comme vous êtes",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s3e49ea7bb8",
+    "text": "Voir les horaires",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s11b7bfe779",
+    "text": "Une demande pour un groupe",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "scaf9102b71",
+    "text": "Une grande tablée, un beau souvenir",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s35a25f4566",
+    "text": "Une fondue entre amis, une fête ou une sortie de groupe ? Préparez votre demande et envoyez-la à la réception depuis votre messagerie.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "scdaa9bb776",
+    "text": "Préparer ma demande de groupe",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s1663efb36d",
+    "text": "Découvrir le restaurant",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s62d155af1b",
+    "text": "Bien commencer la journée",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s3d63fb77e6",
+    "text": "Le petit-déjeuner et les horaires",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "scd5577325a",
+    "text": "On vous attend à Lauterbrunnen",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s099e7e2db8",
+    "text": "Plan et itinéraire",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s3440a1b6aa",
+    "text": "Horaires des trains CFF",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s643fa948a0",
+    "text": "Je viens en voiture",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sdffcb6355c",
+    "text": "Un séjour sans voiture",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s8f941c78db",
+    "text": "Les petits détails qui changent tout",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sb1f22eb4d8",
+    "text": "Voici les réponses pour arriver l’esprit tranquille. Pour une demande particulière, la réception vous renseigne directement.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s3e6e363b34",
+    "text": "Voyager avec des enfants",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sa4085cd122",
+    "text": "Toutes les questions fréquentes",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s022c545e0d",
+    "text": "Votre arrivée au chalet",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sf575010210",
+    "text": "Les informations pratiques",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sda6eabc33a",
+    "text": "Prévenir la réception",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s22071ddb4e",
+    "text": "Venir en voiture",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s9dcd57c862",
+    "text": "Voir le plan d’accès",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s31480d0199",
+    "text": "À quelle heure arriver ?",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "seefdd54865",
+    "text": "Et votre compagnon à quatre pattes ?",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s7b6d12dc7c",
+    "text": "Une question pour la réception",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sff0a96b983",
+    "text": "Les petits aussi ont leur place",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s59f4047d59",
+    "text": "Voir les chambres familiales",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s8fc7c93478",
+    "text": "Nos idées en famille",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sc39558b28a",
+    "text": "Chaque saison a sa carte postale",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "seeb73f344e",
+    "text": "Grand air, balades ou envies de neige : choisissez votre ambiance. Les idées de séjour précisent les saisons et les informations à vérifier avant de partir.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s1c1b9eae48",
+    "text": "Explorer les idées de séjour",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s419696013d",
+    "text": "Les incontournables de la vallée",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s38167f0461",
+    "text": "Garder le lien, même au chalet",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s768522c830",
+    "text": "Le Wi-Fi est offert dans l’hôtel.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sb83fcd6309",
+    "text": "Les équipements des chambres",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s2c1e3c75eb",
+    "text": "Une autre question",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sf592298ea5",
+    "text": "Préparer un accueil adapté",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s9c53d1bfec",
+    "text": "Décrivez vos besoins à la réception pour vérifier ensemble les accès et la chambre qui vous conviendra.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s9640ad7451",
+    "text": "Écrire à l’hôtel",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sed58b0312f",
+    "text": "Un mot à la réception",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sfd121f9248",
+    "text": "L’équipe du Schützen vous renseigne pour une question particulière ou une réservation en direct.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sf10a726957",
+    "text": "Écrire un e-mail",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s617941370b",
+    "text": "Préparer ma réservation en ligne",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s4b70d1cb4d",
+    "text": "Le Chalet Grosshorn",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sfbad78f099",
+    "text": "Retrouvez les informations de l’appartement dans le catalogue. La réception vous renseignera sur votre projet.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s56e25eb0fc",
+    "text": "Découvrir les hébergements",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s00b6dccf72",
+    "text": "Écrire à la réception",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s91dcb30554",
+    "text": "Au rythme de la région",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s35c08329c5",
+    "text": "Retrouvez les temps forts et les inspirations dans la vallée. La réception vous renseigne sur les rendez-vous de votre séjour.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sbd2c000b61",
+    "text": "Explorer la vallée",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s91ce5a7e73",
+    "text": "Demander à la réception",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sadc8d53583",
+    "text": "À bientôt, au Schützen !",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "se55b55a907",
+    "text": "Avec plaisir. Un dernier détail à préparer avant de partir ?",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sc8accbae59",
+    "text": "Garder une idée de séjour",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s647483e84c",
+    "text": "Trouvons le bon interlocuteur",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s73af0dfc7f",
+    "text": "Je vous oriente à partir des informations du site. Pour cette question, la réception pourra vous répondre précisément. Vous pouvez aussi choisir un sujet ci-dessous.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s225350bc3f",
+    "text": "Question pour mon séjour",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s3c5014fded",
+    "text": "(nouvel onglet)",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sc4ba16f8d6",
+    "text": "Grüezi, bonjour !",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sf5ca18f87a",
+    "text": "Bienvenue dans votre Concierge en ligne. Une chambre, une fondue ou une envie d’Alpes ? Choisissez, je vous oriente.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sdfc7d49577",
+    "text": "Revenir aux choix de départ",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sbb1c01efc3",
+    "text": "Votre conversation",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "sa4beab7f71",
+    "text": "Choisissez une chambre, un séjour, une réservation, le restaurant, votre arrivée ou les informations pratiques.",
+    "context": "public/js/site.js"
+  },
+  {
+    "id": "s2fb13759e7",
+    "text": "Retirer du carnet",
+    "context": "src/experience.js"
+  },
+  {
+    "id": "sef74939058",
+    "text": "ce séjour",
+    "context": "src/experience.js"
+  },
+  {
+    "id": "s2643e2be54",
+    "text": "Dans mon carnet",
+    "context": "src/experience.js"
+  },
+  {
+    "id": "se4622559de",
+    "text": "Mon carnet{0}",
+    "context": "src/experience.js"
+  },
+  {
+    "id": "se9cd239392",
+    "text": "{0} idée{1} {2}",
+    "context": "src/experience.js"
+  },
+  {
+    "id": "s6d84c741d2",
+    "text": "dans votre carnet",
+    "context": "src/experience.js"
+  },
+  {
+    "id": "s200688f8c0",
+    "text": "à découvrir",
+    "context": "src/experience.js"
+  },
+  {
+    "id": "s1cec7ca5db",
+    "text": "Idée gardée dans votre carnet, sur cet appareil.",
+    "context": "src/experience.js"
+  },
+  {
+    "id": "sd6659b19fc",
+    "text": "Idée gardée pour cette visite.",
+    "context": "src/experience.js"
+  },
+  {
+    "id": "s7415a0f1bc",
+    "text": "Idée retirée de votre carnet.",
+    "context": "src/experience.js"
+  },
+  {
+    "id": "se5a215dfec",
+    "text": "Arrêter cette petite surprise",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "se311e08401",
+    "text": "Demander la patte au Saint-Bernard",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s5f631b4b96",
+    "text": "Tope là !",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s56f6c569b1",
+    "text": "Laisser le Saint-Bernard reposer sa patte",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s28322db319",
+    "text": "Faire meugler la vache (son)",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s2f7de0f03c",
+    "text": "Meuh… bienvenue !",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s45b6f3cf45",
+    "text": "Arrêter le meuglement de la vache",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s0474c04226",
+    "text": "Faire tinter la cloche d’alpage (son)",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s805d145b56",
+    "text": "L’appel des alpages !",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "sf56c6e3179",
+    "text": "Arrêter le tintement de la cloche",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s69894c4e02",
+    "text": "Faire monter le téléphérique",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s9b2f663fd1",
+    "text": "Prochain arrêt : les nuages.",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s6a047b10a6",
+    "text": "Faire partir le petit train (son)",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s89e582a913",
+    "text": "Un aller simple pour le grand air.",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "sc3a805c4be",
+    "text": "Faire fleurir les géraniums",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "sd21500fbe9",
+    "text": "Un petit bouquet pour vous.",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s832ee42e9b",
+    "text": "Révéler la constellation de l’edelweiss",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s4d1467393e",
+    "text": "Une étoile tombée des Alpes.",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s0dd200fe1d",
+    "text": "Faire marcher les chaussures de randonnée",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s5d63535f41",
+    "text": "Les chaussures sont déjà parties !",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "sec053a5e60",
+    "text": "Lancer la luge dans la neige",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s5041086fc2",
+    "text": "Schuss… et chocolat chaud à l’arrivée !",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s9bc6256248",
+    "text": "Faire résonner le cor des Alpes (son)",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "sd0b91ef684",
+    "text": "Allô les sommets ? Ici le Schützen.",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "sb5269ecdeb",
+    "text": "Faire trinquer la tablée de fondue (son)",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s4b79319e1d",
+    "text": "Santé ! Et gare au pain dans la fondue.",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s8877767526",
+    "text": "Recevoir le petit courrier du postier",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "sf287bdc76d",
+    "text": "Un bisou suisse, affranchi avec soin.",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s053261081b",
+    "text": "Faire danser les lettres « Notre restaurant »",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "sf189893887",
+    "text": "À taaable !",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s616e5a6653",
+    "text": "Recevoir un clin d’œil du concierge",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s5516ce1465",
+    "text": "Entre nous… le chien connaît tous les secrets.",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s79e7dbff54",
+    "text": "Une petite caresse ?",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "s2df61bea84",
+    "text": "Un petit secret entre nous.",
+    "context": "src/easter-eggs.js"
+  },
+  {
+    "id": "sa22abc845b",
+    "text": "GRAND",
+    "context": "src/easter-scenes.js"
+  },
+  {
+    "id": "s8bdc6249aa",
+    "text": "AIR",
+    "context": "src/easter-scenes.js"
+  },
+  {
+    "id": "s55e93947eb",
+    "text": "Un petit nuage dans le bol.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s6d851a9aaa",
+    "text": "Les feuilles prennent le large !",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sf633b96e4e",
+    "text": "Le basilic fait son numéro.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sa77579b71d",
+    "text": "Le berger a semé de la bonne humeur.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "se8042c9b4b",
+    "text": "Une salade qui bat des feuilles.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s45a2f5b614",
+    "text": "Crousti-clic !",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s6cf53b6209",
+    "text": "Qui a perdu son pain ?",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sb2d2fca06d",
+    "text": "Le fromage prend ses aises.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sd0b0c912fc",
+    "text": "Le rösti fait sa révérence.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s0a9c16a9b3",
+    "text": "Casimir chauffe la piste !",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s7b2d5a8c80",
+    "text": "Les légumes ont le rösti dans la peau.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "saf1de6b917",
+    "text": "La pause qui fait « mmmh ».",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s6eeae36279",
+    "text": "Le fil rouge ? Le fromage.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s39ee57ab11",
+    "text": "Chaud devant, sommets derrière !",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s9e7a391cac",
+    "text": "Un petit pas de pané.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s855b1c80a3",
+    "text": "La perche fait des vagues.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s67b25552ea",
+    "text": "Le saumon remonte à table.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "saaece98712",
+    "text": "Le burger a du ressort.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sa4de5b7ebd",
+    "text": "Sésame, ouvre-toi !",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sc4bbe9c4c2",
+    "text": "Un étage de bonheur en plus.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s76ea384b4e",
+    "text": "Ce poulet sait rebondir.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s165f66685f",
+    "text": "Le potager fait son grand saut.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s9470fd04fb",
+    "text": "Une petite valse alsacienne.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s02a927048c",
+    "text": "La roquette entre en piste.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s9b2aaddb2b",
+    "text": "Le saumon mène la danse.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s3d0ef6f1b6",
+    "text": "Le jardin s’est fait un câlin.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sf93d300628",
+    "text": "Bien roulé, bien joué !",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s685b8eedbe",
+    "text": "La jungle a rendez-vous à table.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sfdbe236b32",
+    "text": "Petits poissons, grande aventure.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s98a11447ee",
+    "text": "La cascade fait une pause.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s1573a63e77",
+    "text": "Le thé a mis ses glaçons.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s7569124d3d",
+    "text": "Un petit plouf de couleur !",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s13a48085d7",
+    "text": "Les bulles prennent de l’altitude.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s5756414900",
+    "text": "Un petit nuage de mousse.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sb7052ceaf7",
+    "text": "La pomme a le cœur pétillant.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s6839dffd28",
+    "text": "À vos Alpes !",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s095e4af8d8",
+    "text": "La vie voit les Alpes en rose.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s460b2842aa",
+    "text": "On trinque aux beaux détours.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s37624ad249",
+    "text": "Tchin, tchin, les voisins !",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s9c06085fec",
+    "text": "La prune fait son petit salut.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s01335aa17e",
+    "text": "Les fruits lèvent leur verre.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sce5409b86d",
+    "text": "Un câlin qui se boit.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s17f237d198",
+    "text": "Le café a le cœur chaud.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s8043acde2a",
+    "text": "Le café s’est mis sur son trente-et-un.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "scfd64cbbfb",
+    "text": "Le café part aux sports d’hiver.",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s4b5eecd5b7",
+    "text": "Étirer le fromage",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s775c39ae55",
+    "text": "Faire danser les feuilles",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s85b70ad48a",
+    "text": "Faire apparaître un nuage gourmand",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s3201ec3b3e",
+    "text": "Faire rebondir le burger",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s0e33b0f48a",
+    "text": "Faire valser la tarte",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s913b97e8fa",
+    "text": "Faire pétiller la photo",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s37fb9ba995",
+    "text": "Faire danser les glaçons",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "s8e0656a724",
+    "text": "Trinquer avec la photo",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sab6cd92e03",
+    "text": "Faire apparaître un cœur de vapeur",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sf1d3d60eb8",
+    "text": "Arrêter la surprise : {0}",
+    "context": "src/menu-easter-eggs.js"
+  },
+  {
+    "id": "sf717a2743a",
+    "text": "{count} adulte",
+    "context": "message:guests.adults.one"
+  },
+  {
+    "id": "s7a49aa7f69",
+    "text": "{count} adultes",
+    "context": "message:guests.adults.other"
+  },
+  {
+    "id": "s24e14ac2f6",
+    "text": "{count} chambre",
+    "context": "message:guests.rooms.one"
+  },
+  {
+    "id": "s03f68a1dfe",
+    "text": "{count} chambres",
+    "context": "message:guests.rooms.other"
+  },
+  {
+    "id": "s993f9c4e80",
+    "text": "{count} personne",
+    "context": "message:guests.people.one"
+  },
+  {
+    "id": "s3139d7e7bc",
+    "text": "{count} personnes",
+    "context": "message:guests.people.other"
+  },
+  {
+    "id": "s10e290264f",
+    "text": "{count} nuit",
+    "context": "message:stay.nights.one"
+  },
+  {
+    "id": "s4d1e8f393a",
+    "text": "{count} nuits",
+    "context": "message:stay.nights.other"
+  },
+  {
+    "id": "s553baa27dd",
+    "text": "{count} an",
+    "context": "message:age.years.one"
+  },
+  {
+    "id": "s80ceb9ce86",
+    "text": "{count} ans",
+    "context": "message:age.years.other"
+  },
+  {
+    "id": "sef61e751fa",
+    "text": "{arrival} → {departure} · {nights}",
+    "context": "message:stay.dates"
+  },
+  {
+    "id": "s4061522c28",
+    "text": "{arrival} → {departure} · {guests}",
+    "context": "message:stay.mobile"
+  },
+  {
+    "id": "s6a94eff34d",
+    "text": "{type}, {people}",
+    "context": "message:group.summary"
+  },
+  {
+    "id": "s2b77aa7570",
+    "text": "{count} idée à découvrir",
+    "context": "message:stay.ideas.one"
+  },
+  {
+    "id": "s2d2305566d",
+    "text": "{count} idées à découvrir",
+    "context": "message:stay.ideas.other"
+  },
+  {
+    "id": "s6d7522bebc",
+    "text": "{count} idée dans votre carnet",
+    "context": "message:stay.savedIdeas.one"
+  },
+  {
+    "id": "s626aeb8d66",
+    "text": "{count} idées dans votre carnet",
+    "context": "message:stay.savedIdeas.other"
+  },
+  {
+    "id": "s1c26a7b51e",
+    "text": "Choisir la langue",
+    "context": "message:language.label"
+  },
+  {
+    "id": "se90c7e3c76",
+    "text": "Langues",
+    "context": "message:language.heading"
+  },
+  {
+    "id": "s5affabb1f4",
+    "text": "Fermer le choix de langue",
+    "context": "message:language.close"
+  }
+]

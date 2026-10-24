@@ -1,0 +1,54 @@
+{
+  "languages": {
+    "fr": {
+      "locale": "fr-CH",
+      "translated": 1380,
+      "expected": 1380,
+      "missing": []
+    },
+    "de": {
+      "locale": "de-CH",
+      "translated": 1380,
+      "expected": 1380,
+      "missing": []
+    },
+    "en": {
+      "locale": "en-GB",
+      "translated": 1380,
+      "expected": 1380,
+      "missing": []
+    },
+    "zh": {
+      "locale": "zh-Hans",
+      "translated": 1380,
+      "expected": 1380,
+      "missing": []
+    },
+    "ru": {
+      "locale": "ru",
+      "translated": 1380,
+      "expected": 1380,
+      "missing": []
+    },
+    "ko": {
+      "locale": "ko",
+      "translated": 1380,
+      "expected": 1380,
+      "missing": []
+    },
+    "it": {
+      "locale": "it",
+      "translated": 1380,
+      "expected": 1380,
+      "missing": []
+    },
+    "es": {
+      "locale": "es",
+      "translated": 1380,
+      "expected": 1380,
+      "missing": []
+    }
+  },
+  "pageCount": 64,
+  "origin": "https://schuetzen-lauterbrunnen-atelier.thibault-ds.chatgpt.site"
+}

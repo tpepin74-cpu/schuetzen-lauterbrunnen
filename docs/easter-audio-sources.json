@@ -1,0 +1,46 @@
+{
+  "asset": "public/assets/easter/cow-moo.mp3",
+  "purpose": "User-triggered cow photo Easter egg; never autoplay or loop.",
+  "title": "Cow moos #4",
+  "author": "Joseph SARDIN",
+  "source_page": "https://bigsoundbank.com/cow-moos-4-s2384.html",
+  "source_media": "https://bigsoundbank.com/UPLOAD/mp3/2384.mp3",
+  "license": "CC0 1.0 Universal / public-domain equivalent, as explicitly stated on source page",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "publisher_license_page": "https://bigsoundbank.com/licenses.html",
+  "verified_on": "2026-10-24",
+  "source_description": "Real outdoor recording of a single cow moo, not a voice imitation or generated sound.",
+  "source_sha256": "b2ae06a22ae9d8bf59df12d02da8c744d2a3ce86c9f2442d346a5b2304e8e05b",
+  "processing": {
+    "gain_db": -7.5,
+    "fade_in_seconds": 0.008,
+    "fade_out_start_seconds": 2.74,
+    "fade_out_duration_seconds": 0.14,
+    "channels": 1,
+    "sample_rate_hz": 44100,
+    "encoder": "libmp3lame",
+    "bitrate_kbps": 96,
+    "metadata_removed": true,
+    "content_duration_seconds": 2.88,
+    "mp3_container_duration_seconds": 2.925714,
+    "decoded_peak_dbfs": -8.0,
+    "decoded_mean_dbfs": -20.9
+  },
+  "bytes": 35467,
+  "sha256": "88d22a553f5998cfb5703539141786cc9187306f68abac7ea245eba220cd3e86",
+  "verification": [
+    "Original source page and CC0/commercial/editing/redistribution permission checked with web retrieval.",
+    "Downloaded actual embedded media URL over HTTPS.",
+    "Successful ffmpeg decoding and MP3 re-encoding.",
+    "ffprobe confirms mono 44.1 kHz, duration and file size.",
+    "ffmpeg volumedetect confirms output peak below -6 dBFS.",
+    "Audio listening was not available in this agent runtime; no subjective auditory quality claim is made."
+  ],
+  "recommended_playback": {
+    "volume": 0.65,
+    "loop": false,
+    "preload": "none",
+    "start": "direct user click or keyboard activation",
+    "concurrency": "stop or suppress prior sound; avoid stacked playback"
+  }
+}

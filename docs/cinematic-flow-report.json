@@ -1,0 +1,240 @@
+[
+  {
+    "mobile": false,
+    "from": "approach",
+    "to": "steps-low",
+    "forward": {
+      "matches": 230,
+      "inliers": 182,
+      "seed": "homography",
+      "magnitude_p90": 0.0688
+    },
+    "backward": {
+      "matches": 216,
+      "inliers": 176,
+      "seed": "homography",
+      "magnitude_p90": 0.0907
+    }
+  },
+  {
+    "mobile": false,
+    "from": "steps-low",
+    "to": "steps-high",
+    "forward": {
+      "matches": 156,
+      "inliers": 77,
+      "seed": "homography",
+      "magnitude_p90": 0.0852
+    },
+    "backward": {
+      "matches": 174,
+      "inliers": 85,
+      "seed": "homography",
+      "magnitude_p90": 0.0604
+    }
+  },
+  {
+    "mobile": false,
+    "from": "steps-high",
+    "to": "landing",
+    "forward": {
+      "matches": 56,
+      "inliers": 19,
+      "seed": "homography",
+      "magnitude_p90": 0.2918
+    },
+    "backward": {
+      "matches": 46,
+      "inliers": 22,
+      "seed": "homography",
+      "magnitude_p90": 0.2299
+    }
+  },
+  {
+    "mobile": false,
+    "from": "landing",
+    "to": "terrace-turn",
+    "forward": {
+      "matches": 23,
+      "inliers": 7,
+      "seed": "zero",
+      "magnitude_p90": 0.1615
+    },
+    "backward": {
+      "matches": 40,
+      "inliers": 11,
+      "seed": "homography",
+      "magnitude_p90": 0.1544
+    }
+  },
+  {
+    "mobile": false,
+    "from": "terrace-turn",
+    "to": "table-wide",
+    "forward": {
+      "matches": 8,
+      "inliers": 5,
+      "seed": "zero",
+      "magnitude_p90": 0.2078
+    },
+    "backward": {
+      "matches": 16,
+      "inliers": 6,
+      "seed": "zero",
+      "magnitude_p90": 0.1534
+    }
+  },
+  {
+    "mobile": false,
+    "from": "table-wide",
+    "to": "table-approach",
+    "forward": {
+      "matches": 794,
+      "inliers": 643,
+      "seed": "homography",
+      "magnitude_p90": 0.0605
+    },
+    "backward": {
+      "matches": 810,
+      "inliers": 658,
+      "seed": "homography",
+      "magnitude_p90": 0.0705
+    }
+  },
+  {
+    "mobile": false,
+    "from": "table-approach",
+    "to": "fondue",
+    "forward": {
+      "matches": 569,
+      "inliers": 287,
+      "seed": "homography",
+      "magnitude_p90": 0.1234
+    },
+    "backward": {
+      "matches": 581,
+      "inliers": 303,
+      "seed": "homography",
+      "magnitude_p90": 0.0947
+    }
+  },
+  {
+    "mobile": true,
+    "from": "approach",
+    "to": "steps-low",
+    "forward": {
+      "matches": 258,
+      "inliers": 218,
+      "seed": "homography",
+      "magnitude_p90": 0.0845
+    },
+    "backward": {
+      "matches": 272,
+      "inliers": 216,
+      "seed": "homography",
+      "magnitude_p90": 0.1249
+    }
+  },
+  {
+    "mobile": true,
+    "from": "steps-low",
+    "to": "steps-high",
+    "forward": {
+      "matches": 192,
+      "inliers": 90,
+      "seed": "homography",
+      "magnitude_p90": 0.0677
+    },
+    "backward": {
+      "matches": 213,
+      "inliers": 107,
+      "seed": "homography",
+      "magnitude_p90": 0.1139
+    }
+  },
+  {
+    "mobile": true,
+    "from": "steps-high",
+    "to": "landing",
+    "forward": {
+      "matches": 52,
+      "inliers": 21,
+      "seed": "homography",
+      "magnitude_p90": 0.4741
+    },
+    "backward": {
+      "matches": 54,
+      "inliers": 22,
+      "seed": "homography",
+      "magnitude_p90": 0.5038
+    }
+  },
+  {
+    "mobile": true,
+    "from": "landing",
+    "to": "terrace-turn",
+    "forward": {
+      "matches": 21,
+      "inliers": 6,
+      "seed": "zero",
+      "magnitude_p90": 0.1593
+    },
+    "backward": {
+      "matches": 23,
+      "inliers": 5,
+      "seed": "zero",
+      "magnitude_p90": 0.2095
+    }
+  },
+  {
+    "mobile": true,
+    "from": "terrace-turn",
+    "to": "table-wide",
+    "forward": {
+      "matches": 18,
+      "inliers": 6,
+      "seed": "zero",
+      "magnitude_p90": 0.1862
+    },
+    "backward": {
+      "matches": 14,
+      "inliers": 4,
+      "seed": "zero",
+      "magnitude_p90": 0.2411
+    }
+  },
+  {
+    "mobile": true,
+    "from": "table-wide",
+    "to": "table-approach",
+    "forward": {
+      "matches": 1090,
+      "inliers": 875,
+      "seed": "homography",
+      "magnitude_p90": 0.0443
+    },
+    "backward": {
+      "matches": 1088,
+      "inliers": 808,
+      "seed": "homography",
+      "magnitude_p90": 0.0447
+    }
+  },
+  {
+    "mobile": true,
+    "from": "table-approach",
+    "to": "fondue",
+    "forward": {
+      "matches": 1194,
+      "inliers": 982,
+      "seed": "homography",
+      "magnitude_p90": 0.0877
+    },
+    "backward": {
+      "matches": 1206,
+      "inliers": 1016,
+      "seed": "homography",
+      "magnitude_p90": 0.0946
+    }
+  }
+]

@@ -1,0 +1,261 @@
+{
+  "assets": [
+    {
+      "id": "soupe-patate-douce",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject: One white ceramic bowl of creamy orange sweet potato soup made with coconut milk, a delicate natural coconut cream swirl, no meat, accompanied by no additional props.",
+      "reference": null,
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-7c0e8904-2319-46fa-8780-7a8e15513641.png",
+      "destination": "public/assets/menu/soupe-patate-douce.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 585,
+      "bytes": 67482,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.406,
+      "visually_inspected": true
+    },
+    {
+      "id": "salad-bowl",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject: One shallow white ceramic bowl of fresh mixed green leafy salad, dressed with seed vinaigrette; visible pumpkin and sunflower seeds, lively natural green leaves, completely vegan, no cheese, no egg, no meat.",
+      "reference": null,
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-1992734b-0fab-4538-bdad-a29bd1a4cad9.png",
+      "destination": "public/assets/menu/salad-bowl.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 427,
+      "bytes": 76652,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.411,
+      "visually_inspected": true
+    },
+    {
+      "id": "caprese",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject: One white ceramic plate with ripe tomato slices and fresh white mozzarella, basil leaves, and two small pieces of basil-topped grilled bread. Traditional caprese presentation, natural olive oil sheen.",
+      "reference": null,
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-06550aac-b12e-4b91-b9bf-a4cc0d723eb8.png",
+      "destination": "public/assets/menu/caprese.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 585,
+      "bytes": 99936,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.377,
+      "visually_inspected": true
+    },
+    {
+      "id": "salade-berger",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject: One white ceramic shallow bowl of Swiss shepherd salad: tomato, cucumber, dark olives, red and yellow bell pepper, thin red onion and feta cubes. Generous colorful crisp vegetables, no meat.",
+      "reference": null,
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-c3503cd1-5789-4124-abc2-7b56563c926e.png",
+      "destination": "public/assets/menu/salade-berger.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 585,
+      "bytes": 102480,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.339,
+      "visually_inspected": true
+    },
+    {
+      "id": "salade-poulet",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject: One white ceramic shallow bowl with warm sliced grilled chicken on fresh lettuce, pieces of orange melon, and thin Swiss cheese shavings. Ingredients clearly visible and naturally arranged, no additional ingredients.",
+      "reference": null,
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-b67d473b-e967-47d3-96b0-74f361cdc8e7.png",
+      "destination": "public/assets/menu/salade-poulet.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 427,
+      "bytes": 65324,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.349,
+      "visually_inspected": true
+    },
+    {
+      "id": "frites",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject:  No broad glowing halo or drop shadow around the cutout; only a narrow opaque white paper edge and transparent pixels outside it. One white ceramic shallow bowl filled with a generous portion of golden crispy French fries, no dipping sauces or extra food.",
+      "reference": null,
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-7bfb1a34-723f-4098-8263-3545d1ef890e.png",
+      "destination": "public/assets/menu/frites.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 427,
+      "bytes": 59402,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.409,
+      "visually_inspected": true
+    },
+    {
+      "id": "fondue",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject:  No broad glowing halo or drop shadow around the cutout; only a narrow opaque white paper edge and transparent pixels outside it. Traditional Swiss cheese fondue in a dark red caquelon on a small metal warmer, realistic smooth melted cheese, alongside a modest matching bowl of bread cubes and a tiny side dish of pickled onions, cornichons and baby corn. Image 1 is a reference for the actual restaurant's caquelon and cheese appearance, not for its people, table or background: retain the authentic dark red pot and creamy texture but make a clean compact menu product photograph. No hands, no suspended fork, no people. Entire pot handle and supporting warmer fully inside image.",
+      "reference": "/workspace/scratch/da58fe833176/schuetzen-journey/public/img/sch-fondue-3.webp",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-920cf610-a77b-4fcc-9a2c-2180821caf90.png",
+      "destination": "public/assets/menu/fondue.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 464,
+      "bytes": 72450,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.352,
+      "visually_inspected": true
+    },
+    {
+      "id": "raclette",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject:  No broad glowing halo or drop shadow around the cutout; only a narrow opaque white paper edge and transparent pixels outside it. Swiss raclette potatoes blanketed in melted raclette cheese in a small rustic black pan on a simple wooden trivet, with a cornichon, pearl onions and baby corn. Image 1 is an authentic food presentation reference: match its generous cheese-and-potatoes look and black serving pan; remove surroundings and people, rephotograph as the isolated menu cutout. Pan handle and wooden board entirely within frame.",
+      "reference": "/workspace/scratch/da58fe833176/schuetzen-journey/public/img/sch-raclette.webp",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-6f95a278-afa4-43a0-b8e2-9472b9cbb55a.png",
+      "destination": "public/assets/menu/raclette.webp",
+      "tool": "image_gen",
+      "width": 616,
+      "height": 640,
+      "bytes": 102642,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.298,
+      "visually_inspected": true
+    },
+    {
+      "id": "rosti-paysan",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject:  No broad glowing halo or drop shadow around the cutout; only a narrow opaque white paper edge and transparent pixels outside it. Swiss farmer rösti: golden shredded potato pancake, roasted onions, bacon, melted raclette cheese and one sunny-side fried egg on top, on a rustic gray ceramic plate. Image 1 is reference for actual restaurant's dish; match these ingredients and plate, with professional warm neutral light. Isolate from its surroundings. Include entire plate.",
+      "reference": "/workspace/scratch/da58fe833176/schuetzen-journey/public/img/sch-rosti.webp",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-0d61c0a3-c62b-4682-b616-63e27330dbce.png",
+      "destination": "public/assets/menu/rosti-paysan.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 585,
+      "bytes": 121222,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.221,
+      "visually_inspected": true
+    },
+    {
+      "id": "rosti-casimir",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject:  No broad glowing halo or drop shadow around the cutout; only a narrow opaque white paper edge and transparent pixels outside it. One white ceramic plate with a golden crispy ring of Swiss shredded potato rösti, with creamy yellow curry sauce and sliced chicken in its central well. No rice, no fried egg, no sausage. Authentic Swiss curry rösti, no fruit garnish.",
+      "reference": null,
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-aa1587ab-51b2-4a90-bce5-613f21f000e8.png",
+      "destination": "public/assets/menu/rosti-casimir.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 585,
+      "bytes": 111818,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.318,
+      "visually_inspected": true
+    },
+    {
+      "id": "rosti-legumes",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject:  No broad glowing halo or drop shadow around the cutout; only a narrow opaque white paper edge and transparent pixels outside it. One white ceramic plate of a crispy golden Swiss shredded potato rösti pancake topped with colorful cooked vegetables and generous slices of soft camembert cheese, slightly melted. Clearly vegetarian, no bacon, no meat or egg.",
+      "reference": null,
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-085852e7-50a8-499f-a4c6-b27cf2b3df68.png",
+      "destination": "public/assets/menu/rosti-legumes.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 427,
+      "bytes": 95818,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.25,
+      "visually_inspected": true
+    },
+    {
+      "id": "bratwurst",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject:  No broad glowing halo or drop shadow around the cutout; only a narrow opaque white paper edge and transparent pixels outside it. One large grilled Swiss bratwurst sausage in rich brown onion gravy beside a crisp golden potato rösti on a white ceramic plate. Image 1 is reference of the actual restaurant dish, keep its authentic sausage, onion sauce and golden rösti presentation, rephotograph it with warm neutral light and isolate the entire plate. No utensils, no table, no cloth.",
+      "reference": "/workspace/scratch/da58fe833176/schuetzen-journey/public/img/sch-saucisse.webp",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-110b24c3-9c65-4b17-b1af-2d819f68e309.png",
+      "destination": "public/assets/menu/bratwurst.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 585,
+      "bytes": 85200,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.247,
+      "visually_inspected": true
+    },
+    {
+      "id": "macaronis",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject:  No broad glowing halo or drop shadow around the cutout; only a narrow opaque white paper edge and transparent pixels outside it. One white ceramic deep plate of traditional Swiss Älplermagronen: small macaroni pasta mixed with diced potatoes, bacon pieces and melted alpine cheese. Naturally creamy golden pasta, appetizing unpretentious chalet serving, no extra side dishes.",
+      "reference": null,
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-f8060952-ccd2-4ffa-a559-01cdd593d72d.png",
+      "destination": "public/assets/menu/macaronis.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 585,
+      "bytes": 87486,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.372,
+      "visually_inspected": true
+    },
+    {
+      "id": "pierre-chaude",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject:  No broad glowing halo or drop shadow around the cutout; only a narrow opaque white paper edge and transparent pixels outside it. Swiss restaurant hot stone steak serving: a thick 250 gram beef entrecôte lightly seared on a small rectangular black lava cooking stone set into a simple light wooden serving tray, accompanied by a modest bowl of golden fries and a small portion of cooked seasonal vegetables. Compact realistic restaurant portion, steak ready to finish cooking at the table; no hands, no cutlery, no extreme steam. All elements contained together as one isolated photo cutout, no table or background.",
+      "reference": null,
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-5c78d7a6-1c32-4cb2-9844-e9741bb6a462.png",
+      "destination": "public/assets/menu/pierre-chaude.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 427,
+      "bytes": 71914,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.45,
+      "visually_inspected": true
+    },
+    {
+      "id": "schnitzel",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a Swiss chalet hotel website. Create one ultra photorealistic serving, with believable natural food texture and warm neutral daylight, crisp professional food photography (not an illustration or 3D render). Three-quarter slightly overhead view. Entire ceramic serving plate or bowl fully inside the frame, centered with 9% padding. Isolate the serving as a paper photograph cutout with a thin slightly hand-cut WHITE paper border following its silhouette. Actual transparent alpha background, no rectangular backdrop, no checkerboard painted in, no tabletop, no hands, no text, no logos, no watermark. Keep the food realistically appetizing, naturally colored, with a consistent white ceramic plate and soft left-side light. Subject:  No broad glowing halo or drop shadow around the cutout; only a narrow opaque white paper edge and transparent pixels outside it. One white ceramic plate of breaded pork schnitzel with crisp golden textured breadcrumbs, served beside a portion of golden French fries. A small natural lemon wedge is permitted. Authentic Swiss chalet restaurant plating, no sauce, no salad, no other meat.",
+      "reference": null,
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-1d376b45-1a9c-4cda-9a5f-9774d4bab49b.png",
+      "destination": "public/assets/menu/schnitzel.webp",
+      "tool": "image_gen",
+      "width": 640,
+      "height": 427,
+      "bytes": 81294,
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.314,
+      "visually_inspected": true
+    }
+  ],
+  "method": "15 individual built-in image_gen calls; no CLI or API fallback; resize only to 640px long edge and WebP quality 84, preserving generated alpha.",
+  "verification": "All 15 optimized WebP files were visually inspected with view_image. All have alpha extrema 0–255, fully transparent exterior regions and white cutout edges. Listed ingredients and reference dishes checked."
+}

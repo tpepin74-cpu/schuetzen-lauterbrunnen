@@ -1,0 +1,5347 @@
+[
+  {
+    "id": "sbdd1531db4",
+    "text": "Hotel Schützen Lauterbrunnen · Chalet-hôtel face au Staubbach, Jungfrau Region",
+    "context": "index: title"
+  },
+  {
+    "id": "se131e24453",
+    "text": "Chalet-hôtel de 25 chambres au cœur de Lauterbrunnen, face à la chute du Staubbach. Restaurant suisse depuis 1671, ouvert tous les jours : fondue, raclette, rösti, terrasse et cheminée.",
+    "context": "index: SEO"
+  },
+  {
+    "id": "sba1ca9d5bb",
+    "text": "Aller au contenu",
+    "context": "index: a.skip"
+  },
+  {
+    "id": "s5ab7efda99",
+    "text": "Hotel Schützen Lauterbrunnen, accueil",
+    "context": "index: img.logo @alt"
+  },
+  {
+    "id": "se86ef4d5ee",
+    "text": "Menu principal",
+    "context": "index: nav.top__nav @aria-label"
+  },
+  {
+    "id": "sa8ff8fd207",
+    "text": "Accueil",
+    "context": "index: a"
+  },
+  {
+    "id": "sed5b95f744",
+    "text": "Chambres",
+    "context": "index: a"
+  },
+  {
+    "id": "s3585d7553d",
+    "text": "Restaurant",
+    "context": "index: a"
+  },
+  {
+    "id": "s8aa11e9170",
+    "text": "Idées de séjour",
+    "context": "index: a"
+  },
+  {
+    "id": "sc256ea3151",
+    "text": "La vallée",
+    "context": "index: a"
+  },
+  {
+    "id": "s67ae760e6f",
+    "text": "Le chalet",
+    "context": "index: a"
+  },
+  {
+    "id": "s1a38e52b9f",
+    "text": "Infos & accès",
+    "context": "index: a"
+  },
+  {
+    "id": "s254b0ae170",
+    "text": "Réserver",
+    "context": "index: span"
+  },
+  {
+    "id": "s57f5f5efbc",
+    "text": "Menu",
+    "context": "index: button.top__menu @aria-label"
+  },
+  {
+    "id": "sc93d320031",
+    "text": "Pages du site",
+    "context": "index: nav @aria-label"
+  },
+  {
+    "id": "s6b220246ba",
+    "text": "Réserver une chambre",
+    "context": "index: span"
+  },
+  {
+    "id": "s423ccbef2d",
+    "text": "BONS BAISERS DE LAUTERBRUNNEN",
+    "context": "index: p.eyebrow"
+  },
+  {
+    "id": "s6b26ed3a41",
+    "text": "La Suisse,",
+    "context": "index: h1"
+  },
+  {
+    "id": "s2bbfebaaf9",
+    "text": "comme on",
+    "context": "index: inline continuation"
+  },
+  {
+    "id": "s6310b44fcb",
+    "text": "la rêve.",
+    "context": "index: em"
+  },
+  {
+    "id": "s42dc89d617",
+    "text": "Un chalet de bois, des sommets à la fenêtre et de la fondue à partager. Bienvenue au Schützen.",
+    "context": "index: p.pc-hero__intro"
+  },
+  {
+    "id": "sd8e3b95d6b",
+    "text": "Choisir ma chambre",
+    "context": "index: a.pill"
+  },
+  {
+    "id": "sc99670acdc",
+    "text": "LAUTERBRUNNEN",
+    "context": "index: span"
+  },
+  {
+    "id": "se10e3afb95",
+    "text": "GRÜEZI !",
+    "context": "index: b"
+  },
+  {
+    "id": "s9b330c140f",
+    "text": "UN PETIT COIN DE SUISSE",
+    "context": "index: small"
+  },
+  {
+    "id": "s2e529e9d26",
+    "text": "La façade de l’Hotel Schützen, ses volets verts et sa terrasse à Lauterbrunnen",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s3b73f2831b",
+    "text": "Schützen. On est bien, ici.",
+    "context": "index: figcaption"
+  },
+  {
+    "id": "s834e0b2d1a",
+    "text": "La vallée de Lauterbrunnen et les Alpes",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s4b19800d70",
+    "text": "L’air des Alpes, en grand.",
+    "context": "index: figcaption"
+  },
+  {
+    "id": "s43ecfcef72",
+    "text": "Les vacances",
+    "context": "index: p.pc-handnote"
+  },
+  {
+    "id": "s0a289911d0",
+    "text": "commencent ici.",
+    "context": "index: inline continuation"
+  },
+  {
+    "id": "s669f26bd37",
+    "text": "Préparer votre séjour",
+    "context": "index: div.pc-ticket @aria-label"
+  },
+  {
+    "id": "s2a5a26761e",
+    "text": "LE SCHÜTZEN VOUS ATTEND",
+    "context": "index: small"
+  },
+  {
+    "id": "sf45f2d2981",
+    "text": "Réservez votre séjour",
+    "context": "index: b"
+  },
+  {
+    "id": "sb26bc68074",
+    "text": "Arrivée",
+    "context": "index: small"
+  },
+  {
+    "id": "sb030d590c2",
+    "text": "Choisir",
+    "context": "index: strong"
+  },
+  {
+    "id": "s2fb998a9c5",
+    "text": "Départ",
+    "context": "index: small"
+  },
+  {
+    "id": "sb464ffe49e",
+    "text": "Hôtes",
+    "context": "index: small"
+  },
+  {
+    "id": "sbca89ea8f1",
+    "text": "2 adultes",
+    "context": "index: strong"
+  },
+  {
+    "id": "s1a530c43e1",
+    "text": "Voir les disponibilités",
+    "context": "index: button.pill"
+  },
+  {
+    "id": "s907f77da98",
+    "text": "DU GRAND AIR",
+    "context": "index: span"
+  },
+  {
+    "id": "s72e34c0bed",
+    "text": "DU BON FROMAGE",
+    "context": "index: span"
+  },
+  {
+    "id": "s29c4a5a246",
+    "text": "DE BEAUX SOUVENIRS",
+    "context": "index: span"
+  },
+  {
+    "id": "s2c48e14713",
+    "text": "VOTRE CONCIERGE EN LIGNE",
+    "context": "index: p.eyebrow"
+  },
+  {
+    "id": "s1b01723624",
+    "text": "Grüezi !",
+    "context": "index: h2"
+  },
+  {
+    "id": "s5f5e0bc2da",
+    "text": "On prépare vos vacances ?",
+    "context": "index: em"
+  },
+  {
+    "id": "s2d1dbfa4e2",
+    "text": "Chambres, bonnes idées et petits conseils. Choisissez une envie, je vous accompagne.",
+    "context": "index: p"
+  },
+  {
+    "id": "s5f594f1d74",
+    "text": "Trouver ma chambre",
+    "context": "index: b"
+  },
+  {
+    "id": "sc7e3730e31",
+    "text": "À deux, en famille, en solo",
+    "context": "index: small"
+  },
+  {
+    "id": "see745a8f59",
+    "text": "Imaginer mon séjour",
+    "context": "index: b"
+  },
+  {
+    "id": "s86648335e2",
+    "text": "Six envies de grand air",
+    "context": "index: small"
+  },
+  {
+    "id": "sb5d458b735",
+    "text": "Préparer ma réservation",
+    "context": "index: b"
+  },
+  {
+    "id": "s712923e3c1",
+    "text": "Dates, voyageurs, chambre",
+    "context": "index: small"
+  },
+  {
+    "id": "s42a26f8a8d",
+    "text": "Une envie de fondue",
+    "context": "index: b"
+  },
+  {
+    "id": "s34a6339451",
+    "text": "La carte et les horaires",
+    "context": "index: small"
+  },
+  {
+    "id": "s940acca2c2",
+    "text": "Préparer mon arrivée",
+    "context": "index: b"
+  },
+  {
+    "id": "sbedfee3d80",
+    "text": "Train, voiture et accès",
+    "context": "index: small"
+  },
+  {
+    "id": "s3a549972e2",
+    "text": "Une petite question",
+    "context": "index: b"
+  },
+  {
+    "id": "s5a2fbba6dd",
+    "text": "Les réponses utiles",
+    "context": "index: small"
+  },
+  {
+    "id": "scdeb12b85d",
+    "text": "LE CARNET DE DÉCOUVERTE",
+    "context": "index: p.eyebrow"
+  },
+  {
+    "id": "s473fe2d8b2",
+    "text": "Trois façons",
+    "context": "index: h2.h-l"
+  },
+  {
+    "id": "s114893d2d8",
+    "text": "d’apprécier votre séjour.",
+    "context": "index: em"
+  },
+  {
+    "id": "s9e234d4287",
+    "text": "Une nuit au chalet. Une fondue entre amis.",
+    "context": "index: p.shead__p"
+  },
+  {
+    "id": "s47a5c7d241",
+    "text": "Une journée à lever les yeux.",
+    "context": "index: inline continuation"
+  },
+  {
+    "id": "s4776e3730f",
+    "text": "À chaque envie, son petit bonheur suisse.",
+    "context": "index: inline continuation"
+  },
+  {
+    "id": "s1818d78eb2",
+    "text": "LES NUITS DOUCES",
+    "context": "index: small"
+  },
+  {
+    "id": "sa0d0be9548",
+    "text": "Dormir, rêver,",
+    "context": "index: h3"
+  },
+  {
+    "id": "s1125c8b09f",
+    "text": "recommencer.",
+    "context": "index: em"
+  },
+  {
+    "id": "sd10ab22cb9",
+    "text": "Les chambres",
+    "context": "index: span.pc-discovery-link"
+  },
+  {
+    "id": "s4a7a5f553c",
+    "text": "LES GRANDES TABLÉES",
+    "context": "index: small"
+  },
+  {
+    "id": "s95863d1a69",
+    "text": "Un peu de fromage,",
+    "context": "index: h3"
+  },
+  {
+    "id": "sb24f0720f0",
+    "text": "beaucoup d’amour.",
+    "context": "index: em"
+  },
+  {
+    "id": "s02571a64ba",
+    "text": "Le restaurant",
+    "context": "index: span.pc-discovery-link"
+  },
+  {
+    "id": "s67298ada0d",
+    "text": "LES GRANDS HORIZONS",
+    "context": "index: small"
+  },
+  {
+    "id": "s0dda8c21f5",
+    "text": "Les Alpes",
+    "context": "index: h3"
+  },
+  {
+    "id": "s741246be84",
+    "text": "à vos pieds.",
+    "context": "index: em"
+  },
+  {
+    "id": "sc89cdead93",
+    "text": "VOTRE POINT DE DÉPART : LE SCHÜTZEN",
+    "context": "index: p.eyebrow"
+  },
+  {
+    "id": "sde04474b8e",
+    "text": "Six envies de partir.",
+    "context": "index: h2.h-l"
+  },
+  {
+    "id": "s42f4f1e6f3",
+    "text": "Une seule envie de rester.",
+    "context": "index: em"
+  },
+  {
+    "id": "s44f65663df",
+    "text": "À deux, en famille ou le nez au vent. Piochez dans nos idées et composez vos journées autour de l’hôtel.",
+    "context": "index: p"
+  },
+  {
+    "id": "s0131b262ec",
+    "text": "Toutes nos idées de séjour",
+    "context": "index: a.link-arrow"
+  },
+  {
+    "id": "s7eac9cd61b",
+    "text": "Filtrer les idées de séjour",
+    "context": "index: div.stay-filters @aria-label"
+  },
+  {
+    "id": "sa5fa20f29a",
+    "text": "Toutes les envies",
+    "context": "index: button"
+  },
+  {
+    "id": "sf2c96d183d",
+    "text": "À deux",
+    "context": "index: button"
+  },
+  {
+    "id": "sa769f93933",
+    "text": "En famille",
+    "context": "index: button"
+  },
+  {
+    "id": "s0d09f45cc9",
+    "text": "Au grand air",
+    "context": "index: button"
+  },
+  {
+    "id": "s8b05deca4b",
+    "text": "Sans voiture",
+    "context": "index: button"
+  },
+  {
+    "id": "sbc2b992ae2",
+    "text": "En hiver",
+    "context": "index: button"
+  },
+  {
+    "id": "s556635f2ec",
+    "text": "Mon carnet",
+    "context": "index: button"
+  },
+  {
+    "id": "s69cf2e78bb",
+    "text": "2 nuits pour en profiter",
+    "context": "index: span.stay-card__nights"
+  },
+  {
+    "id": "s2a25e85e5a",
+    "text": "À deux, sous les sommets.",
+    "context": "index: a"
+  },
+  {
+    "id": "s8c07ddc776",
+    "text": "Des chalets, des cascades et du temps rien que pour vous.",
+    "context": "index: p"
+  },
+  {
+    "id": "sbd6bb70412",
+    "text": "Printemps · été · automne",
+    "context": "index: small"
+  },
+  {
+    "id": "sf99cfc4224",
+    "text": "Découvrir l’idée",
+    "context": "index: span"
+  },
+  {
+    "id": "sbf9ea6e2aa",
+    "text": "Garder l’idée : À deux",
+    "context": "index: button.stay-save @aria-label"
+  },
+  {
+    "id": "s0f87296bfe",
+    "text": "3 nuits pour en profiter",
+    "context": "index: span.stay-card__nights"
+  },
+  {
+    "id": "s0151140e3f",
+    "text": "Petits explorateurs, grands souvenirs.",
+    "context": "index: a"
+  },
+  {
+    "id": "se1a251c731",
+    "text": "Un petit train, des fleurs géantes et beaucoup de grand air.",
+    "context": "index: p"
+  },
+  {
+    "id": "s7430f4fef6",
+    "text": "Été · selon ouverture",
+    "context": "index: small"
+  },
+  {
+    "id": "s2880119298",
+    "text": "Garder l’idée : En famille",
+    "context": "index: button.stay-save @aria-label"
+  },
+  {
+    "id": "s6337c6a808",
+    "text": "Au fil de l’eau",
+    "context": "index: span"
+  },
+  {
+    "id": "s9535739edf",
+    "text": "La vallée fait son spectacle.",
+    "context": "index: a"
+  },
+  {
+    "id": "sba0e2f7bd5",
+    "text": "Marcher, lever les yeux et se laisser surprendre par l’eau.",
+    "context": "index: p"
+  },
+  {
+    "id": "s4721e44eb8",
+    "text": "Garder l’idée : Au fil de l’eau",
+    "context": "index: button.stay-save @aria-label"
+  },
+  {
+    "id": "sf2cf3a46f0",
+    "text": "À pied",
+    "context": "index: span"
+  },
+  {
+    "id": "s0892c79759",
+    "text": "Le grand air, à pleins poumons.",
+    "context": "index: a"
+  },
+  {
+    "id": "s2d1bb117f9",
+    "text": "Un sentier, trois sommets mythiques et la journée devant soi.",
+    "context": "index: p"
+  },
+  {
+    "id": "s03aefe4dee",
+    "text": "Été · début d’automne",
+    "context": "index: small"
+  },
+  {
+    "id": "seb51d1f518",
+    "text": "Garder l’idée : À pied",
+    "context": "index: button.stay-save @aria-label"
+  },
+  {
+    "id": "s901302258d",
+    "text": "Les Alpes, côté fenêtre.",
+    "context": "index: a"
+  },
+  {
+    "id": "sbcc2967744",
+    "text": "Le voyage fait déjà partie des vacances. Installez-vous.",
+    "context": "index: p"
+  },
+  {
+    "id": "se2449d647d",
+    "text": "Toute l’année · selon circulation",
+    "context": "index: small"
+  },
+  {
+    "id": "s3b67c393fc",
+    "text": "Garder l’idée : Sans voiture",
+    "context": "index: button.stay-save @aria-label"
+  },
+  {
+    "id": "scb76d66b55",
+    "text": "2 à 3 nuits pour en profiter",
+    "context": "index: span.stay-card__nights"
+  },
+  {
+    "id": "s19e3152b05",
+    "text": "L’hiver au chalet",
+    "context": "index: span"
+  },
+  {
+    "id": "see470a5444",
+    "text": "Le froid aux joues. Le cœur au chaud.",
+    "context": "index: a"
+  },
+  {
+    "id": "s77daefebf5",
+    "text": "Une balade d’hiver, une fondue et le bonheur de rentrer.",
+    "context": "index: p"
+  },
+  {
+    "id": "s58e0c86e65",
+    "text": "Hiver · selon enneigement",
+    "context": "index: small"
+  },
+  {
+    "id": "s5bbec8b194",
+    "text": "Garder l’idée : L’hiver au chalet",
+    "context": "index: button.stay-save @aria-label"
+  },
+  {
+    "id": "s4f4964d1a3",
+    "text": "Votre carnet attend vos envies. Touchez le marque-page d’une idée pour la retrouver ici.",
+    "context": "index: p.stay-empty"
+  },
+  {
+    "id": "sca9cdef4d8",
+    "text": "6 idées à découvrir",
+    "context": "index: span"
+  },
+  {
+    "id": "s286246b384",
+    "text": "Idées précédentes",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "s1ef25098a2",
+    "text": "Idées suivantes",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "s7303169028",
+    "text": "Des suggestions inspirées des offices de tourisme de Lauterbrunnen et de la Jungfrau Region. Activités et transports à organiser séparément.",
+    "context": "index: p.stay-source-note"
+  },
+  {
+    "id": "s358e7e9fcb",
+    "text": "La vallée de Lauterbrunnen avec ses falaises et ses montagnes",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s8f2fb95aed",
+    "text": "Lauterbrunnen. À voir, à vivre, à garder.",
+    "context": "index: figcaption"
+  },
+  {
+    "id": "s7a3d361ec2",
+    "text": "SUISSE",
+    "context": "index: small"
+  },
+  {
+    "id": "sb4061022cd",
+    "text": "CH",
+    "context": "index: b"
+  },
+  {
+    "id": "s3424e2bd90",
+    "text": "À CEUX QUI RÊVENT D’AILLEURS",
+    "context": "index: p.eyebrow"
+  },
+  {
+    "id": "s8a08dd8871",
+    "text": "Chers amoureux",
+    "context": "index: h2"
+  },
+  {
+    "id": "s5ae2119531",
+    "text": "des Alpes,",
+    "context": "index: em"
+  },
+  {
+    "id": "s86cd6dcb5f",
+    "text": "Ici, on ouvre la fenêtre sur les montagnes. On s’attarde à table. On part à l’aventure, puis on retrouve la chaleur du chalet.",
+    "context": "index: p"
+  },
+  {
+    "id": "sa52d0c0658",
+    "text": "Au cœur de Lauterbrunnen, le Schützen est votre point de départ. Et votre plaisir de rentrer.",
+    "context": "index: p"
+  },
+  {
+    "id": "s9c461a3352",
+    "text": "Découvrez le chalet",
+    "context": "index: span"
+  },
+  {
+    "id": "s201e934355",
+    "text": "À bientôt, au Schützen.",
+    "context": "index: p.pc-letter-sign"
+  },
+  {
+    "id": "s16d89175a2",
+    "text": "qui vous attendent",
+    "context": "index: em"
+  },
+  {
+    "id": "s489a0e8bf4",
+    "text": "Vingt-cinq chambres de chalet, huit catégories, toutes avec vue.",
+    "context": "index: p.shead__p"
+  },
+  {
+    "id": "sa5d529036e",
+    "text": "Explorer les 8 catégories",
+    "context": "index: span"
+  },
+  {
+    "id": "s629037ff6c",
+    "text": "Double Supérieure, Hotel Schützen Lauterbrunnen",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "sf02a6505cd",
+    "text": "17 m² · 2 personnes",
+    "context": "index: p.rc__m"
+  },
+  {
+    "id": "s2b6c0174b2",
+    "text": "Double Supérieure",
+    "context": "index: a"
+  },
+  {
+    "id": "sada72a12a2",
+    "text": "Le balcon face au Staubbach : la plus belle vue du chalet.",
+    "context": "index: p.rc__d"
+  },
+  {
+    "id": "sd7f72b4675",
+    "text": "Réserver : Double Supérieure",
+    "context": "index: button.pill @aria-label"
+  },
+  {
+    "id": "se63fa3fdb3",
+    "text": "Détails : Double Supérieure",
+    "context": "index: a.link-arrow @aria-label"
+  },
+  {
+    "id": "saaa029e6a2",
+    "text": "Détails",
+    "context": "index: span"
+  },
+  {
+    "id": "sc6cec954e2",
+    "text": "Familiale Supérieure, Hotel Schützen Lauterbrunnen",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s46a4bbac8c",
+    "text": "29 m² · 4 adultes maximum · 6 couchages",
+    "context": "index: p.rc__m"
+  },
+  {
+    "id": "sb2c275e984",
+    "text": "Familiale Supérieure",
+    "context": "index: a"
+  },
+  {
+    "id": "s62a758cc2c",
+    "text": "La plus grande, avec balcon face au Staubbach.",
+    "context": "index: p.rc__d"
+  },
+  {
+    "id": "sf20f3ea5e0",
+    "text": "Réserver : Familiale Supérieure",
+    "context": "index: button.pill @aria-label"
+  },
+  {
+    "id": "s2f3acb4250",
+    "text": "Détails : Familiale Supérieure",
+    "context": "index: a.link-arrow @aria-label"
+  },
+  {
+    "id": "s8727a66eee",
+    "text": "Double, Hotel Schützen Lauterbrunnen",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s41451d69c6",
+    "text": "16 m² · 2 personnes",
+    "context": "index: p.rc__m"
+  },
+  {
+    "id": "s8158159704",
+    "text": "Double",
+    "context": "index: a"
+  },
+  {
+    "id": "sc73da8e827",
+    "text": "Un grand lit, un balcon, la montagne en face.",
+    "context": "index: p.rc__d"
+  },
+  {
+    "id": "sc076e0b5ab",
+    "text": "Réserver : Double",
+    "context": "index: button.pill @aria-label"
+  },
+  {
+    "id": "s40a198b526",
+    "text": "Détails : Double",
+    "context": "index: a.link-arrow @aria-label"
+  },
+  {
+    "id": "s8bec8528db",
+    "text": "Les beaux jours commencent ici.",
+    "context": "index: span.pc-souvenir-note"
+  },
+  {
+    "id": "se06be2fa13",
+    "text": "LAUTERBRUNNEN · SUISSE",
+    "context": "index: small"
+  },
+  {
+    "id": "s6b1a775db4",
+    "text": "Notre restaurant",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s2d9a33c30f",
+    "text": "La salle du restaurant Schützen, nappes à carreaux rouges, boiseries et lampes suspendues",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s28b1a4ccf1",
+    "text": "Restaurant Schützen",
+    "context": "index: p.eyebrow"
+  },
+  {
+    "id": "sb3404732e3",
+    "text": "La recette",
+    "context": "index: h2.h-l"
+  },
+  {
+    "id": "sc4cbdde7f8",
+    "text": "du bonheur.",
+    "context": "index: em"
+  },
+  {
+    "id": "s5e210bbab6",
+    "text": "La table du village depuis 1671. Ouvert tous les jours, sans réservation.",
+    "context": "index: p.lead"
+  },
+  {
+    "id": "se709870d98",
+    "text": "Petit-déjeuner",
+    "context": "index: span.hrs__k"
+  },
+  {
+    "id": "s364df17144",
+    "text": "7h30 – 10h",
+    "context": "index: b.hrs__h"
+  },
+  {
+    "id": "s8ad88aa517",
+    "text": "Buffet ouvert à tous, hôtes de l’hôtel ou non",
+    "context": "index: span.hrs__n"
+  },
+  {
+    "id": "s93b12bf301",
+    "text": "11h – 21h",
+    "context": "index: b.hrs__h"
+  },
+  {
+    "id": "sca662dcda0",
+    "text": "Sans réservation : venez comme vous êtes",
+    "context": "index: span.hrs__n"
+  },
+  {
+    "id": "s71ace8f773",
+    "text": "Cuisine chaude",
+    "context": "index: span.hrs__k"
+  },
+  {
+    "id": "sf5e6168e42",
+    "text": "12h – 20h",
+    "context": "index: b.hrs__h"
+  },
+  {
+    "id": "sf7188ad2b9",
+    "text": "La carte complète, midi et soir",
+    "context": "index: span.hrs__n"
+  },
+  {
+    "id": "s1c908b504c",
+    "text": "Voir la carte",
+    "context": "index: span"
+  },
+  {
+    "id": "s4ad012ea38",
+    "text": "Fondue au fromage : pain trempé dans le caquelon, nappe à carreaux",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s3bce35a6ff",
+    "text": "Käsefondue",
+    "context": "index: small"
+  },
+  {
+    "id": "s4e9f7ed03f",
+    "text": "Fondue au fromage",
+    "context": "index: b"
+  },
+  {
+    "id": "sf44862de04",
+    "text": "par pers., dès 2",
+    "context": "index: em"
+  },
+  {
+    "id": "s412618f187",
+    "text": "Assiette de raclette, pommes de terre, cornichons et petits oignons",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s9c77c229b6",
+    "text": "Raclette-Teller",
+    "context": "index: small"
+  },
+  {
+    "id": "sae2f228ca9",
+    "text": "Assiette raclette",
+    "context": "index: b"
+  },
+  {
+    "id": "s475b2ae114",
+    "text": "Rösti doré, œuf au plat, lard et fromage à raclette",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "sac369485c4",
+    "text": "Bauernrösti",
+    "context": "index: small"
+  },
+  {
+    "id": "sd402344058",
+    "text": "Rösti du paysan",
+    "context": "index: b"
+  },
+  {
+    "id": "s3cdcf196a9",
+    "text": "Bratwurst grillée, rösti et sauce aux oignons",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s54e2e25d49",
+    "text": "XL Bratwurst",
+    "context": "index: small"
+  },
+  {
+    "id": "sb5229a29bc",
+    "text": "Bratwurst XL & rösti",
+    "context": "index: b"
+  },
+  {
+    "id": "sd2fcc2f07b",
+    "text": "La Suisse a bon goût.",
+    "context": "index: span.pc-souvenir-note"
+  },
+  {
+    "id": "s7c891caa23",
+    "text": "Dehors, c’est",
+    "context": "index: h2.h-l"
+  },
+  {
+    "id": "s337da3c390",
+    "text": "la grande aventure.",
+    "context": "index: em"
+  },
+  {
+    "id": "seedc5c4848",
+    "text": "La gare est à cinq minutes à pied, le bus s’arrête devant le restaurant.",
+    "context": "index: p.shead__p"
+  },
+  {
+    "id": "s63f7ee63ff",
+    "text": "Toute la vallée",
+    "context": "index: span"
+  },
+  {
+    "id": "s6c9880b469",
+    "text": "La chute du Staubbach éclairée la nuit",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "sfe5e0d9b59",
+    "text": "5 min à pied",
+    "context": "index: small"
+  },
+  {
+    "id": "s17cbf13b64",
+    "text": "La chute du Staubbach",
+    "context": "index: b"
+  },
+  {
+    "id": "s31ef9bf95a",
+    "text": "Torrent glaciaire dans la vallée de Lauterbrunnen",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "sf59efbef47",
+    "text": "10 min en bus · avril – novembre",
+    "context": "index: small"
+  },
+  {
+    "id": "scd7febf492",
+    "text": "Les chutes du Trümmelbach",
+    "context": "index: b"
+  },
+  {
+    "id": "s2dae348fa3",
+    "text": "Le village de Mürren face aux sommets",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s2bae444ff8",
+    "text": "25 min · 1 638 m, sans voitures",
+    "context": "index: small"
+  },
+  {
+    "id": "s19beb72b90",
+    "text": "Mürren",
+    "context": "index: b"
+  },
+  {
+    "id": "s92d4e51d63",
+    "text": "L’observatoire du Sphinx au Jungfraujoch",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "s3b09b4e03b",
+    "text": "1 h 45 en train · 3 454 m",
+    "context": "index: small"
+  },
+  {
+    "id": "s816432c395",
+    "text": "Jungfraujoch",
+    "context": "index: b"
+  },
+  {
+    "id": "s34d9c362af",
+    "text": "La chute du Staubbach éclairée la nuit au-dessus des chalets",
+    "context": "index: img @alt"
+  },
+  {
+    "id": "sed6e518dc1",
+    "text": "DES SOUVENIRS À PARTAGER",
+    "context": "index: small"
+  },
+  {
+    "id": "sb1e419c419",
+    "text": "Et si votre prochaine",
+    "context": "index: h2"
+  },
+  {
+    "id": "s320d6b86dc",
+    "text": "carte postale, c’était ici ?",
+    "context": "index: em"
+  },
+  {
+    "id": "s0a6964eb03",
+    "text": "Choisissez vos dates, découvrez les disponibilités et préparez votre séjour.",
+    "context": "index: p"
+  },
+  {
+    "id": "s9e6328b864",
+    "text": "Bons baisers de Lauterbrunnen.",
+    "context": "index: span.pc-card-caption"
+  },
+  {
+    "id": "s62759a3cb0",
+    "text": "UNE PHOTO. UN PETIT BONHEUR À ENVOYER.",
+    "context": "index: p.eyebrow"
+  },
+  {
+    "id": "se974018231",
+    "text": "Un souvenir",
+    "context": "index: h2"
+  },
+  {
+    "id": "s87e4e39824",
+    "text": "qui voyage.",
+    "context": "index: em"
+  },
+  {
+    "id": "s550ca8a3ad",
+    "text": "Votre plus belle photo de Lauterbrunnen mérite une vraie carte postale. Un petit bonheur à glisser dans la boîte aux lettres de ceux que vous aimez.",
+    "context": "index: p"
+  },
+  {
+    "id": "s466cbe4be8",
+    "text": "Le petit courrier des grandes vacances.",
+    "context": "index: span.pc-postcard-send__note"
+  },
+  {
+    "id": "s1d53d1e20a",
+    "text": "Avec la poste, votre photo se transforme en carte postale.",
+    "context": "index: span"
+  },
+  {
+    "id": "sbff63e759b",
+    "text": "— Découvrir PostCard Creator de La Poste, nouvel onglet",
+    "context": "index: span.sr"
+  },
+  {
+    "id": "saa007ca9c1",
+    "text": "À créer et envoyer avec",
+    "context": "index: p.pc-postcard-service"
+  },
+  {
+    "id": "s6a32ecef10",
+    "text": "PostCard Creator",
+    "context": "index: b"
+  },
+  {
+    "id": "s7cd62fad2f",
+    "text": ", le service de La Poste.",
+    "context": "index: inline continuation"
+  },
+  {
+    "id": "sae8d1a198c",
+    "text": "BONS BAISERS",
+    "context": "index: span"
+  },
+  {
+    "id": "s5f833d0f79",
+    "text": "DE LAUTERBRUNNEN",
+    "context": "index: inline continuation"
+  },
+  {
+    "id": "sa952131876",
+    "text": "ON GARDE UNE PLACE POUR VOUS ?",
+    "context": "index: p.pc-foot-kicker"
+  },
+  {
+    "id": "sde4e628386",
+    "text": "Hâte de vous accueillir",
+    "context": "index: h2.foot__big"
+  },
+  {
+    "id": "s1e1b466235",
+    "text": "au Schützen",
+    "context": "index: em"
+  },
+  {
+    "id": "sc20d566594",
+    "text": "Appeler la réception",
+    "context": "index: a.pill"
+  },
+  {
+    "id": "s5237361117",
+    "text": "Hotel Schützen Lauterbrunnen",
+    "context": "index: img.logo @alt"
+  },
+  {
+    "id": "sea77dbbb9a",
+    "text": "Fuhren 439",
+    "context": "index: address"
+  },
+  {
+    "id": "sc7acb251e5",
+    "text": "CH-3822 Lauterbrunnen",
+    "context": "index: inline continuation"
+  },
+  {
+    "id": "s7ea94a5768",
+    "text": "Jungfrau Region · Suisse",
+    "context": "index: inline continuation"
+  },
+  {
+    "id": "s09d27df4f7",
+    "text": "L’hôtel",
+    "context": "index: h3.foot__h"
+  },
+  {
+    "id": "s16664684bf",
+    "text": "Questions fréquentes",
+    "context": "index: a"
+  },
+  {
+    "id": "sc45247521f",
+    "text": "Tous les jours, 11h – 21h",
+    "context": "index: a"
+  },
+  {
+    "id": "s84bfb3f5be",
+    "text": "La carte",
+    "context": "index: a"
+  },
+  {
+    "id": "s5343bf525f",
+    "text": "Petit-déjeuner, 7h30 – 10h",
+    "context": "index: a"
+  },
+  {
+    "id": "s99d1d839e4",
+    "text": "Groupes & fêtes",
+    "context": "index: a"
+  },
+  {
+    "id": "sb37456c453",
+    "text": "Contact",
+    "context": "index: h3.foot__h"
+  },
+  {
+    "id": "s99c8d6c5c3",
+    "text": "Copier le numéro",
+    "context": "index: button.copy @aria-label"
+  },
+  {
+    "id": "se3e74f9bc5",
+    "text": "Copier l’adresse e-mail",
+    "context": "index: button.copy @aria-label"
+  },
+  {
+    "id": "s558865a16f",
+    "text": "YouTube",
+    "context": "index: a @aria-label"
+  },
+  {
+    "id": "s2563ca6b3a",
+    "text": "MySwitzerland",
+    "context": "index: a @aria-label"
+  },
+  {
+    "id": "sab1960fbc4",
+    "text": "Booking.com",
+    "context": "index: a"
+  },
+  {
+    "id": "s2b681c0a24",
+    "text": "Google",
+    "context": "index: a"
+  },
+  {
+    "id": "s2a05e318f8",
+    "text": "En direct",
+    "context": "index: a"
+  },
+  {
+    "id": "s7d7b7b6525",
+    "text": "© 2026 Hotel Schützen Lauterbrunnen AG",
+    "context": "index: span"
+  },
+  {
+    "id": "s64f9088e63",
+    "text": "Ihr Ziel, unsere Heimat · Votre destination, notre chez-nous",
+    "context": "index: span"
+  },
+  {
+    "id": "s9e3b1c1be6",
+    "text": "Restaurant exploité par Gastrogür GmbH",
+    "context": "index: span"
+  },
+  {
+    "id": "s0d5f743500",
+    "text": "Réalisé par",
+    "context": "index: span.foot__credit"
+  },
+  {
+    "id": "s4df49cac99",
+    "text": "Le Cerf à Lunettes · cerfalunettes.ch",
+    "context": "index: a"
+  },
+  {
+    "id": "s2d5d930e4a",
+    "text": "— nouvel onglet",
+    "context": "index: span.sr"
+  },
+  {
+    "id": "sfe965d2b76",
+    "text": "Vos dates",
+    "context": "index: h2"
+  },
+  {
+    "id": "s0b50a3bab0",
+    "text": "à Lauterbrunnen",
+    "context": "index: em"
+  },
+  {
+    "id": "s5ab4ec640d",
+    "text": "Fermer",
+    "context": "index: button.icon-btn @aria-label"
+  },
+  {
+    "id": "sc0bd77299d",
+    "text": "Chambre",
+    "context": "index: label"
+  },
+  {
+    "id": "sc591bcb563",
+    "text": "Toutes les chambres",
+    "context": "index: option"
+  },
+  {
+    "id": "s0669874471",
+    "text": "Double Supérieure · 17 m² · 2 personnes",
+    "context": "index: option"
+  },
+  {
+    "id": "s711d749692",
+    "text": "Double · 16 m² · 2 personnes",
+    "context": "index: option"
+  },
+  {
+    "id": "sdfb0f6c7b4",
+    "text": "Double ou twin Économique · 15 m² · 2 personnes",
+    "context": "index: option"
+  },
+  {
+    "id": "sbf799115f3",
+    "text": "Triple · 22 m² · 3 personnes",
+    "context": "index: option"
+  },
+  {
+    "id": "s7c06386432",
+    "text": "Quadruple · 24 m² · 4 personnes",
+    "context": "index: option"
+  },
+  {
+    "id": "sd7bfb1a276",
+    "text": "Familiale · 27 m² · 5 personnes",
+    "context": "index: option"
+  },
+  {
+    "id": "sbe057926b8",
+    "text": "Familiale Supérieure · 29 m² · 4 adultes maximum · 6 couchages",
+    "context": "index: option"
+  },
+  {
+    "id": "se34ecfc06c",
+    "text": "Simple Économique · 10 m² · 1 personne",
+    "context": "index: option"
+  },
+  {
+    "id": "s53396dceca",
+    "text": "Adultes",
+    "context": "index: b"
+  },
+  {
+    "id": "s4576374df0",
+    "text": "Et enfants dès 4 ans (tarif adulte)",
+    "context": "index: small"
+  },
+  {
+    "id": "sed46777913",
+    "text": "Retirer un adulte",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "saea40ec87f",
+    "text": "Ajouter un adulte",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "s920149c5a1",
+    "text": "Bébés",
+    "context": "index: b"
+  },
+  {
+    "id": "s6b1f7460e3",
+    "text": "0 à 3 ans · lit bébé sur demande",
+    "context": "index: small"
+  },
+  {
+    "id": "s007471ad7c",
+    "text": "Retirer un bébé",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "s91f60226f1",
+    "text": "Ajouter un bébé",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "s9d12435127",
+    "text": "Pour plusieurs chambres",
+    "context": "index: small"
+  },
+  {
+    "id": "scd81faf22a",
+    "text": "Retirer une chambre",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "s0c4871789e",
+    "text": "Ajouter une chambre",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "s30ebafd1b7",
+    "text": "Vos dates restent en mémoire sur ce site. Booking.com s’ouvre à vos dates, directement sur la chambre choisie : il ne reste qu’à choisir le tarif. Si elle est déjà prise, la page de l’hôtel sur Booking.com vous montre les chambres encore libres.",
+    "context": "index: p.note"
+  },
+  {
+    "id": "s86536ff0e4",
+    "text": "Choisissez vos dates",
+    "context": "index: b"
+  },
+  {
+    "id": "s1e88ec32ff",
+    "text": "Galerie",
+    "context": "index: div.lightbox @aria-label"
+  },
+  {
+    "id": "s8addcb578d",
+    "text": "Photo précédente",
+    "context": "index: button.icon-btn @aria-label"
+  },
+  {
+    "id": "s4759c41158",
+    "text": "Photo suivante",
+    "context": "index: button.icon-btn @aria-label"
+  },
+  {
+    "id": "s5431b80064",
+    "text": "Ouvrir le Concierge en ligne",
+    "context": "index: button.cg-tab @aria-label"
+  },
+  {
+    "id": "s29a54a67af",
+    "text": "Concierge en ligne",
+    "context": "index: span"
+  },
+  {
+    "id": "s77ed83473e",
+    "text": "Vous avez une question ?",
+    "context": "index: small"
+  },
+  {
+    "id": "s8da3a8fb2b",
+    "text": "GRÜEZI, BIENVENUE !",
+    "context": "index: small"
+  },
+  {
+    "id": "s3b11567b2a",
+    "text": "Votre séjour, en quelques choix.",
+    "context": "index: p"
+  },
+  {
+    "id": "sff7c498d31",
+    "text": "Fermer le Concierge en ligne",
+    "context": "index: button.icon-btn @aria-label"
+  },
+  {
+    "id": "s6d44324b9e",
+    "text": "Parcours du Concierge en ligne",
+    "context": "index: nav.cg__toolbar @aria-label"
+  },
+  {
+    "id": "s80625eeac0",
+    "text": "Revenir au choix précédent",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "se5befb1f96",
+    "text": "Retour",
+    "context": "index: span"
+  },
+  {
+    "id": "scf01b368be",
+    "text": "À vous de choisir",
+    "context": "index: span"
+  },
+  {
+    "id": "s422ae9393f",
+    "text": "Recommencer depuis l’accueil du Concierge en ligne",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "sa15c72adab",
+    "text": "Recommencer",
+    "context": "index: span"
+  },
+  {
+    "id": "s227ccd3252",
+    "text": "Votre conversation avec le Concierge en ligne",
+    "context": "index: div.cg__log @aria-label"
+  },
+  {
+    "id": "s2e59bf8401",
+    "text": "Les choix du Concierge en ligne",
+    "context": "index: div.cg__chips @aria-label"
+  },
+  {
+    "id": "sfe6af615cc",
+    "text": "Votre question au Concierge en ligne",
+    "context": "index: label.sr"
+  },
+  {
+    "id": "s12e77a2baa",
+    "text": "Ou posez une question…",
+    "context": "index: input @placeholder"
+  },
+  {
+    "id": "se453fc74d9",
+    "text": "Envoyer ma question",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "sdc49c549fc",
+    "text": "Navigation mobile",
+    "context": "index: nav.app-nav @aria-label"
+  },
+  {
+    "id": "s018bb882cd",
+    "text": "Séjours",
+    "context": "index: span"
+  },
+  {
+    "id": "sf448122694",
+    "text": "Ouvrir le concierge en ligne",
+    "context": "index: button @aria-label"
+  },
+  {
+    "id": "s80c316f847",
+    "text": "Concierge",
+    "context": "index: span"
+  },
+  {
+    "id": "s3b30d7e0cb",
+    "text": "Chambres · Hotel Schützen Lauterbrunnen, balcons face au Staubbach",
+    "context": "chambres: title"
+  },
+  {
+    "id": "s83d8844c3f",
+    "text": "Huit catégories de chambres à Lauterbrunnen : Double Supérieure avec balcon face au Staubbach, Double, Économique, Triple, Quadruple, Familiale, Familiale Supérieure et Simple. Prix du jour sur Booking.com et Google.",
+    "context": "chambres: SEO"
+  },
+  {
+    "id": "sf0dbaa13b5",
+    "text": "LE BONHEUR SOUS LES TOITS",
+    "context": "chambres: p.eyebrow"
+  },
+  {
+    "id": "sda927cd987",
+    "text": "Des nuits",
+    "context": "chambres: h1"
+  },
+  {
+    "id": "s3203f392c2",
+    "text": "tout là-haut.",
+    "context": "chambres: em"
+  },
+  {
+    "id": "s5d196dfebb",
+    "text": "À deux, en solo, en famille ou le sac à dos sur l’épaule, trouvez votre chambre dans les Alpes.",
+    "context": "chambres: p.pc-hero__intro"
+  },
+  {
+    "id": "sadd87754ad",
+    "text": "chambres de chalet",
+    "context": "chambres: inline continuation"
+  },
+  {
+    "id": "sc68eb0f213",
+    "text": "catégories",
+    "context": "chambres: inline continuation"
+  },
+  {
+    "id": "s8b9f524c19",
+    "text": "Une chambre boisée de l’Hotel Schützen avec lits et vue par la fenêtre",
+    "context": "chambres: img @alt"
+  },
+  {
+    "id": "s8fc896882b",
+    "text": "Poser les valises. Oublier l’heure.",
+    "context": "chambres: figcaption"
+  },
+  {
+    "id": "s9c589de0b5",
+    "text": "Vue sur les montagnes depuis l’hôtel",
+    "context": "chambres: img @alt"
+  },
+  {
+    "id": "s7205f79c9b",
+    "text": "Le réveil dont on rêvait.",
+    "context": "chambres: figcaption"
+  },
+  {
+    "id": "s96e67680f7",
+    "text": "Faites de",
+    "context": "chambres: p.pc-handnote"
+  },
+  {
+    "id": "s4e08f919f3",
+    "text": "beaux rêves.",
+    "context": "chambres: inline continuation"
+  },
+  {
+    "id": "sefce6cfba0",
+    "text": "Sur cette page",
+    "context": "chambres: nav.anchors @aria-label"
+  },
+  {
+    "id": "sec9b7a41b2",
+    "text": "Doubles",
+    "context": "chambres: a"
+  },
+  {
+    "id": "sbf0953a37f",
+    "text": "Familles",
+    "context": "chambres: a"
+  },
+  {
+    "id": "s9fc93acaa4",
+    "text": "Solo",
+    "context": "chambres: a"
+  },
+  {
+    "id": "sb3950c315e",
+    "text": "Bon à savoir",
+    "context": "chambres: a"
+  },
+  {
+    "id": "s3430eadc65",
+    "text": "Inclus dans votre séjour",
+    "context": "chambres: div.perks @aria-label"
+  },
+  {
+    "id": "s159e728ad7",
+    "text": "Wi-Fi offert",
+    "context": "chambres: inline continuation"
+  },
+  {
+    "id": "sab4e0a01ed",
+    "text": "Parking gratuit",
+    "context": "chambres: inline continuation"
+  },
+  {
+    "id": "sef9deedeb0",
+    "text": "Petit-déjeuner 7h30 – 10h",
+    "context": "chambres: inline continuation"
+  },
+  {
+    "id": "sd55ff14caf",
+    "text": "Arrivée 14h · départ 11h",
+    "context": "chambres: inline continuation"
+  },
+  {
+    "id": "s927ac9c0ee",
+    "text": "À deux,",
+    "context": "chambres: h2.h-l"
+  },
+  {
+    "id": "sa4a1430dbc",
+    "text": "c’est encore mieux.",
+    "context": "chambres: em"
+  },
+  {
+    "id": "s11daa3aa3a",
+    "text": "Un grand lit ou deux lits, avec ou sans balcon, pour deux.",
+    "context": "chambres: p.shead__p"
+  },
+  {
+    "id": "s602de4df66",
+    "text": "Agrandir les photos : Double Supérieure",
+    "context": "chambres: button.rgal__main @aria-label"
+  },
+  {
+    "id": "s9dd534c82f",
+    "text": "Photo 1 sur 3",
+    "context": "chambres: button.rgal__th @aria-label"
+  },
+  {
+    "id": "s1404dae057",
+    "text": "Photo 2 sur 3",
+    "context": "chambres: button.rgal__th @aria-label"
+  },
+  {
+    "id": "sc4509b24b1",
+    "text": "Photo 3 sur 3",
+    "context": "chambres: button.rgal__th @aria-label"
+  },
+  {
+    "id": "sddf7fd539e",
+    "text": "2 personnes",
+    "context": "chambres: span"
+  },
+  {
+    "id": "sdf3cda1dfe",
+    "text": "1 grand lit double",
+    "context": "chambres: span"
+  },
+  {
+    "id": "sfcb49c54b5",
+    "text": "Balcon · vue sur le Staubbach",
+    "context": "chambres: span"
+  },
+  {
+    "id": "s395fb21d90",
+    "text": "La chambre",
+    "context": "chambres: summary"
+  },
+  {
+    "id": "s0b36b87156",
+    "text": "Nos chambres les plus demandées regardent droit vers la chute du Staubbach et les sommets de la vallée. Un grand lit, du bois clair, une salle de bain privative et, surtout, un balcon pour le premier café du matin, quand le soleil allume la cascade. Le soir, la falaise s’efface et le Staubbach, éclairé, reste là, devant vous.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "sf1cb89881c",
+    "text": "Équipements",
+    "context": "chambres: summary"
+  },
+  {
+    "id": "safb59818ac",
+    "text": "Balcon privé",
+    "context": "chambres: li"
+  },
+  {
+    "id": "sc75da1b65e",
+    "text": "Vue sur le Staubbach et les montagnes",
+    "context": "chambres: li"
+  },
+  {
+    "id": "sa65da9e140",
+    "text": "Salle de bain privative",
+    "context": "chambres: li"
+  },
+  {
+    "id": "s7fbfbe8c2b",
+    "text": "TV écran plat",
+    "context": "chambres: li"
+  },
+  {
+    "id": "s2a41528b5a",
+    "text": "Machine à café & bouilloire",
+    "context": "chambres: li"
+  },
+  {
+    "id": "sdfa99f2d23",
+    "text": "Chambre non-fumeur",
+    "context": "chambres: li"
+  },
+  {
+    "id": "s103163af37",
+    "text": "Idéale pour",
+    "context": "chambres: summary"
+  },
+  {
+    "id": "s0e57d59f9b",
+    "text": "Couples, voyage de noces, première fois dans la vallée.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s6cfafbf1db",
+    "text": "Réserver cette chambre",
+    "context": "chambres: span"
+  },
+  {
+    "id": "sde49ee03fb",
+    "text": "Appeler",
+    "context": "chambres: span"
+  },
+  {
+    "id": "sd4a57fc2a9",
+    "text": "Agrandir les photos : Double",
+    "context": "chambres: button.rgal__main @aria-label"
+  },
+  {
+    "id": "sda4ad60023",
+    "text": "Balcon · vue montagne",
+    "context": "chambres: span"
+  },
+  {
+    "id": "s2fa6a15d9b",
+    "text": "La chambre classique du Schützen : un grand lit, des boiseries chaleureuses, une salle de bain privative et un balcon tourné vers les parois de la vallée. Assez d’espace pour poser les sacs de randonnée, assez de calme pour récupérer avant la journée suivante.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s22a39e0be2",
+    "text": "Balcon",
+    "context": "chambres: li"
+  },
+  {
+    "id": "s5783d2d4e8",
+    "text": "Vue sur la montagne",
+    "context": "chambres: li"
+  },
+  {
+    "id": "s1b774e2ec2",
+    "text": "Couples, amis, séjours actifs.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s79bfcc0935",
+    "text": "Agrandir les photos : Double ou twin Économique",
+    "context": "chambres: button.rgal__main @aria-label"
+  },
+  {
+    "id": "s170e368236",
+    "text": "Double ou twin Économique, Hotel Schützen Lauterbrunnen",
+    "context": "chambres: img @alt"
+  },
+  {
+    "id": "s2c323c9db5",
+    "text": "Double ou twin Économique",
+    "context": "chambres: h3.rrow__t"
+  },
+  {
+    "id": "sfdffe8f375",
+    "text": "Grand lit ou deux lits : l’essentiel, bien fait.",
+    "context": "chambres: p.rrow__tag"
+  },
+  {
+    "id": "s83f6cfafb5",
+    "text": "1 grand lit ou 2 lits simples",
+    "context": "chambres: span"
+  },
+  {
+    "id": "sd9dfe2f65a",
+    "text": "Vue montagne · étage élevé",
+    "context": "chambres: span"
+  },
+  {
+    "id": "sd23d92e30d",
+    "text": "Le confort de nos doubles, sans balcon, dans les étages supérieurs. Choisissez un grand lit ou deux lits simples selon la disponibilité. Le bon choix quand la journée se passe dehors et que l’on rentre pour un dîner au coin du feu et une nuit profonde.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "se85e11bd12",
+    "text": "Étage élevé",
+    "context": "chambres: li"
+  },
+  {
+    "id": "s15b542ccc1",
+    "text": "Randonneurs, skieurs, amis.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s3a865f93b2",
+    "text": "À chacun son petit bonheur.",
+    "context": "chambres: span.pc-souvenir-note"
+  },
+  {
+    "id": "sa3191dd073",
+    "text": "La montagne,",
+    "context": "chambres: h2.h-l"
+  },
+  {
+    "id": "s807ff31b25",
+    "text": "en famille.",
+    "context": "chambres: em"
+  },
+  {
+    "id": "sff99db33ce",
+    "text": "Des chambres pour toute la famille, jusqu’à cinq personnes selon la catégorie.",
+    "context": "chambres: p.shead__p"
+  },
+  {
+    "id": "s96069a8da3",
+    "text": "Agrandir les photos : Triple",
+    "context": "chambres: button.rgal__main @aria-label"
+  },
+  {
+    "id": "s97ceecf6d7",
+    "text": "Triple, Hotel Schützen Lauterbrunnen",
+    "context": "chambres: img @alt"
+  },
+  {
+    "id": "s2e29dbb8b2",
+    "text": "Photo 1 sur 2",
+    "context": "chambres: button.rgal__th @aria-label"
+  },
+  {
+    "id": "s6cc2bdba43",
+    "text": "Photo 2 sur 2",
+    "context": "chambres: button.rgal__th @aria-label"
+  },
+  {
+    "id": "sae1a12e0ad",
+    "text": "Triple",
+    "context": "chambres: h3.rrow__t"
+  },
+  {
+    "id": "s59893ba81c",
+    "text": "De la place pour trois, sans se marcher dessus.",
+    "context": "chambres: p.rrow__tag"
+  },
+  {
+    "id": "s3ccc42bc77",
+    "text": "3 personnes",
+    "context": "chambres: span"
+  },
+  {
+    "id": "sca073db911",
+    "text": "1 grand lit + 1 lit simple",
+    "context": "chambres: span"
+  },
+  {
+    "id": "sb747371ea5",
+    "text": "Vue montagne",
+    "context": "chambres: span"
+  },
+  {
+    "id": "s10068ffa03",
+    "text": "Pensée pour un couple avec un enfant ou pour trois amis en vadrouille : un grand lit, un lit simple, une salle de bain privative et la montagne à la fenêtre. Ses 22 m² laissent de quoi s’étaler, ranger les skis et refaire le programme du lendemain.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "sc4f2a61f02",
+    "text": "Familles avec un enfant, trois amis.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s57495136be",
+    "text": "Agrandir les photos : Quadruple",
+    "context": "chambres: button.rgal__main @aria-label"
+  },
+  {
+    "id": "s5b8db27ad5",
+    "text": "Quadruple, Hotel Schützen Lauterbrunnen",
+    "context": "chambres: img @alt"
+  },
+  {
+    "id": "s8c9137489c",
+    "text": "Quadruple",
+    "context": "chambres: h3.rrow__t"
+  },
+  {
+    "id": "sd4794f4e7f",
+    "text": "Quatre vrais lits, un seul paysage.",
+    "context": "chambres: p.rrow__tag"
+  },
+  {
+    "id": "s3721e80afa",
+    "text": "4 personnes",
+    "context": "chambres: span"
+  },
+  {
+    "id": "sf740745245",
+    "text": "1 grand lit + 2 lits simples",
+    "context": "chambres: span"
+  },
+  {
+    "id": "sff8f0ba833",
+    "text": "Quatre lits pour de vraies nuits, sans canapé d’appoint : la chambre des familles et des petits groupes d’amis. Salle de bain privative, vue sur la montagne et machine à café pour les parents matinaux, avant le premier train pour Wengen.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s0cf979a029",
+    "text": "Familles, petits groupes.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "sea6d9d71d6",
+    "text": "Agrandir les photos : Familiale",
+    "context": "chambres: button.rgal__main @aria-label"
+  },
+  {
+    "id": "sa2fbfc5b12",
+    "text": "Familiale, Hotel Schützen Lauterbrunnen",
+    "context": "chambres: img @alt"
+  },
+  {
+    "id": "scd03e4c2d3",
+    "text": "Familiale",
+    "context": "chambres: h3.rrow__t"
+  },
+  {
+    "id": "sb7ec8ec70e",
+    "text": "Les lits superposés que les enfants réclament.",
+    "context": "chambres: p.rrow__tag"
+  },
+  {
+    "id": "s7a03199940",
+    "text": "5 personnes",
+    "context": "chambres: span"
+  },
+  {
+    "id": "s67d30b57a6",
+    "text": "1 lit simple + 1 lit superposé + 1 grand lit double",
+    "context": "chambres: span"
+  },
+  {
+    "id": "s3e5af9e6de",
+    "text": "Un lit simple, un lit superposé (deux places) et un grand lit double (deux places), soit 5 couchages. Sur 27 m², chacun trouve son coin. Dehors, le Staubbach est à cinq minutes à pied et le bus des chutes du Trümmelbach s’arrête devant l’hôtel.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s849b9ee410",
+    "text": "Lits superposés",
+    "context": "chambres: li"
+  },
+  {
+    "id": "sb6d374491b",
+    "text": "Familles jusqu’à cinq personnes.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s5b1b282b81",
+    "text": "Agrandir les photos : Familiale Supérieure",
+    "context": "chambres: button.rgal__main @aria-label"
+  },
+  {
+    "id": "sed1524b85d",
+    "text": "4 adultes maximum · 6 couchages",
+    "context": "chambres: span"
+  },
+  {
+    "id": "s6a93f6e38c",
+    "text": "2 lits superposés + 1 grand lit double",
+    "context": "chambres: span"
+  },
+  {
+    "id": "s64cd6ee106",
+    "text": "Notre plus grande chambre, dans les étages : un grand lit double et deux lits superposés, soit 6 couchages, avec un maximum de 4 adultes. Son balcon est tourné vers la chute du Staubbach et les sommets. Sur 29 m², la famille a de la place pour poser les sacs, sécher les gants et refaire la journée.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "sd78f576f33",
+    "text": "Salle de bains privative",
+    "context": "chambres: li"
+  },
+  {
+    "id": "s1496203947",
+    "text": "Familles qui veulent de l’espace et la vue.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s56fefdda61",
+    "text": "Toute la tribu est du voyage.",
+    "context": "chambres: span.pc-souvenir-note"
+  },
+  {
+    "id": "s308dc17029",
+    "text": "Le goût",
+    "context": "chambres: h2.h-l"
+  },
+  {
+    "id": "sa80a779ad9",
+    "text": "de l’aventure.",
+    "context": "chambres: em"
+  },
+  {
+    "id": "s0fe77e7b44",
+    "text": "L’essentiel, bien fait, pour ceux qui passent la journée dehors.",
+    "context": "chambres: p.shead__p"
+  },
+  {
+    "id": "s08aa721556",
+    "text": "Agrandir les photos : Simple Économique",
+    "context": "chambres: button.rgal__main @aria-label"
+  },
+  {
+    "id": "s3a951fae20",
+    "text": "Simple Économique, Hotel Schützen Lauterbrunnen",
+    "context": "chambres: img @alt"
+  },
+  {
+    "id": "s1866eb7298",
+    "text": "Simple Économique",
+    "context": "chambres: h3.rrow__t"
+  },
+  {
+    "id": "s029a6becb6",
+    "text": "Votre cabine de bois, rien qu’à vous.",
+    "context": "chambres: p.rrow__tag"
+  },
+  {
+    "id": "sa2c7be7011",
+    "text": "1 personne",
+    "context": "chambres: span"
+  },
+  {
+    "id": "s15478acadc",
+    "text": "1 lit simple",
+    "context": "chambres: span"
+  },
+  {
+    "id": "s60faf651cf",
+    "text": "Une chambre compacte et privée pour le voyageur seul, avec sa propre salle de bain, dans les étages supérieurs. Tout ce qu’il faut, rien de superflu, et un budget qui laisse de quoi monter au Jungfraujoch.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s1529683234",
+    "text": "Voyageurs en solo.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "sf441181705",
+    "text": "Demain, on prend l’air.",
+    "context": "chambres: span.pc-souvenir-note"
+  },
+  {
+    "id": "s181e53cf45",
+    "text": "Avant de réserver",
+    "context": "chambres: p.eyebrow"
+  },
+  {
+    "id": "sb03239bbd4",
+    "text": "Arrivée et départ",
+    "context": "chambres: summary"
+  },
+  {
+    "id": "s711b5ba90d",
+    "text": "Arrivée de 14h à 19h30, départ jusqu’à 11h. Si vous arrivez après 20h, prévenez-nous : nous organisons votre accueil.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s466459cd6b",
+    "text": "Le petit-déjeuner buffet est servi tous les jours de 7h30 à 10h, aussi aux personnes qui ne logent pas à l’hôtel. Selon le tarif choisi, il est inclus ou proposé en option.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s68e0748a5e",
+    "text": "Enfants et lit bébé",
+    "context": "chambres: summary"
+  },
+  {
+    "id": "s841005ac0d",
+    "text": "Les enfants sont les bienvenus. À partir de 4 ans, ils sont comptés au tarif adulte ; un lit bébé est disponible sur demande pour les 0 à 3 ans (CHF 50 par séjour).",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s3570b7839e",
+    "text": "Vue sur le Staubbach",
+    "context": "chambres: summary"
+  },
+  {
+    "id": "s57b33c2d34",
+    "text": "Les Doubles Supérieures et la Familiale Supérieure ont un balcon avec vue sur le Staubbach et les montagnes ; les Doubles ont aussi un balcon. Toutes nos catégories ont vue sur la montagne. Indiquez votre souhait lors de la réservation.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "sdcd78a4edd",
+    "text": "Parking et accès",
+    "context": "chambres: summary"
+  },
+  {
+    "id": "s2e7eae6173",
+    "text": "Parking gratuit devant et derrière l’hôtel. La gare de Lauterbrunnen est à cinq minutes à pied et l’arrêt de bus se trouve devant le restaurant.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s526595afd7",
+    "text": "Animaux",
+    "context": "chambres: summary"
+  },
+  {
+    "id": "s3c44c2f0c3",
+    "text": "Les animaux ne sont pas admis dans les chambres. Ils sont en revanche les bienvenus au restaurant et sur la terrasse.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s75f3ab04d7",
+    "text": "Paiement et taxe de séjour",
+    "context": "chambres: summary"
+  },
+  {
+    "id": "scba48adfc2",
+    "text": "American Express, Diners Club, Maestro, Mastercard, PostFinance, Visa, espèces. La taxe de séjour de la commune s’ajoute au prix de la chambre.",
+    "context": "chambres: p"
+  },
+  {
+    "id": "s54b2873562",
+    "text": "Un appartement pour 4 à 5 personnes",
+    "context": "chambres: summary"
+  },
+  {
+    "id": "s8ac86f2865",
+    "text": "Chalet Grosshorn",
+    "context": "chambres: b"
+  },
+  {
+    "id": "s87461e06c5",
+    "text": ": un appartement de 3,5 pièces pour quatre à cinq personnes. Au rez-de-chaussée : salle d’eau avec douche et WC, petite cuisine, séjour et une chambre avec balcon qui regarde le Staubbach et l’église. Un escalier un peu raide mène à la seconde chambre, celle que les plus jeunes réclament. À deux pas : l’arrêt du bus de ski, le Talmuseum, en été un minigolf et deux courts de tennis.",
+    "context": "chambres: inline continuation"
+  },
+  {
+    "id": "sd346e8d4dd",
+    "text": "Appartement proposé par la famille Paul & Alice von Allmen. Renseignements via la réception.",
+    "context": "chambres: p.muted"
+  },
+  {
+    "id": "s705a3530c4",
+    "text": "Les prix du jour",
+    "context": "chambres: h3.bookcard__t"
+  },
+  {
+    "id": "sf260e757ce",
+    "text": "Modifier",
+    "context": "chambres: span.bookcard__edit"
+  },
+  {
+    "id": "s82c3236be6",
+    "text": "Réserver sur Booking.com",
+    "context": "chambres: a.btn"
+  },
+  {
+    "id": "s55ae4bdda6",
+    "text": "Comparer les offres sur Google",
+    "context": "chambres: a.btn"
+  },
+  {
+    "id": "sdd6fa90ceb",
+    "text": "En direct avec la réception :",
+    "context": "chambres: p.bookcard__call"
+  },
+  {
+    "id": "s86b1be4080",
+    "text": "Page suivante",
+    "context": "chambres: section.suite @aria-label"
+  },
+  {
+    "id": "s3df285cfe7",
+    "text": "La table du village depuis 1671 : fondue, raclette, rösti, au coin du feu.",
+    "context": "chambres: span.suite__d"
+  },
+  {
+    "id": "sae5d50604e",
+    "text": "Restaurant Schützen Lauterbrunnen · Fondue, rösti & terrasse face au Staubbach",
+    "context": "restaurant: title"
+  },
+  {
+    "id": "s90a986c9e9",
+    "text": "Restaurant Schützen à Lauterbrunnen, depuis 1671 : fondue, raclette, rösti, burgers XL, tartes flambées et pierre chaude. Ouvert tous les jours de 11h à 21h sans réservation, petit-déjeuner ouvert à tous de 7h30 à 10h, terrasse face au Staubbach.",
+    "context": "restaurant: SEO"
+  },
+  {
+    "id": "s63dd28f95e",
+    "text": "EN GUETE ! BON APPÉTIT !",
+    "context": "restaurant: p.eyebrow"
+  },
+  {
+    "id": "s3c8caee87f",
+    "text": "L’appétit,",
+    "context": "restaurant: h1"
+  },
+  {
+    "id": "se3bf99f51f",
+    "text": "les amis,",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sb5a16e6714",
+    "text": "la vie.",
+    "context": "restaurant: em"
+  },
+  {
+    "id": "se3f87f0167",
+    "text": "La table du village depuis 1671. Du fromage qui file, des recettes suisses et le plaisir de se retrouver. Tous les jours, sans réservation.",
+    "context": "restaurant: p.pc-hero__intro"
+  },
+  {
+    "id": "see76b8b104",
+    "text": "Ouvrir la carte",
+    "context": "restaurant: a.pill"
+  },
+  {
+    "id": "s40c86798d6",
+    "text": "Horaires & accès",
+    "context": "restaurant: span"
+  },
+  {
+    "id": "s68135467c2",
+    "text": "La salle du restaurant Schützen avec ses boiseries et ses nappes Vichy rouges",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s83fa5c4417",
+    "text": "Le goût des bons moments.",
+    "context": "restaurant: figcaption"
+  },
+  {
+    "id": "sd0ee12e9d3",
+    "text": "Fondue au fromage servie sur une nappe à carreaux rouges",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s38bd689eaa",
+    "text": "Encore une bouchée ?",
+    "context": "restaurant: figcaption"
+  },
+  {
+    "id": "saaf044c874",
+    "text": "Ça se",
+    "context": "restaurant: p.pc-handnote"
+  },
+  {
+    "id": "s3a26804ef1",
+    "text": "partage !",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sf2ad3870d7",
+    "text": "Horaires",
+    "context": "restaurant: a"
+  },
+  {
+    "id": "s11a49ccca4",
+    "text": "Spécialités",
+    "context": "restaurant: a"
+  },
+  {
+    "id": "sceb6173a09",
+    "text": "Groupes",
+    "context": "restaurant: a"
+  },
+  {
+    "id": "sd5f89ac39b",
+    "text": "Ouvert tous les jours",
+    "context": "restaurant: h2.hours__t"
+  },
+  {
+    "id": "sa7104ecc7b",
+    "text": "Pas de réservation de table : venez comme vous êtes. Une centaine de places, cheminée en hiver, terrasse face au Staubbach en été, accès en fauteuil roulant. Vos animaux sont les bienvenus au restaurant et sur la terrasse. Pour un groupe,",
+    "context": "restaurant: span"
+  },
+  {
+    "id": "s538ce73656",
+    "text": "écrivez-nous",
+    "context": "restaurant: a"
+  },
+  {
+    "id": "sf34389b7d5",
+    "text": "Les vrais bonheurs",
+    "context": "restaurant: h2.h-l"
+  },
+  {
+    "id": "s564c318a55",
+    "text": "à la suisse.",
+    "context": "restaurant: em"
+  },
+  {
+    "id": "sec6d6e1e93",
+    "text": "Fromages de la région, viande et volaille suisses, bière brassée à Interlaken.",
+    "context": "restaurant: p.shead__p"
+  },
+  {
+    "id": "s4efbece293",
+    "text": "Toute la carte",
+    "context": "restaurant: span"
+  },
+  {
+    "id": "s79c69ba9fd",
+    "text": "Un goût de chez nous.",
+    "context": "restaurant: span.pc-souvenir-note"
+  },
+  {
+    "id": "s1528b3c418",
+    "text": "En Guete, et Proscht !",
+    "context": "restaurant: h2.h-l"
+  },
+  {
+    "id": "s12bb4b22c7",
+    "text": "Les spécialités du chalet et de quoi trinquer. Faites votre choix, à votre rythme.",
+    "context": "restaurant: p.carte__intro"
+  },
+  {
+    "id": "s5a91d2eb3e",
+    "text": "À manger",
+    "context": "restaurant: button"
+  },
+  {
+    "id": "sd965559920",
+    "text": "À boire",
+    "context": "restaurant: button"
+  },
+  {
+    "id": "sc823608c1a",
+    "text": "Soupe",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "s21040a10aa",
+    "text": "Suppe",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "s79a80ca872",
+    "text": "Soupe de patate douce — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s9ae127e934",
+    "text": "Soupe de patate douce",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s854c3b106c",
+    "text": "végé",
+    "context": "restaurant: span.dish__tag"
+  },
+  {
+    "id": "s640854c7f2",
+    "text": "Végétarien",
+    "context": "restaurant: span.dish__tag @title"
+  },
+  {
+    "id": "sef7a7fb405",
+    "text": "Süsskartoffelsuppe",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s8b0cd6d2b5",
+    "text": "· Préparée sur place, au lait de coco",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sec8252199c",
+    "text": "Salades",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "s28386728e3",
+    "text": "Salat",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "s2a70f872ae",
+    "text": "Salad bowl — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "scac605ee9e",
+    "text": "Salad bowl",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s0f0c247bf7",
+    "text": "vegan",
+    "context": "restaurant: span.dish__tag"
+  },
+  {
+    "id": "sf50322ad18",
+    "text": "Vegan",
+    "context": "restaurant: span.dish__tag @title"
+  },
+  {
+    "id": "s1a6a346241",
+    "text": "Salatbowl",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s7e6615f8ab",
+    "text": "· Salades de feuilles, vinaigrette aux graines",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s730b786b8f",
+    "text": "Insalata Caprese — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s413f1aec6c",
+    "text": "Insalata Caprese",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s0c9cd9c526",
+    "text": "Tomates, mozzarella, pain grillé au basilic",
+    "context": "restaurant: p.dish__d"
+  },
+  {
+    "id": "s9a9f7895b4",
+    "text": "Salade du berger — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sb6f4ef4b40",
+    "text": "Salade du berger",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s8682b25edb",
+    "text": "Hirtensalat",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "scc97c78201",
+    "text": "· Tomates, concombre, olives, poivron, oignons, feta",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s47122835d9",
+    "text": "Salade au poulet — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sd35ac8b80b",
+    "text": "Salade au poulet",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s999e0e8aed",
+    "text": "Pouletsalat",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "se9c2e68bd4",
+    "text": "· Émincé de poulet tiède, salade, melon, copeaux de fromage à rebibes",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s77c0a5b174",
+    "text": "Portion de frites — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s70e9b523b9",
+    "text": "Portion de frites",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "se91a287284",
+    "text": "Pommes frites",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s68a9afcc17",
+    "text": "Spezialitäten",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "se27bba185f",
+    "text": "Fondue au fromage — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s25e0577c41",
+    "text": "· Pain ou pommes de terre, petits oignons, cornichons, mini-épis de maïs · dès 2 personnes, prix par personne",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sd07959a0ba",
+    "text": "Assiette raclette — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s1add59afa5",
+    "text": "· Pommes de terre, petits oignons, cornichons, mini-épis de maïs",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s54efeae521",
+    "text": "Rösti du paysan — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s4072615555",
+    "text": "· Oignons rôtis, lard, fromage à raclette, œuf au plat",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s7c37a5a815",
+    "text": "Rösti « Casimir » — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s8d6ea8050e",
+    "text": "Rösti « Casimir »",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s0a4f503259",
+    "text": "Curry-Rösti",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "sd5721a0f6f",
+    "text": "· Couronne de rösti, émincé de poulet au curry",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sdf3af54173",
+    "text": "Rösti aux légumes — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s1696da7a85",
+    "text": "Rösti aux légumes",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s41e384a7e5",
+    "text": "Gemüserösti",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "scf1199791f",
+    "text": "· Légumes et camembert",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sa05bf61089",
+    "text": "Bratwurst XL & rösti — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sf0c6c129db",
+    "text": "XL Bratwurst mit Rösti",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s1328abae7b",
+    "text": "· Saucisse grillée, sauce aux oignons",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sa8aea09f65",
+    "text": "Macaronis du chalet — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sd34d6cea9d",
+    "text": "Macaronis du chalet",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sa9ebcc1199",
+    "text": "Älpler Magronen",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s9382ff09e4",
+    "text": "· Pommes de terre, lard et fromage fondu",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sb434da3ba1",
+    "text": "Viandes & poissons",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "s2a732c6a17",
+    "text": "Fleisch & Fisch",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "sec7bd016db",
+    "text": "Pierre chaude — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sd7fb0e73a4",
+    "text": "Pierre chaude",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sc81cf3fa84",
+    "text": "Heisser Lava-Stein",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "sff52f6ea88",
+    "text": "· Entrecôte de bœuf 250 g à cuire à table, frites et légumes",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sbcb97dd4e4",
+    "text": "Schnitzel de porc — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s8dc26aaf36",
+    "text": "Schnitzel de porc",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s41c851fa3f",
+    "text": "Schweinsschnitzel",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s7d06f2c9e6",
+    "text": "· Pané, frites",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s230aa0b09b",
+    "text": "Filets de perche croustillants — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s5345882a12",
+    "text": "Filets de perche croustillants",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s828fb65007",
+    "text": "Egli Knusperli im Bierteig",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s5d3de1e6e8",
+    "text": "· En pâte à bière, sauce tartare et frites",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s630434cedc",
+    "text": "Saumon grillé — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sbe03b0f733",
+    "text": "Saumon grillé",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sbeaf78ee4e",
+    "text": "Grillierter Lachs",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "sa626aafdb4",
+    "text": "· Pommes de terre nature, légumes, sauce teriyaki",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sc8a76e4640",
+    "text": "Burgers",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "se190f34ff0",
+    "text": "servis avec frites",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "s4e411e9b96",
+    "text": "Hamburger XL — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s357971337b",
+    "text": "Hamburger XL",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sdee9215b0c",
+    "text": "Bœuf, tomate, cornichon, salade",
+    "context": "restaurant: p.dish__d"
+  },
+  {
+    "id": "s31b0f06336",
+    "text": "Cheeseburger XL — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sbf02cad3c9",
+    "text": "Cheeseburger XL",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s525a5cda4a",
+    "text": "Käseburger",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "sf4a984bf13",
+    "text": "· Bœuf, fromage à raclette, tomate, cornichon, salade",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s0fa5a364e6",
+    "text": "Burger du paysan — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s134309b335",
+    "text": "Burger du paysan",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s6ab89839cc",
+    "text": "Bauernburger XL",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s277c5c8ec8",
+    "text": "· Bœuf, lard, œuf au plat, raclette, tomate, cornichon, salade",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s94a42d16ab",
+    "text": "Chickenburger — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "se0fff2869e",
+    "text": "Chickenburger",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s30bc2a3c7a",
+    "text": "Filet de poulet, tomate, cornichon, salade",
+    "context": "restaurant: p.dish__d"
+  },
+  {
+    "id": "s2716d8bf6c",
+    "text": "Burger végétal — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s89760ddc86",
+    "text": "Burger végétal",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sf7f19a45e0",
+    "text": "Vegiburger",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "scadd03717e",
+    "text": "· Galette de légumes, tomate, cornichon, salade",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s3684726003",
+    "text": "Tartes flambées",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "s151750fe18",
+    "text": "Flammkuchen",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "s88e854ae77",
+    "text": "Classique — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s21d58b2b77",
+    "text": "Classique",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sfa5e22d1a8",
+    "text": "Crème fraîche, lardons, oignons",
+    "context": "restaurant: p.dish__d"
+  },
+  {
+    "id": "sf0fff01f90",
+    "text": "Végétarienne — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s0a416e5380",
+    "text": "Végétarienne",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s7d4a9cf30e",
+    "text": "Vegi",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s7f3f0f3986",
+    "text": "· Crème fraîche, légumes, roquette",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sf5294c6965",
+    "text": "Saumon — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s7248abe768",
+    "text": "Saumon",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sd2afa562d2",
+    "text": "Lachs",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "scd92952ae1",
+    "text": "· Crème fraîche, saumon fumé, ciboulette",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s5f72478f18",
+    "text": "Wraps",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "s837f5863a3",
+    "text": "Wrap végétarien — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sf38f67d16b",
+    "text": "Wrap végétarien",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s8804b9ca8a",
+    "text": "Vegi Wrap",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s77adf470e5",
+    "text": "· Légumes et cheddar",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s5b18ebde6d",
+    "text": "Wrap au poulet — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sef9e3bab1e",
+    "text": "Wrap au poulet",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s8edd4cdb2d",
+    "text": "Poulet Wrap",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "sc7cd9d1003",
+    "text": "· Poulet, poivron, cheddar",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s84aca3f600",
+    "text": "Pour les enfants",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "s14079ed2c0",
+    "text": "Kindermenu",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "s68078c6497",
+    "text": "Nuggets de la jungle — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sb7fcbc77d4",
+    "text": "Nuggets de la jungle",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "se73a1ddeec",
+    "text": "Dschungel Nuggets",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s39862a98a4",
+    "text": "· 4 nuggets de poulet, frites",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s3fb609f784",
+    "text": "Nuggets de la mer — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sc59914ec08",
+    "text": "Nuggets de la mer",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s931810fc79",
+    "text": "Meer Nuggets",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s3cbaa009f1",
+    "text": "· 4 nuggets de poisson, frites",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s720d72bd71",
+    "text": "De la vallée",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "s826a6e8386",
+    "text": "Hausgemacht",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "s5bb7de1a5d",
+    "text": "Eau du Staubbach — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sb80a7ec990",
+    "text": "Eau du Staubbach",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s8a4ec3a081",
+    "text": "Staubbachwasser",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s6bd26ddf95",
+    "text": "· Plate ou gazeuse, à la pression · 3 dl / 5 dl / 1 l",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sad10c0bbd3",
+    "text": "Notre thé froid — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s8f77b4a79b",
+    "text": "Notre thé froid",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s57f8d35503",
+    "text": "Eistee hausgemacht",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s3dd591ca35",
+    "text": "· 3 dl / 5 dl / 1 l",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "saec8e4576c",
+    "text": "Sirop pour les enfants — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s060503bb47",
+    "text": "Sirop pour les enfants",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s07eb14dead",
+    "text": "Kindersirup",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s7bd4e4a849",
+    "text": "offert",
+    "context": "restaurant: span.dish__p"
+  },
+  {
+    "id": "s7bee374ff0",
+    "text": "Bières & cidre",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "s8dbfc5b262",
+    "text": "Bier & Most",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "sc4bfd7c2ec",
+    "text": "Rugenbräu Lager — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sfa1c71106b",
+    "text": "Rugenbräu Lager",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s519d3fa0c5",
+    "text": "Brasserie d’Interlaken",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s5bea4931ea",
+    "text": "· À la pression · 3 dl / 5 dl / 1,5 l",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s9894282d33",
+    "text": "Rugen Weizen — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sec3a071f5c",
+    "text": "Rugen Weizen",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s7f42eabf80",
+    "text": "Bière blanche",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s05de7440e4",
+    "text": "Cidre Möhl — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sce2abead4a",
+    "text": "Cidre Möhl",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s91554b9f38",
+    "text": "Suure Moscht",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s28741605e9",
+    "text": "· Avec ou sans alcool · 50 cl",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s8c17ab0819",
+    "text": "Vins suisses",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "sf410f364fc",
+    "text": "Schweizer Weine",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "s69de6fc669",
+    "text": "Fendant du Valais AOC — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s5e3a380e3a",
+    "text": "Fendant du Valais AOC",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sfca71f7988",
+    "text": "Cave Rouvinez",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "saa5c6dc36f",
+    "text": "· Blanc · 1 dl / 2 dl / 5 dl",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s0164d35486",
+    "text": "Œil-de-Perdrix AOC — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "seecb85356a",
+    "text": "Œil-de-Perdrix AOC",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s469f13a451",
+    "text": "Neuchâtel",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "se1bc68d179",
+    "text": "· Rosé · 1 dl / 2 dl / 5 dl / 75 cl",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s99f3f565ff",
+    "text": "Dôle du Valais AOC — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s5fc2d97d66",
+    "text": "Dôle du Valais AOC",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s67a6118a7e",
+    "text": "· Rouge · 1 dl / 2 dl / 5 dl",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s6c0f86e342",
+    "text": "Apéritif & digestif",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "s27a020354e",
+    "text": "Apéro & Schnaps",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "s50fb07d691",
+    "text": "Aperol Spritz · Hugo — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s54953a4ddb",
+    "text": "Aperol Spritz · Hugo",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s00103d767f",
+    "text": "3 dl",
+    "context": "restaurant: p.dish__d"
+  },
+  {
+    "id": "s06a2dd670c",
+    "text": "Vieille prune — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s5661c6890b",
+    "text": "Vieille prune",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sc2189d928b",
+    "text": "2 cl / 4 cl",
+    "context": "restaurant: p.dish__d"
+  },
+  {
+    "id": "s3149e15318",
+    "text": "Kirsch, pruneau, williams — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s9ec708491c",
+    "text": "Kirsch, pruneau, williams",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s08bfd2271f",
+    "text": "Obstler",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "s37d797f671",
+    "text": "· 2 cl / 4 cl",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "se94fab92fb",
+    "text": "Chaud & glacé",
+    "context": "restaurant: span.menu-category"
+  },
+  {
+    "id": "s4f4b4e1e13",
+    "text": "Kaffee & Schoggi",
+    "context": "restaurant: small"
+  },
+  {
+    "id": "sfa7d7e52db",
+    "text": "Chocolat chaud Caotina — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sf9a8d44ddb",
+    "text": "Chocolat chaud Caotina",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "s0a9b14c9be",
+    "text": "Heisse Schoggi",
+    "context": "restaurant: i"
+  },
+  {
+    "id": "scf8dac99ff",
+    "text": "· Nature ou avec crème",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sa39aea0024",
+    "text": "Café crème, espresso, cappuccino — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s30e1eb8297",
+    "text": "Café crème, espresso, cappuccino",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sb2d16efc86",
+    "text": "Café Baileys, Irish coffee — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sbf3924617d",
+    "text": "Café Baileys, Irish coffee",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sa4d7a1b9a4",
+    "text": "Avec crème fouettée",
+    "context": "restaurant: p.dish__d"
+  },
+  {
+    "id": "s14078c696c",
+    "text": "Iced coffees — suggestion de présentation",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "s6feb9b5d30",
+    "text": "Iced coffees",
+    "context": "restaurant: h4.dish__n"
+  },
+  {
+    "id": "sf4185540a7",
+    "text": "Latte, flat white, mocha, fraise, menthe, coco",
+    "context": "restaurant: p.dish__d"
+  },
+  {
+    "id": "s243e1c148a",
+    "text": "Photographies d’illustration ; la présentation peut varier.",
+    "context": "restaurant: p.carte__photo-note"
+  },
+  {
+    "id": "sdd35a81646",
+    "text": "Provenance",
+    "context": "restaurant: dt"
+  },
+  {
+    "id": "sec59744562",
+    "text": "Viande et volaille",
+    "context": "restaurant: b"
+  },
+  {
+    "id": "s86dec59743",
+    "text": "Suisse",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s416839662f",
+    "text": "Nuggets de poulet",
+    "context": "restaurant: b"
+  },
+  {
+    "id": "scf3cca968d",
+    "text": "Brésil, Argentine",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s8ae8a01839",
+    "text": "Nuggets de poisson",
+    "context": "restaurant: b"
+  },
+  {
+    "id": "s7288f7f860",
+    "text": "Alaska",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "s29128619db",
+    "text": "Norvège",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sd764612753",
+    "text": "Perche",
+    "context": "restaurant: b"
+  },
+  {
+    "id": "sdec2f30d74",
+    "text": "Allemagne",
+    "context": "restaurant: inline continuation"
+  },
+  {
+    "id": "sfd74cfff7b",
+    "text": "Carte d’été 2026 · prix en CHF, TVA 8,1 % incluse · sous réserve de modifications. Notre équipe vous renseigne volontiers sur les allergènes.",
+    "context": "restaurant: p.carte__note"
+  },
+  {
+    "id": "s6b440ba0f2",
+    "text": "Encore une petite envie ?",
+    "context": "restaurant: span.pc-souvenir-note"
+  },
+  {
+    "id": "s6f75e3046e",
+    "text": "Banquettes rouges et boiseries du restaurant Schützen",
+    "context": "restaurant: img @alt"
+  },
+  {
+    "id": "sd0fcb0224b",
+    "text": "Les grandes tablées,",
+    "context": "restaurant: h2.h-l"
+  },
+  {
+    "id": "sba7edf0c6f",
+    "text": "les beaux moments.",
+    "context": "restaurant: em"
+  },
+  {
+    "id": "s5493bfa71e",
+    "text": "Fondue de groupe, anniversaire, sortie d’équipe ou voyage organisé : les salles se réunissent pour une centaine de personnes. Écrivez-nous quelques jours à l’avance, nous préparons la salle et le menu.",
+    "context": "restaurant: p"
+  },
+  {
+    "id": "s9f0a52ca93",
+    "text": "Faire une demande",
+    "context": "restaurant: span"
+  },
+  {
+    "id": "s3c0a7c05af",
+    "text": "Les bons moments se partagent.",
+    "context": "restaurant: span.pc-souvenir-note"
+  },
+  {
+    "id": "sa5fc434106",
+    "text": "La vallée des 72 cascades",
+    "context": "restaurant: span.suite__t"
+  },
+  {
+    "id": "s9abb86f653",
+    "text": "Staubbach, Mürren, Wengen, Jungfraujoch : tout part de la porte de l’hôtel.",
+    "context": "restaurant: span.suite__d"
+  },
+  {
+    "id": "sb423eb52fd",
+    "text": "Idées de séjour à Lauterbrunnen · Hotel Schützen",
+    "context": "sejours: title"
+  },
+  {
+    "id": "se173789cc4",
+    "text": "Six envies de séjour autour du Schützen : à deux, en famille, cascades, randonnées, trains panoramiques et hiver au chalet. Inspirez-vous, puis choisissez vos dates.",
+    "context": "sejours: SEO"
+  },
+  {
+    "id": "s196576f0e7",
+    "text": "UN CARNET À REMPLIR DE SOUVENIRS",
+    "context": "sejours: p.eyebrow"
+  },
+  {
+    "id": "s5cd9207135",
+    "text": "Les Alpes.",
+    "context": "sejours: h1"
+  },
+  {
+    "id": "s53cd90c412",
+    "text": "À votre façon.",
+    "context": "sejours: em"
+  },
+  {
+    "id": "s150650abb1",
+    "text": "Six idées pour faire du Schützen votre point de départ. Du temps à deux, du grand air en famille, des trains et des sommets.",
+    "context": "sejours: p.pc-hero__intro"
+  },
+  {
+    "id": "sabb57ba758",
+    "text": "Trouver mon idée",
+    "context": "sejours: a.pill"
+  },
+  {
+    "id": "s029dae9bf6",
+    "text": "Laissez-vous guider",
+    "context": "sejours: button.link-arrow"
+  },
+  {
+    "id": "s5d36bf9f55",
+    "text": "La vallée de Lauterbrunnen et ses villages vus depuis les hauteurs",
+    "context": "sejours: img @alt"
+  },
+  {
+    "id": "s30d3184c97",
+    "text": "Il y a tant de façons d’être bien, ici.",
+    "context": "sejours: figcaption"
+  },
+  {
+    "id": "s26cfb9a57d",
+    "text": "Un train de montagne dans les Alpes suisses",
+    "context": "sejours: img @alt"
+  },
+  {
+    "id": "sc482ffec98",
+    "text": "Le plaisir du voyage.",
+    "context": "sejours: figcaption"
+  },
+  {
+    "id": "s0de0f1a552",
+    "text": "Choisir une idée de séjour",
+    "context": "sejours: nav.stay-jumps @aria-label"
+  },
+  {
+    "id": "sfcae4e02e3",
+    "text": "DES IDÉES, À VOTRE RYTHME",
+    "context": "sejours: span"
+  },
+  {
+    "id": "s8db5215a6f",
+    "text": "Ces suggestions vous aident à composer votre voyage. Réservez votre chambre au Schützen ; choisissez séparément vos activités, repas et transports.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "se7d382f6f6",
+    "text": "La vallée de Lauterbrunnen dans la lumière du soir",
+    "context": "sejours: img @alt"
+  },
+  {
+    "id": "s0052214961",
+    "text": "Le bonheur se partage.",
+    "context": "sejours: figcaption"
+  },
+  {
+    "id": "s6d8e469533",
+    "text": "À deux · 2 nuits pour en profiter",
+    "context": "sejours: p.eyebrow"
+  },
+  {
+    "id": "s7d7ea80ab7",
+    "text": "Poser les valises. Ouvrir la fenêtre. Puis partir à deux, sans trop regarder l’heure. Le Schützen devient votre petit chez-vous au milieu des Alpes.",
+    "context": "sejours: p.stay-story__intro"
+  },
+  {
+    "id": "s0b43eb62c7",
+    "text": "Le premier jour",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "s3d3b1040c2",
+    "text": "Flâner dans Lauterbrunnen, découvrir ses chalets et admirer le Staubbach depuis le village.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "sc38c9e0aa1",
+    "text": "Le lendemain",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "s440e7b6479",
+    "text": "Prendre de la hauteur vers Mürren ou Gimmelwald, deux villages sans voitures où s’attarder face aux montagnes.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s65ec5e4be8",
+    "text": "De retour au chalet",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "s8249f07936",
+    "text": "Se retrouver autour d’une fondue au restaurant du Schützen, puis profiter d’une nuit au calme.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s94587bf97a",
+    "text": "Le petit conseil avant de partir",
+    "context": "sejours: summary"
+  },
+  {
+    "id": "see2736a6f1",
+    "text": "Le sentier d’approche du Staubbach ouvre en été. Pour les excursions, consultez les ouvertures avant de partir.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s303b72ac8a",
+    "text": "Lauterbrunnen Tourismus · Staubbach ↗",
+    "context": "sejours: a"
+  },
+  {
+    "id": "sf81de02dc0",
+    "text": "Jungfrau Region · villages ↗",
+    "context": "sejours: a"
+  },
+  {
+    "id": "s752b43753e",
+    "text": "Choisir mes dates au Schützen",
+    "context": "sejours: a.pill"
+  },
+  {
+    "id": "s3d36705801",
+    "text": "Garder l’idée",
+    "context": "sejours: span"
+  },
+  {
+    "id": "scfbe23c2c4",
+    "text": "Les chalets de Mürren face aux sommets de l’Oberland bernois",
+    "context": "sejours: img @alt"
+  },
+  {
+    "id": "s5d2eb06777",
+    "text": "À hauteur de leurs rêves.",
+    "context": "sejours: figcaption"
+  },
+  {
+    "id": "s047bcc5356",
+    "text": "En famille · 3 nuits pour en profiter",
+    "context": "sejours: p.eyebrow"
+  },
+  {
+    "id": "s741b36ff04",
+    "text": "Des journées qui laissent de la place aux découvertes, aux pauses et aux envies des petits. Quelques idées pour retrouver le plaisir d’explorer ensemble.",
+    "context": "sejours: p.stay-story__intro"
+  },
+  {
+    "id": "sfa3fb20161",
+    "text": "Une journée à Mürren",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "s5fddfc23f4",
+    "text": "Découvrir le village à pied et prendre le temps de regarder les montagnes, les chalets et les trains.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s048003475b",
+    "text": "Cap sur Allmendhubel",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "s4a63b191f8",
+    "text": "Monter en funiculaire vers le Flower Park, son univers de fleurs géantes et ses jeux. Prolonger la découverte sur le Flower Trail.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s543aaafb86",
+    "text": "Une journée tout en douceur",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "s9d4730c770",
+    "text": "Se promener dans la vallée, choisir sa prochaine carte postale et rentrer au Schützen pour se retrouver à table.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "sda3ed8038f",
+    "text": "Le Flower Park et le Flower Trail sont des idées estivales. Vérifiez les dates de circulation du funiculaire avant votre visite.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s8f230cef8b",
+    "text": "Mürren Tourismus · Allmendhubel ↗",
+    "context": "sejours: a"
+  },
+  {
+    "id": "sf258cb058a",
+    "text": "Le village de Lauterbrunnen au pied de la cascade du Staubbach",
+    "context": "sejours: img @alt"
+  },
+  {
+    "id": "s0c992ac150",
+    "text": "Lauterbrunnen, tout simplement.",
+    "context": "sejours: figcaption"
+  },
+  {
+    "id": "sc35063b421",
+    "text": "Au fil de l’eau · 2 nuits pour en profiter",
+    "context": "sejours: p.eyebrow"
+  },
+  {
+    "id": "s7a31a81088",
+    "text": "Ici, les cascades font partie du paysage quotidien. Une escapade pour les découvrir à votre rythme, depuis le village jusque dans la montagne.",
+    "context": "sejours: p.stay-story__intro"
+  },
+  {
+    "id": "sb7a4554b02",
+    "text": "Lever les yeux",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "sf1d595f0b0",
+    "text": "Commencer par le Staubbach et les vues depuis Lauterbrunnen. En été, emprunter son sentier d’approche lorsqu’il est ouvert.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s0cdfb58b6c",
+    "text": "Entrer dans la montagne",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "s4aec968471",
+    "text": "Découvrir les chutes intérieures du Trümmelbach pendant leur saison d’ouverture.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s6c86a8ac63",
+    "text": "Suivre la vallée",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "sdc501772c7",
+    "text": "Prolonger la promenade vers Stechelberg, puis retrouver le restaurant et le confort de l’hôtel.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s010e3ab57f",
+    "text": "Le Trümmelbach n’admet pas les enfants de moins de 4 ans ni les chiens. Sa saison habituelle va d’avril à début novembre, selon les conditions.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s01506998a4",
+    "text": "Lauterbrunnen Tourismus · Trümmelbach ↗",
+    "context": "sejours: a"
+  },
+  {
+    "id": "seddda51459",
+    "text": "Trümmelbach · accès et saison ↗",
+    "context": "sejours: a"
+  },
+  {
+    "id": "s59a43e71ae",
+    "text": "Le massif de l’Eiger et les paysages alpins de la région",
+    "context": "sejours: img @alt"
+  },
+  {
+    "id": "sa28cfc937f",
+    "text": "Juste une envie de dehors.",
+    "context": "sejours: figcaption"
+  },
+  {
+    "id": "saf7c95d2c5",
+    "text": "À pied · 3 nuits pour en profiter",
+    "context": "sejours: p.eyebrow"
+  },
+  {
+    "id": "s73d0306fec",
+    "text": "Faire du Schützen son point de départ pour une escapade de marche. Une grande journée panoramique, une autre plus douce, et le plaisir de rentrer au chalet.",
+    "context": "sejours: p.stay-story__intro"
+  },
+  {
+    "id": "sce318c3f60",
+    "text": "Prendre ses repères",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "s0432e4995e",
+    "text": "Profiter d’une première balade dans le fond de vallée et choisir les sorties adaptées à sa forme.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s9695079ff6",
+    "text": "Le grand panorama",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "se63f6c5dbb",
+    "text": "En saison et lorsque le sentier est ouvert, relier Männlichen à Kleine Scheidegg par le Panoramaweg : 4,5 km, environ 1 h 20 dans ce sens.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s65fafc6cd0",
+    "text": "Prendre son temps",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "saa2f46a8ce",
+    "text": "S’attarder devant l’Eiger, le Mönch et la Jungfrau, puis garder une journée plus tranquille autour de Lauterbrunnen.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s5fe2b433e6",
+    "text": "Une inspiration estivale : le Panoramaweg dépend de la saison, de la météo et de l’état des sentiers. Consultez son statut officiel avant de programmer la marche.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s77c939773d",
+    "text": "Männlichen · Panoramaweg et état du sentier ↗",
+    "context": "sejours: a"
+  },
+  {
+    "id": "s144a275b8f",
+    "text": "Interlaken Tourismus · Kleine Scheidegg ↗",
+    "context": "sejours: a"
+  },
+  {
+    "id": "sdea3a6fce9",
+    "text": "Un train de montagne jaune au cœur des Alpes suisses",
+    "context": "sejours: img @alt"
+  },
+  {
+    "id": "sd2fef7cb11",
+    "text": "Prochain arrêt : les beaux jours.",
+    "context": "sejours: figcaption"
+  },
+  {
+    "id": "s711d74f2aa",
+    "text": "Sans voiture · 3 nuits pour en profiter",
+    "context": "sejours: p.eyebrow"
+  },
+  {
+    "id": "sa328667671",
+    "text": "Arriver en train et garder les mains libres. Depuis Lauterbrunnen, les villages et les panoramas s’enchaînent au rythme des rails et des remontées.",
+    "context": "sejours: p.stay-story__intro"
+  },
+  {
+    "id": "sd8ba7fd2cf",
+    "text": "Une escale à Wengen",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "s160e3f6258",
+    "text": "Prendre le train vers Wengen et découvrir à pied ce village sans voitures.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s9ddb270df2",
+    "text": "Au plus près des sommets",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "sdd6ed4eed1",
+    "text": "Poursuivre vers Kleine Scheidegg avec la Wengernalpbahn et profiter des vues sur l’Eiger, le Mönch et la Jungfrau.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "sfb4341d5ff",
+    "text": "Changer de versant",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "s29a0ad5bb9",
+    "text": "Consacrer une autre journée à Mürren, puis retrouver Lauterbrunnen et votre chambre au Schützen.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s82d07a2fb5",
+    "text": "Les transports se choisissent et se réservent séparément. Vérifiez les horaires et les éventuelles périodes de maintenance pour vos dates.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "sd0a67cabc1",
+    "text": "Jungfrau Region · villages sans voitures ↗",
+    "context": "sejours: a"
+  },
+  {
+    "id": "s0afe827686",
+    "text": "L’Hotel Schützen et ses chalets voisins en hiver",
+    "context": "sejours: img @alt"
+  },
+  {
+    "id": "s15e65b6469",
+    "text": "La Suisse en version douillette.",
+    "context": "sejours: figcaption"
+  },
+  {
+    "id": "sac716d3376",
+    "text": "L’hiver au chalet · 2 à 3 nuits pour en profiter",
+    "context": "sejours: p.eyebrow"
+  },
+  {
+    "id": "sdd2ca36719",
+    "text": "Changer d’air au cœur de la saison froide. Des promenades, un petit voyage vers les hauteurs et de longues soirées autour d’une table chaleureuse.",
+    "context": "sejours: p.stay-story__intro"
+  },
+  {
+    "id": "s4932897662",
+    "text": "La vallée en hiver",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "s77be2a367e",
+    "text": "Se promener dans Lauterbrunnen et le long de la Lütschine blanche, suivant les conditions du jour.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s6a11c3e0e2",
+    "text": "Une échappée vers Sulwald",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "sd12a8627e0",
+    "text": "Rejoindre Isenfluh puis Sulwald pour une promenade hivernale ou une activité de neige adaptée, lorsque les installations et itinéraires sont ouverts.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s5c475d38fc",
+    "text": "Le retour qu’on attend",
+    "context": "sejours: h3"
+  },
+  {
+    "id": "scfdb5d20d2",
+    "text": "Profiter du restaurant du Schützen, partager une fondue et prendre le temps de la soirée.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s8de6452f3b",
+    "text": "La neige n’est pas garantie dans la vallée. Choisissez les activités selon l’enneigement, la météo et les ouvertures du moment.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "s488a7763bb",
+    "text": "Jungfrau Region · Lauterbrunnen en hiver ↗",
+    "context": "sejours: a"
+  },
+  {
+    "id": "s0e65b4d417",
+    "text": "LE MEILLEUR MOMENT ? LE VÔTRE.",
+    "context": "sejours: p.eyebrow"
+  },
+  {
+    "id": "s8c2740912c",
+    "text": "Le programme vous ressemble.",
+    "context": "sejours: h2.h-l"
+  },
+  {
+    "id": "s9ea99476da",
+    "text": "La chambre vous attend.",
+    "context": "sejours: em"
+  },
+  {
+    "id": "s08b4b7251e",
+    "text": "Choisissez vos dates pour consulter les disponibilités.",
+    "context": "sejours: p"
+  },
+  {
+    "id": "seb7c6dcc1b",
+    "text": "Préparer mon séjour",
+    "context": "sejours: a.pill"
+  },
+  {
+    "id": "s6c6552bb11",
+    "text": "Consulter les ouvertures dans la région ↗",
+    "context": "sejours: a.link-arrow"
+  },
+  {
+    "id": "sd75a73f949",
+    "text": "Lauterbrunnen, vallée des 72 cascades · Que faire depuis l’Hotel Schützen",
+    "context": "vallee: title"
+  },
+  {
+    "id": "s0e21ad5ff2",
+    "text": "Staubbach, Trümmelbach, Mürren, Wengen, Jungfraujoch, Schilthorn : que faire dans la vallée de Lauterbrunnen et la Jungfrau Region depuis l’Hotel Schützen, avec les temps de trajet.",
+    "context": "vallee: SEO"
+  },
+  {
+    "id": "s8678e03488",
+    "text": "LE GRAND AIR VOUS ATTEND",
+    "context": "vallee: p.eyebrow"
+  },
+  {
+    "id": "s2ae8a4dc18",
+    "text": "grandeur nature.",
+    "context": "vallee: em"
+  },
+  {
+    "id": "s4b35551551",
+    "text": "Des villages perchés, des trains de montagne, des cascades et des sommets. Depuis notre porte, la vallée de Lauterbrunnen devient votre terrain d’émerveillement.",
+    "context": "vallee: p.pc-hero__intro"
+  },
+  {
+    "id": "s07523b9192",
+    "text": "Explorer les alentours",
+    "context": "vallee: a.pill"
+  },
+  {
+    "id": "s9145ce2fbf",
+    "text": "Vue aérienne sur la vallée de Lauterbrunnen entourée de falaises et de sommets",
+    "context": "vallee: img @alt"
+  },
+  {
+    "id": "sa2eb2a5650",
+    "text": "La Jungfrau Region, votre prochaine carte postale.",
+    "context": "vallee: figcaption"
+  },
+  {
+    "id": "sad74473b15",
+    "text": "Le village alpin de Mürren",
+    "context": "vallee: img @alt"
+  },
+  {
+    "id": "s116906bbde",
+    "text": "Un peu plus près du ciel.",
+    "context": "vallee: figcaption"
+  },
+  {
+    "id": "sbeebefb652",
+    "text": "On prend",
+    "context": "vallee: p.pc-handnote"
+  },
+  {
+    "id": "s953489e54e",
+    "text": "le grand air ?",
+    "context": "vallee: inline continuation"
+  },
+  {
+    "id": "se192bab1f1",
+    "text": "À voir",
+    "context": "vallee: a"
+  },
+  {
+    "id": "s0a8d9e5105",
+    "text": "Liens utiles",
+    "context": "vallee: a"
+  },
+  {
+    "id": "sb42e23c713",
+    "text": "Neuf façons",
+    "context": "vallee: h2.h-l"
+  },
+  {
+    "id": "sd3db999b63",
+    "text": "de s’émerveiller.",
+    "context": "vallee: em"
+  },
+  {
+    "id": "s5b89e63764",
+    "text": "297 mètres de chute libre devant l’hôtel ; une galerie dans la roche passe derrière le voile d’eau.",
+    "context": "vallee: p.idea__d"
+  },
+  {
+    "id": "s9cd0e5ca05",
+    "text": "Dix chutes glaciaires à l’intérieur de la montagne, accessibles par un ascenseur-tunnel.",
+    "context": "vallee: p.idea__d"
+  },
+  {
+    "id": "sa2b57c46b4",
+    "text": "Le village posé sur sa terrasse face à l’Eiger, au Mönch et à la Jungfrau.",
+    "context": "vallee: p.idea__d"
+  },
+  {
+    "id": "sd77ec49b51",
+    "text": "La plus haute gare d’Europe, l’observatoire du Sphinx et le glacier d’Aletsch.",
+    "context": "vallee: p.idea__d"
+  },
+  {
+    "id": "s70bc0f6418",
+    "text": "Le village de Wengen sur son balcon ensoleillé",
+    "context": "vallee: img @alt"
+  },
+  {
+    "id": "sd27d2fbb31",
+    "text": "15 min en train · 1 274 m",
+    "context": "vallee: p.idea__m"
+  },
+  {
+    "id": "sbfd1bd4f3f",
+    "text": "Wengen",
+    "context": "vallee: h3.idea__t"
+  },
+  {
+    "id": "sbcf37ffb3a",
+    "text": "La station du Lauberhorn, sans voitures, sur son balcon ensoleillé.",
+    "context": "vallee: p.idea__d"
+  },
+  {
+    "id": "s5a02bfd27f",
+    "text": "Téléphérique au-dessus des nuages",
+    "context": "vallee: img @alt"
+  },
+  {
+    "id": "s8ce99960a6",
+    "text": "1 h · 2 970 m",
+    "context": "vallee: p.idea__m"
+  },
+  {
+    "id": "s5bd713beac",
+    "text": "Schilthorn – Piz Gloria",
+    "context": "vallee: h3.idea__t"
+  },
+  {
+    "id": "s6f0b86de67",
+    "text": "Restaurant tournant et décor de James Bond, au-dessus de Mürren.",
+    "context": "vallee: p.idea__d"
+  },
+  {
+    "id": "sad33458784",
+    "text": "La face nord de l’Eiger",
+    "context": "vallee: img @alt"
+  },
+  {
+    "id": "sa8ff241a4b",
+    "text": "50 min en train · 2 061 m",
+    "context": "vallee: p.idea__m"
+  },
+  {
+    "id": "s18330c3abc",
+    "text": "Kleine Scheidegg",
+    "context": "vallee: h3.idea__t"
+  },
+  {
+    "id": "s18f451704f",
+    "text": "Le col au pied de la face nord de l’Eiger, carrefour des trains vers le Jungfraujoch.",
+    "context": "vallee: p.idea__d"
+  },
+  {
+    "id": "s0e5386f6ad",
+    "text": "Le lac de Brienz aux eaux turquoise",
+    "context": "vallee: img @alt"
+  },
+  {
+    "id": "s756edd0e80",
+    "text": "20 min jusqu’à Interlaken",
+    "context": "vallee: p.idea__m"
+  },
+  {
+    "id": "s90aec41113",
+    "text": "Lacs de Thoune & Brienz",
+    "context": "vallee: h3.idea__t"
+  },
+  {
+    "id": "s45b49a8a0a",
+    "text": "Eaux turquoise, châteaux et bateaux à vapeur, aller-retour dans la journée.",
+    "context": "vallee: p.idea__d"
+  },
+  {
+    "id": "s2db043ce56",
+    "text": "Le lac Bachalpsee où se reflètent les sommets",
+    "context": "vallee: img @alt"
+  },
+  {
+    "id": "s628c37269a",
+    "text": "Grindelwald · une journée",
+    "context": "vallee: p.idea__m"
+  },
+  {
+    "id": "s30a2b85955",
+    "text": "Bachalpsee",
+    "context": "vallee: h3.idea__t"
+  },
+  {
+    "id": "sba8b93550e",
+    "text": "Le lac au-dessus de Grindelwald, où se reflètent les sommets.",
+    "context": "vallee: p.idea__d"
+  },
+  {
+    "id": "s7ccc87bf47",
+    "text": "La tête dans les montagnes.",
+    "context": "vallee: span.pc-souvenir-note"
+  },
+  {
+    "id": "saf067ce635",
+    "text": "ON VOUS DONNE DES IDÉES ?",
+    "context": "vallee: p.eyebrow"
+  },
+  {
+    "id": "s004a64c7ac",
+    "text": "Transformez une envie en quelques jours dans les Alpes.",
+    "context": "vallee: h3"
+  },
+  {
+    "id": "s85655719a9",
+    "text": "Six suggestions de séjour à composer autour du Schützen.",
+    "context": "vallee: p"
+  },
+  {
+    "id": "se863aa3f64",
+    "text": "Trouver mon séjour",
+    "context": "vallee: a.pill"
+  },
+  {
+    "id": "s5e843afe7b",
+    "text": "Carnet",
+    "context": "vallee: p.eyebrow"
+  },
+  {
+    "id": "s1baae03d78",
+    "text": "Jungfraubahnen",
+    "context": "vallee: span.links__t"
+  },
+  {
+    "id": "sccfef34d3a",
+    "text": "Jungfraujoch, Wengen, Kleine Scheidegg",
+    "context": "vallee: span.links__d"
+  },
+  {
+    "id": "s8c89201c4e",
+    "text": "Téléphériques, restaurant tournant",
+    "context": "vallee: span.links__d"
+  },
+  {
+    "id": "s9f0c380078",
+    "text": "Chutes du Trümmelbach",
+    "context": "vallee: span.links__t"
+  },
+  {
+    "id": "seeda773f11",
+    "text": "Horaires et saison",
+    "context": "vallee: span.links__d"
+  },
+  {
+    "id": "s3c346f1eb1",
+    "text": "Interlaken Tourisme",
+    "context": "vallee: span.links__t"
+  },
+  {
+    "id": "s3ee25e02ee",
+    "text": "Lacs, activités, Tell-Spiele",
+    "context": "vallee: span.links__d"
+  },
+  {
+    "id": "s7bc2c8b63d",
+    "text": "CFF / SBB",
+    "context": "vallee: span.links__t"
+  },
+  {
+    "id": "sf3c00c1dc6",
+    "text": "Horaires des trains",
+    "context": "vallee: span.links__d"
+  },
+  {
+    "id": "s145d24f612",
+    "text": "Suisse Tourisme",
+    "context": "vallee: span.links__d"
+  },
+  {
+    "id": "s2544bd9f61",
+    "text": "Un chalet suisse au cœur du village, votre destination, notre chez-nous.",
+    "context": "vallee: span.suite__d"
+  },
+  {
+    "id": "s89b6f1bc6a",
+    "text": "L’hôtel-restaurant · Hotel Schützen, chalet suisse au cœur de Lauterbrunnen depuis 1671",
+    "context": "maison: title"
+  },
+  {
+    "id": "sa98918089e",
+    "text": "Histoire et valeurs de l’Hotel Schützen Lauterbrunnen : chalet suisse, Gemütlichkeit, tradition et modernité, musique populaire et accueil international. Votre destination, notre chez-nous.",
+    "context": "maison: SEO"
+  },
+  {
+    "id": "sd136797179",
+    "text": "IHR ZIEL, UNSERE HEIMAT",
+    "context": "maison: p.eyebrow"
+  },
+  {
+    "id": "s2012b16dfc",
+    "text": "Notre chalet.",
+    "context": "maison: h1"
+  },
+  {
+    "id": "se440a51bd9",
+    "text": "Vos souvenirs.",
+    "context": "maison: em"
+  },
+  {
+    "id": "sf9ee7a9dd8",
+    "text": "Du bois, une cheminée, des géraniums et un accueil tout simple. Votre destination est notre chez-nous. Entrez : le Schützen vous ouvre sa porte.",
+    "context": "maison: p.pc-hero__intro"
+  },
+  {
+    "id": "sd24cc751d6",
+    "text": "L’album photo",
+    "context": "maison: span"
+  },
+  {
+    "id": "s4664fa9fc2",
+    "text": "Le chalet de l’Hotel Schützen éclairé au crépuscule",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "s5da642c5d3",
+    "text": "Un chalet auquel on s’attache.",
+    "context": "maison: figcaption"
+  },
+  {
+    "id": "s7bf3809d7b",
+    "text": "La cheminée en pierre du restaurant Schützen",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "s98eb54377b",
+    "text": "Une place près du feu.",
+    "context": "maison: figcaption"
+  },
+  {
+    "id": "s2da427c2c6",
+    "text": "Bienvenue",
+    "context": "maison: p.pc-handnote"
+  },
+  {
+    "id": "s3c2abb8a57",
+    "text": "chez nous.",
+    "context": "maison: inline continuation"
+  },
+  {
+    "id": "s1f2cbf36fc",
+    "text": "Valeurs",
+    "context": "maison: a"
+  },
+  {
+    "id": "s1bbb61000e",
+    "text": "Repères",
+    "context": "maison: a"
+  },
+  {
+    "id": "sd52ca65240",
+    "text": "L’Hotel Schützen et sa terrasse au pied de la falaise du Staubbach",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "s0741e18ae4",
+    "text": "Un chalet,",
+    "context": "maison: h2.h-l"
+  },
+  {
+    "id": "s83ccce4085",
+    "text": "une âme suisse.",
+    "context": "maison: em"
+  },
+  {
+    "id": "s1eee3f3b1d",
+    "text": "Classique dans son architecture de chalet, contemporain dans son confort, le Schützen cultive un équilibre entre le bon vieux temps et la modernité. Vingt-cinq chambres à l’étage, le restaurant du village au rez-de-chaussée, la chute du Staubbach en face.",
+    "context": "maison: p"
+  },
+  {
+    "id": "s3030e7445b",
+    "text": "Nous entretenons avec nos hôtes, venus du monde entier, une relation simple, amicale et sincère : on vous conseille le sentier qui convient au ciel du jour et l’on garde une table près du feu pour votre retour.",
+    "context": "maison: p"
+  },
+  {
+    "id": "saa96cc8dfc",
+    "text": "Claude Müller et toute l’équipe",
+    "context": "maison: p.sign"
+  },
+  {
+    "id": "sd13e84d1f7",
+    "text": "Un chalet, tant de souvenirs.",
+    "context": "maison: span.pc-souvenir-note"
+  },
+  {
+    "id": "sea0b9e3d0a",
+    "text": "Ce qui nous tient à cœur",
+    "context": "maison: h2.h-l"
+  },
+  {
+    "id": "s1fcf8dd0fd",
+    "text": "Gemütlichkeit",
+    "context": "maison: h3"
+  },
+  {
+    "id": "s4b88c044fb",
+    "text": "Le bois, la cheminée, la lumière douce : un confort qui réchauffe avant même de s’asseoir.",
+    "context": "maison: p"
+  },
+  {
+    "id": "s71255329f4",
+    "text": "Tradition & modernité",
+    "context": "maison: h3"
+  },
+  {
+    "id": "s804ca99dad",
+    "text": "Des recettes d’antan, des chambres actuelles, un hôtel qui évolue sans perdre son âme.",
+    "context": "maison: p"
+  },
+  {
+    "id": "sd89287343c",
+    "text": "Hospitalité",
+    "context": "maison: h3"
+  },
+  {
+    "id": "s1aa92108f4",
+    "text": "Un accueil amical pour les voyageurs du monde entier, en allemand, en anglais et en français.",
+    "context": "maison: p"
+  },
+  {
+    "id": "s8738e4c02e",
+    "text": "Ancrage local",
+    "context": "maison: h3"
+  },
+  {
+    "id": "s2f7756e70a",
+    "text": "Fromages de la région, costume traditionnel, musique populaire : la vallée s’invite au Schützen.",
+    "context": "maison: p"
+  },
+  {
+    "id": "sbc6c0ee1a0",
+    "text": "Le cœur bien suisse.",
+    "context": "maison: span.pc-souvenir-note"
+  },
+  {
+    "id": "s25db4f7976",
+    "text": "Un hôtel qui se transmet",
+    "context": "maison: h2.h-l"
+  },
+  {
+    "id": "s20dd9f876b",
+    "text": "La date que porte le blason de l’hôtel : plus de trois siècles d’accueil au cœur du village.",
+    "context": "maison: p"
+  },
+  {
+    "id": "s97887e3c00",
+    "text": "Rénovation du restaurant : bois indigène, cheminée ouverte, tabourets de bar nés d’anciens bidons à lait.",
+    "context": "maison: p"
+  },
+  {
+    "id": "s50b7f37f40",
+    "text": "Soirées de musique populaire (Ländlerabende) et distinction « Typical Swiss » de Best of Swiss Gastro.",
+    "context": "maison: p"
+  },
+  {
+    "id": "sa126935507",
+    "text": "Rénovation de l’hôtel et de ses chambres.",
+    "context": "maison: p"
+  },
+  {
+    "id": "s21718f1683",
+    "text": "Nouveau rafraîchissement pour plus de confort, en préservant le caractère alpin.",
+    "context": "maison: p"
+  },
+  {
+    "id": "sba0603b43d",
+    "text": "Aujourd’hui",
+    "context": "maison: b"
+  },
+  {
+    "id": "s631d7d3b6a",
+    "text": "Claude Müller et son équipe vous accueillent.",
+    "context": "maison: p"
+  },
+  {
+    "id": "se34d18a371",
+    "text": "Un petit chez-vous dans les Alpes.",
+    "context": "maison: span.pc-souvenir-note"
+  },
+  {
+    "id": "sab40fb86dd",
+    "text": "Les petits détails.",
+    "context": "maison: h2.h-l"
+  },
+  {
+    "id": "sf24cdf9dbf",
+    "text": "Les grands souvenirs.",
+    "context": "maison: em"
+  },
+  {
+    "id": "sc023938d45",
+    "text": "Agrandir : L’Hotel Schützen au pied de la falaise du Staubbach",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "s7c80144c97",
+    "text": "L’Hotel Schützen au pied de la falaise du Staubbach",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "s96ab674b5b",
+    "text": "Agrandir : Chambre mansardée boisée",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "s8a1ac2afe4",
+    "text": "Chambre mansardée boisée",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "s954288678a",
+    "text": "Agrandir : Salle du restaurant, nappes à carreaux",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "s4c737ee9a8",
+    "text": "Salle du restaurant, nappes à carreaux",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "sd7d0f71e37",
+    "text": "Agrandir : Fondue au fromage",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "sf2b3ef525d",
+    "text": "Agrandir : Cheminée en pierre du restaurant",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "s8b1a25df15",
+    "text": "Cheminée en pierre du restaurant",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "s3b3b43f687",
+    "text": "Agrandir : Façade et terrasse de l’hôtel",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "s3560bccc05",
+    "text": "Façade et terrasse de l’hôtel",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "s8e95818d27",
+    "text": "Agrandir : Tabourets du bar en bidons à lait",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "s8c4bd7d56e",
+    "text": "Tabourets du bar en bidons à lait",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "s4c12244b67",
+    "text": "Agrandir : Chambre boisée",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "sf53e7f7920",
+    "text": "Chambre boisée",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "s26a40c4343",
+    "text": "Agrandir : Raclette",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "sb94947a00b",
+    "text": "Raclette",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "sf2e6a38ac9",
+    "text": "Agrandir : L’hôtel illuminé le soir",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "s7d5019c3bf",
+    "text": "L’hôtel illuminé le soir",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "s2807372c76",
+    "text": "Agrandir : Le Staubbach éclairé la nuit",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "s44b57a624e",
+    "text": "Le Staubbach éclairé la nuit",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "s060a424ec1",
+    "text": "Agrandir : Banquettes rouges du restaurant",
+    "context": "maison: button @aria-label"
+  },
+  {
+    "id": "sa0ff73127c",
+    "text": "Banquettes rouges du restaurant",
+    "context": "maison: img @alt"
+  },
+  {
+    "id": "sff274a4120",
+    "text": "Train, voiture, avion : venir à Lauterbrunnen, et tout ce qu’il faut savoir.",
+    "context": "maison: span.suite__d"
+  },
+  {
+    "id": "s764f0e6338",
+    "text": "Infos pratiques & accès · Hotel Schützen Lauterbrunnen",
+    "context": "infos: title"
+  },
+  {
+    "id": "se840b4e272",
+    "text": "Adresse, accès en train, en voiture et en avion, parking, horaires d’arrivée et de départ, conditions et questions fréquentes de l’Hotel Schützen à Lauterbrunnen.",
+    "context": "infos: SEO"
+  },
+  {
+    "id": "sa1cb08ba26",
+    "text": "TOUS LES CHEMINS MÈNENT AUX ALPES",
+    "context": "infos: p.eyebrow"
+  },
+  {
+    "id": "sebc2025ece",
+    "text": "Votre voyage",
+    "context": "infos: h1"
+  },
+  {
+    "id": "s6d08cf39fe",
+    "text": "commence ici.",
+    "context": "infos: em"
+  },
+  {
+    "id": "s35ab6eae5f",
+    "text": "En train, en voiture, avec une grande valise ou un petit sac. Voici toutes les informations pour arriver au Schützen l’esprit léger.",
+    "context": "infos: p.pc-hero__intro"
+  },
+  {
+    "id": "s5655295d13",
+    "text": "Comment venir ?",
+    "context": "infos: a.pill"
+  },
+  {
+    "id": "sf02ffb674a",
+    "text": "Nous contacter",
+    "context": "infos: span"
+  },
+  {
+    "id": "s847ee9d7e1",
+    "text": "Train de montagne jaune dans un paysage alpin suisse",
+    "context": "infos: img @alt"
+  },
+  {
+    "id": "s5390e4d9f6",
+    "text": "Prochain arrêt : Lauterbrunnen.",
+    "context": "infos: figcaption"
+  },
+  {
+    "id": "s8d3ca710fc",
+    "text": "La terrasse de l’Hotel Schützen",
+    "context": "infos: img @alt"
+  },
+  {
+    "id": "s0a749a6697",
+    "text": "Et nous, on vous attend.",
+    "context": "infos: figcaption"
+  },
+  {
+    "id": "s60e66b247c",
+    "text": "Destination :",
+    "context": "infos: p.pc-handnote"
+  },
+  {
+    "id": "s6987f225e6",
+    "text": "le bonheur.",
+    "context": "infos: inline continuation"
+  },
+  {
+    "id": "s6e47e630f4",
+    "text": "Accès",
+    "context": "infos: a"
+  },
+  {
+    "id": "s99c2c8c959",
+    "text": "En train",
+    "context": "infos: a"
+  },
+  {
+    "id": "s9a1fc1731f",
+    "text": "Questions",
+    "context": "infos: a"
+  },
+  {
+    "id": "s93a9a0c474",
+    "text": "Contact et informations pratiques",
+    "context": "infos: section.sec @aria-label"
+  },
+  {
+    "id": "s5c4d06f8ad",
+    "text": "Nous joindre",
+    "context": "infos: h2.icard__t"
+  },
+  {
+    "id": "scdd28e1a69",
+    "text": "Copier",
+    "context": "infos: button.chip"
+  },
+  {
+    "id": "sb374a65295",
+    "text": "Hotel Schützen Lauterbrunnen AG",
+    "context": "infos: p.muted"
+  },
+  {
+    "id": "sa1292b6cdf",
+    "text": "Fuhren 439, CH-3822 Lauterbrunnen",
+    "context": "infos: inline continuation"
+  },
+  {
+    "id": "s367f014856",
+    "text": "Arrivée & départ",
+    "context": "infos: h2.icard__t"
+  },
+  {
+    "id": "s970f5a97de",
+    "text": "Après 20h",
+    "context": "infos: dt"
+  },
+  {
+    "id": "sf62218a3c9",
+    "text": "Prévenez-nous",
+    "context": "infos: dd"
+  },
+  {
+    "id": "sa2e1703c94",
+    "text": "Jusqu’à 11:00",
+    "context": "infos: dd"
+  },
+  {
+    "id": "s40f4d01ea3",
+    "text": "Sur place",
+    "context": "infos: h2.icard__t"
+  },
+  {
+    "id": "s780ff71c8f",
+    "text": "Wi-Fi",
+    "context": "infos: dt"
+  },
+  {
+    "id": "scb450d3c21",
+    "text": "Offert",
+    "context": "infos: dd"
+  },
+  {
+    "id": "saef05c2870",
+    "text": "Parking",
+    "context": "infos: dt"
+  },
+  {
+    "id": "s705667eefc",
+    "text": "Gratuit",
+    "context": "infos: dd"
+  },
+  {
+    "id": "s57c08d2656",
+    "text": "Petit-déj.",
+    "context": "infos: dt"
+  },
+  {
+    "id": "scc30a3f4d8",
+    "text": "Pas en chambre ; bienvenus au restaurant et en terrasse",
+    "context": "infos: dd"
+  },
+  {
+    "id": "sbdcc648926",
+    "text": "On est là pour vous.",
+    "context": "infos: span.pc-souvenir-note"
+  },
+  {
+    "id": "s13fe71a895",
+    "text": "Venir à Lauterbrunnen",
+    "context": "infos: h2.h-l"
+  },
+  {
+    "id": "s03b354f3e2",
+    "text": "Les lignes internationales mènent à Interlaken Ost. De là, la Berner Oberland Bahn rejoint Lauterbrunnen en une vingtaine de minutes. L’hôtel est à cinq minutes à pied de la gare.",
+    "context": "infos: p"
+  },
+  {
+    "id": "s9f4ac499f4",
+    "text": "En voiture",
+    "context": "infos: summary"
+  },
+  {
+    "id": "scc8ee40f9f",
+    "text": "L’autoroute mène à Interlaken, puis une route bien aménagée monte à Lauterbrunnen. Parking gratuit devant et derrière l’hôtel ; lors des grands événements comme le Lauberhorn, des parkings publics payants sont disponibles à proximité.",
+    "context": "infos: p"
+  },
+  {
+    "id": "sa84af2e7bf",
+    "text": "En avion",
+    "context": "infos: summary"
+  },
+  {
+    "id": "sa5328b0ede",
+    "text": "Aéroports de Berne-Belp (environ 47 km), Bâle, Genève ou Zurich, puis train ou taxi jusqu’à Lauterbrunnen. Nous vous conseillons volontiers pour un transfert.",
+    "context": "infos: p"
+  },
+  {
+    "id": "s5bb585b869",
+    "text": "Itinéraire Google Maps",
+    "context": "infos: span"
+  },
+  {
+    "id": "s944f7126af",
+    "text": "Horaires CFF",
+    "context": "infos: span"
+  },
+  {
+    "id": "s0baee4e9b6",
+    "text": "Plan schématique : Interlaken, Lauterbrunnen, Wengen, Mürren, Kleine Scheidegg, Jungfraujoch, Schilthorn et Stechelberg",
+    "context": "infos: svg.map @aria-label"
+  },
+  {
+    "id": "s6f6c16668b",
+    "text": "Interlaken Ost · 568 m",
+    "context": "infos: text"
+  },
+  {
+    "id": "s63e3058779",
+    "text": "Wengen · 1 274 m",
+    "context": "infos: text"
+  },
+  {
+    "id": "sffecf36454",
+    "text": "Kleine Scheidegg · 2 061 m",
+    "context": "infos: text"
+  },
+  {
+    "id": "sfcaf17db26",
+    "text": "Jungfraujoch · 3 454 m",
+    "context": "infos: text"
+  },
+  {
+    "id": "sf56711e542",
+    "text": "Grütschalp",
+    "context": "infos: text"
+  },
+  {
+    "id": "s525a896a75",
+    "text": "Mürren · 1 638 m",
+    "context": "infos: text"
+  },
+  {
+    "id": "sb1db88495d",
+    "text": "Schilthorn · 2 970 m",
+    "context": "infos: text"
+  },
+  {
+    "id": "se61865c949",
+    "text": "Stechelberg",
+    "context": "infos: text"
+  },
+  {
+    "id": "s180a7cdc5a",
+    "text": "Trümmelbach",
+    "context": "infos: text"
+  },
+  {
+    "id": "s99a6b2cef6",
+    "text": "Hotel Schützen",
+    "context": "infos: text.map__name"
+  },
+  {
+    "id": "s630f15d579",
+    "text": "Lauterbrunnen · 802 m",
+    "context": "infos: text.map__sub"
+  },
+  {
+    "id": "s18f57f2a16",
+    "text": "Staubbach",
+    "context": "infos: text.map__sub"
+  },
+  {
+    "id": "sce3c6287f8",
+    "text": "Vos repères dans la vallée",
+    "context": "infos: h3"
+  },
+  {
+    "id": "sff9a327bdf",
+    "text": "Au village",
+    "context": "infos: dt"
+  },
+  {
+    "id": "sc4d47ecae2",
+    "text": "Hotel Schützen, Lauterbrunnen (802 m) et cascade du Staubbach.",
+    "context": "infos: dd"
+  },
+  {
+    "id": "sd67d5de7f0",
+    "text": "Vers Interlaken",
+    "context": "infos: dt"
+  },
+  {
+    "id": "s29fed7c490",
+    "text": "Interlaken Ost (568 m).",
+    "context": "infos: dd"
+  },
+  {
+    "id": "s7611d81e10",
+    "text": "Côté Wengen",
+    "context": "infos: dt"
+  },
+  {
+    "id": "sad93bb9be6",
+    "text": "Wengen (1 274 m), Kleine Scheidegg (2 061 m), Jungfraujoch (3 454 m).",
+    "context": "infos: dd"
+  },
+  {
+    "id": "s0b090ce4be",
+    "text": "Côté Mürren",
+    "context": "infos: dt"
+  },
+  {
+    "id": "sc5f51b084a",
+    "text": "Grütschalp, Mürren (1 638 m), Schilthorn (2 970 m).",
+    "context": "infos: dd"
+  },
+  {
+    "id": "s669ea1f59e",
+    "text": "Au fond de la vallée",
+    "context": "infos: dt"
+  },
+  {
+    "id": "s32e8327e83",
+    "text": "Trümmelbach et Stechelberg.",
+    "context": "infos: dd"
+  },
+  {
+    "id": "s6177500843",
+    "text": "Jusqu’à la gare de Lauterbrunnen",
+    "context": "infos: h2.h-l"
+  },
+  {
+    "id": "s1071f4edc0",
+    "text": "Durées indicatives, à vérifier sur sbb.ch selon l’horaire du jour.",
+    "context": "infos: p.shead__p"
+  },
+  {
+    "id": "sf206d3ec1f",
+    "text": "Distances en train",
+    "context": "infos: div.board @aria-label"
+  },
+  {
+    "id": "sa93a213c55",
+    "text": "Depuis",
+    "context": "infos: span"
+  },
+  {
+    "id": "s22eea01fdb",
+    "text": "Repère",
+    "context": "infos: span"
+  },
+  {
+    "id": "sebd02f9ff2",
+    "text": "Trajet",
+    "context": "infos: span"
+  },
+  {
+    "id": "s153d7a58b3",
+    "text": "Comment",
+    "context": "infos: span"
+  },
+  {
+    "id": "s88c7351a9f",
+    "text": "Interlaken Ost",
+    "context": "infos: strong"
+  },
+  {
+    "id": "s24db69da9c",
+    "text": "Berner Oberland Bahn, direct",
+    "context": "infos: span.board__v"
+  },
+  {
+    "id": "sb98c12d288",
+    "text": "Berne",
+    "context": "infos: strong"
+  },
+  {
+    "id": "s27e06d3283",
+    "text": "Capitale fédérale",
+    "context": "infos: span.board__a"
+  },
+  {
+    "id": "s851f0f2041",
+    "text": "Via Interlaken Ost",
+    "context": "infos: span.board__v"
+  },
+  {
+    "id": "s470964fac0",
+    "text": "Lucerne",
+    "context": "infos: strong"
+  },
+  {
+    "id": "s00c4d2aebe",
+    "text": "Suisse centrale",
+    "context": "infos: span.board__a"
+  },
+  {
+    "id": "s838b7191b5",
+    "text": "Via Interlaken Ost (ligne du Brünig)",
+    "context": "infos: span.board__v"
+  },
+  {
+    "id": "s6e9c434969",
+    "text": "Bâle",
+    "context": "infos: strong"
+  },
+  {
+    "id": "sf977be5353",
+    "text": "Nord-ouest",
+    "context": "infos: span.board__a"
+  },
+  {
+    "id": "s3c1be9e6d7",
+    "text": "Via Berne et Interlaken",
+    "context": "infos: span.board__v"
+  },
+  {
+    "id": "sbe1ac36391",
+    "text": "Zurich",
+    "context": "infos: strong"
+  },
+  {
+    "id": "s3a75204543",
+    "text": "Aéroport & ville",
+    "context": "infos: span.board__a"
+  },
+  {
+    "id": "sea6c4889b5",
+    "text": "Genève",
+    "context": "infos: strong"
+  },
+  {
+    "id": "s8281db8ecd",
+    "text": "Léman",
+    "context": "infos: span.board__a"
+  },
+  {
+    "id": "s29a6d6a606",
+    "text": "Via Berne ou par le GoldenPass",
+    "context": "infos: span.board__v"
+  },
+  {
+    "id": "s7c2106d73c",
+    "text": "Le grand air n’est jamais loin.",
+    "context": "infos: span.pc-souvenir-note"
+  },
+  {
+    "id": "s3444220228",
+    "text": "Les petites questions",
+    "context": "infos: h2.h-l"
+  },
+  {
+    "id": "sc634b6e644",
+    "text": "avant le grand départ.",
+    "context": "infos: em"
+  },
+  {
+    "id": "s132c272902",
+    "text": "Où se trouve l’Hôtel Schützen à Lauterbrunnen ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "s16397f4144",
+    "text": "Au cœur du village, Fuhren 439, 3822 Lauterbrunnen, à environ cinq minutes à pied de la gare. Un arrêt de bus se trouve devant le restaurant et la chute du Staubbach est visible depuis l’hôtel.",
+    "context": "infos: p"
+  },
+  {
+    "id": "s172c83dd0a",
+    "text": "Quelles chambres ont vue sur la cascade du Staubbach ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "sfd3907301d",
+    "text": "Le petit-déjeuner est-il inclus ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "sc350e7e1ba",
+    "text": "Peut-on réserver une table au restaurant ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "s40854b2cc8",
+    "text": "Le restaurant ne prend pas de réservation de table : il est ouvert tous les jours de 11h à 21h, cuisine chaude de 12h à 20h. Pour un groupe ou une fête, écrivez-nous à l’avance.",
+    "context": "infos: p"
+  },
+  {
+    "id": "s11ce75f954",
+    "text": "Y a-t-il un parking à l’hôtel ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "s4b9e0934a5",
+    "text": "Oui, le parking est gratuit, devant et derrière l’hôtel. Lors de grands événements comme le Lauberhorn, des parkings publics payants sont disponibles à proximité.",
+    "context": "infos: p"
+  },
+  {
+    "id": "s6c89de03da",
+    "text": "Comment venir à Lauterbrunnen sans voiture ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "s92a9713be5",
+    "text": "Rejoignez Interlaken Ost en train, puis la ligne de la Berner Oberland Bahn jusqu’à Lauterbrunnen, environ 20 minutes. Wengen et Mürren, villages sans voitures, se rejoignent ensuite en train et en téléphérique.",
+    "context": "infos: p"
+  },
+  {
+    "id": "s906bdeb3fc",
+    "text": "Quels sont les horaires d’arrivée et de départ ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "sda08cc6b7f",
+    "text": "Arrivée de 14h à 19h30, départ jusqu’à 11h. Si vous arrivez après 20h, prévenez-nous afin que nous organisions votre accueil.",
+    "context": "infos: p"
+  },
+  {
+    "id": "sb8af30b09c",
+    "text": "Les animaux sont-ils acceptés ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "sa848425693",
+    "text": "Comment se passe la réservation en ligne ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "s44eb11e9ab",
+    "text": "Touchez « Réserver » et choisissez vos dates : elles restent mémorisées sur ce site et nous ouvrons Booking.com ou Google avec ces dates, pour voir les chambres libres et les prix du jour. Vous pouvez aussi réserver en direct par téléphone ou par e-mail.",
+    "context": "infos: p"
+  },
+  {
+    "id": "s8b28ac4675",
+    "text": "Les enfants paient-ils ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "sa8bdfb1c8c",
+    "text": "Quelle est la meilleure saison pour visiter la vallée ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "s2e2a7393ab",
+    "text": "De juin à octobre pour la randonnée et les cascades en pleine puissance (les chutes du Trümmelbach sont ouvertes d’avril à novembre), de décembre à avril pour le ski dans la Jungfrau Region.",
+    "context": "infos: p"
+  },
+  {
+    "id": "s864d78a500",
+    "text": "Comment payer ?",
+    "context": "infos: summary"
+  },
+  {
+    "id": "s43a8afcbb0",
+    "text": "American Express, Diners Club, Maestro, Mastercard, PostFinance, Visa, espèces. La taxe de séjour de la commune s’ajoute au prix de la chambre ; les conditions d’annulation dépendent du tarif choisi.",
+    "context": "infos: p"
+  },
+  {
+    "id": "sbb531b87eb",
+    "text": "Poser une autre question",
+    "context": "infos: span"
+  },
+  {
+    "id": "sa9e78c0248",
+    "text": "Les vacances se préparent en douceur.",
+    "context": "infos: span.pc-souvenir-note"
+  },
+  {
+    "id": "s09c4955857",
+    "text": "Vos dates une fois, et Booking.com ou Google s’ouvrent avec les prix du jour.",
+    "context": "infos: span.suite__d"
+  },
+  {
+    "id": "s45b896c6a8",
+    "text": "Réserver · Hotel Schützen Lauterbrunnen, prix du jour sur Booking.com et Google",
+    "context": "reservation: title"
+  },
+  {
+    "id": "s58cea540be",
+    "text": "Choisissez vos dates à l’Hotel Schützen Lauterbrunnen : elles restent mémorisées et ouvrent Booking.com ou Google avec les prix du jour. Réservation directe par téléphone ou e-mail, groupes et événements.",
+    "context": "reservation: SEO"
+  },
+  {
+    "id": "sb8b887b5df",
+    "text": "ET SI ON SE RETROUVAIT ICI ?",
+    "context": "reservation: p.eyebrow"
+  },
+  {
+    "id": "s33f7406d98",
+    "text": "À vous",
+    "context": "reservation: h1"
+  },
+  {
+    "id": "s68e9e4f1d9",
+    "text": "les Alpes.",
+    "context": "reservation: em"
+  },
+  {
+    "id": "sf1bde45e53",
+    "text": "Choisissez vos dates, vos compagnons de voyage et votre chambre. Votre prochaine escapade suisse commence par une petite envie.",
+    "context": "reservation: p.pc-hero__intro"
+  },
+  {
+    "id": "s1936c8c389",
+    "text": "Choisir mes dates",
+    "context": "reservation: a.pill"
+  },
+  {
+    "id": "sac52b6df9d",
+    "text": "Découvrir les chambres",
+    "context": "reservation: span"
+  },
+  {
+    "id": "sde555819cd",
+    "text": "L’Hotel Schützen dans son décor hivernal à Lauterbrunnen",
+    "context": "reservation: img @alt"
+  },
+  {
+    "id": "s58da1f115a",
+    "text": "Bientôt, ce sera votre souvenir.",
+    "context": "reservation: figcaption"
+  },
+  {
+    "id": "s87c30f2d30",
+    "text": "Une chambre de chalet de l’Hotel Schützen",
+    "context": "reservation: img @alt"
+  },
+  {
+    "id": "s20303513fe",
+    "text": "Votre parenthèse alpine.",
+    "context": "reservation: figcaption"
+  },
+  {
+    "id": "s56db53856b",
+    "text": "On garde",
+    "context": "reservation: p.pc-handnote"
+  },
+  {
+    "id": "sad9ad73ed9",
+    "text": "une place ?",
+    "context": "reservation: inline continuation"
+  },
+  {
+    "id": "sed563dddc7",
+    "text": "Une chambre",
+    "context": "reservation: a"
+  },
+  {
+    "id": "s9b220b01b7",
+    "text": "Au restaurant",
+    "context": "reservation: a"
+  },
+  {
+    "id": "sede0747ec0",
+    "text": "Votre idée de séjour",
+    "context": "reservation: aside.booking-stay-context @aria-label"
+  },
+  {
+    "id": "s3d7aa1b868",
+    "text": "VOTRE ENVIE D’ALPES",
+    "context": "reservation: small"
+  },
+  {
+    "id": "s90014c2a53",
+    "text": "Commençons par votre chambre. Les activités et transports se préparent séparément.",
+    "context": "reservation: p"
+  },
+  {
+    "id": "s833a77bdc5",
+    "text": "Revoir l’idée",
+    "context": "reservation: a.link-arrow"
+  },
+  {
+    "id": "sd19175dfbf",
+    "text": "Votre séjour",
+    "context": "reservation: h3.bookcard__t"
+  },
+  {
+    "id": "s5ebd8321df",
+    "text": "Nuits",
+    "context": "reservation: dt"
+  },
+  {
+    "id": "sc5f641e4d1",
+    "text": "Toutes",
+    "context": "reservation: dd"
+  },
+  {
+    "id": "se31c595e26",
+    "text": "Réserver en direct par e-mail",
+    "context": "reservation: a.btn"
+  },
+  {
+    "id": "s0cc4625a97",
+    "text": "Réception :",
+    "context": "reservation: p.bookcard__call"
+  },
+  {
+    "id": "s9b9562f5a5",
+    "text": "On vous garde une envie d’Alpes.",
+    "context": "reservation: span.pc-souvenir-note"
+  },
+  {
+    "id": "s6e577b7e14",
+    "text": "Au restaurant,",
+    "context": "reservation: h2.h-l"
+  },
+  {
+    "id": "s0ae9e4b28a",
+    "text": "venez comme vous êtes.",
+    "context": "reservation: em"
+  },
+  {
+    "id": "sf8467f806d",
+    "text": "Le restaurant est ouvert tous les jours de 11h à 21h, cuisine chaude de 12h à 20h, et le petit-déjeuner de 7h30 à 10h, aussi pour les personnes extérieures à l’hôtel.",
+    "context": "reservation: p"
+  },
+  {
+    "id": "s4a8c3127ae",
+    "text": "Le plaisir de se retrouver.",
+    "context": "reservation: span.pc-souvenir-note"
+  },
+  {
+    "id": "s538cea59e7",
+    "text": "Groupes, fêtes & entreprises",
+    "context": "reservation: h2.h-l"
+  },
+  {
+    "id": "seb5cd40438",
+    "text": "Une centaine de places en salles modulables, accessibles en fauteuil roulant : fondues de groupe, fêtes de famille, séminaires et sorties d’équipe. Décrivez-nous votre projet, nous revenons vers vous avec une proposition.",
+    "context": "reservation: p"
+  },
+  {
+    "id": "s1af5b0bc3a",
+    "text": "Plus on est, plus on partage.",
+    "context": "reservation: span.pc-souvenir-note"
+  },
+  {
+    "id": "sff2427ab20",
+    "text": "Retour à l’accueil",
+    "context": "reservation: section.suite @aria-label"
+  },
+  {
+    "id": "s315e02ecbd",
+    "text": "Le chalet-hôtel face à la chute du Staubbach.",
+    "context": "reservation: span.suite__d"
+  },
+  {
+    "id": "s7a32ae0fa9",
+    "text": "Janvier",
+    "context": "regional event"
+  },
+  {
+    "id": "s078a3beebb",
+    "text": "Lauberhorn",
+    "context": "regional event"
+  },
+  {
+    "id": "scc93e530d0",
+    "text": "La plus longue descente de la Coupe du monde de ski, à Wengen.",
+    "context": "regional event"
+  },
+  {
+    "id": "s5598820dee",
+    "text": "Inferno Mürren",
+    "context": "regional event"
+  },
+  {
+    "id": "sed4750f571",
+    "text": "Course de ski amateur légendaire, du Schilthorn à la vallée, depuis 1928.",
+    "context": "regional event"
+  },
+  {
+    "id": "s544cc32b42",
+    "text": "Été",
+    "context": "regional event"
+  },
+  {
+    "id": "scb03da1d9e",
+    "text": "Tell-Spiele",
+    "context": "regional event"
+  },
+  {
+    "id": "s0b48bcdd3d",
+    "text": "Guillaume Tell en plein air à Interlaken.",
+    "context": "regional event"
+  },
+  {
+    "id": "s460b6696b2",
+    "text": "Août",
+    "context": "regional event"
+  },
+  {
+    "id": "s9ec56fc62c",
+    "text": "Inferno-Triathlon",
+    "context": "regional event"
+  },
+  {
+    "id": "s172afcc4ea",
+    "text": "De Thoune au sommet du Schilthorn, à la nage, à vélo et à pied.",
+    "context": "regional event"
+  },
+  {
+    "id": "sa6057d1599",
+    "text": "1er août",
+    "context": "regional event"
+  },
+  {
+    "id": "s50372ad546",
+    "text": "Fête nationale",
+    "context": "regional event"
+  },
+  {
+    "id": "s9e2b7e7e5c",
+    "text": "Feux sur les crêtes et lampions dans la vallée.",
+    "context": "regional event"
+  },
+  {
+    "id": "s08d23f3135",
+    "text": "Septembre",
+    "context": "regional event"
+  },
+  {
+    "id": "s1005c77ebe",
+    "text": "Jungfrau-Marathon",
+    "context": "regional event"
+  },
+  {
+    "id": "sf8da2d098a",
+    "text": "D’Interlaken à la Kleine Scheidegg, face à l’Eiger.",
+    "context": "regional event"
+  },
+  {
+    "id": "s1fb089153f",
+    "text": "L’hôtel-restaurant",
+    "context": "page title"
+  },
+  {
+    "id": "sa3deb6de93",
+    "text": "Réservation",
+    "context": "page title"
+  }
+]

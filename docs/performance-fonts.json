@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-10-24T16:09:34.965519+00:00",
+  "status": "not_converted_missing_brotli",
+  "reason": "fontTools is installed, but neither brotli nor brotlicffi is installed and fontTools reports no WOFF2 encoder. No dependency was installed.",
+  "libraries": {
+    "fontTools": "4.61.1",
+    "brotli_installed": false,
+    "brotlicffi_installed": false,
+    "woff2_encoder_available": false
+  },
+  "originals_preserved": true,
+  "html_css_unchanged": true,
+  "fonts": [
+    {
+      "source": "/assets/manrope-latin.woff",
+      "source_bytes": 21588,
+      "source_sha256": "acf38669a41de54c64acc3f2b540216533586aeeb9453ebcbb7a09eac8520a7e",
+      "woff2_generated": false,
+      "woff2_bytes": null,
+      "saved_bytes": null
+    },
+    {
+      "source": "/assets/cormorant-garamond-italic.woff",
+      "source_bytes": 33536,
+      "source_sha256": "d4d9777684e82a670a125f2ae111aafd6dfd0f1c25947ac8f1ad5d2d272e8ed8",
+      "woff2_generated": false,
+      "woff2_bytes": null,
+      "saved_bytes": null
+    }
+  ]
+}

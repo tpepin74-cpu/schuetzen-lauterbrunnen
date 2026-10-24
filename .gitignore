@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+.openai/*.local.*
+/de/
+/en/
+/zh/
+/ru/
+/ko/
+/it/
+/es/
+/public/locales/

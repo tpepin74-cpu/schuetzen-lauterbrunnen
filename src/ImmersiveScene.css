@@ -1,0 +1,66 @@
+.immersive-scene{position:absolute;inset:0;overflow:clip;isolation:isolate;background:#263b38;pointer-events:none;color:var(--ivory,#f7f4eb)}
+.immersive-scene img{display:block;user-select:none;-webkit-user-drag:none}
+.immersive-background{position:absolute;inset:0;z-index:0;transform-origin:42% 45%;will-change:transform}
+.immersive-background img{width:100%;height:100%;object-fit:cover;object-position:42% 50%}
+.immersive-restaurant{position:absolute;right:-4vw;bottom:0;width:auto;height:112svh;aspect-ratio:4/3;z-index:3;transform-origin:74% 88%;will-change:transform}
+.immersive-restaurant>img{position:absolute;inset:0;width:100%;height:100%;object-fit:fill}
+/* Source pixels remain unchanged. The silhouette follows the actual roof,
+   terrace, planting, entrance stairs and street in the supplied photograph. */
+.immersive-real-hotel{clip-path:polygon(14% 100%,14% 79%,14% 75%,17% 72%,18% 67%,20% 65%,21% 61%,22% 58%,24% 58%,25% 58%,28% 56%,30% 58%,31.5% 55.7%,39.1% 48.5%,41.5% 48.7%,42.7% 50.3%,41.1% 51.9%,41.2% 59%,45.7% 59.4%,47.4% 57.5%,49.2% 55.9%,51.1% 47%,53.2% 39.6%,57.4% 26%,77.7% 17.6%,79% 18%,92.3% 16.5%,93.75% 17.3%,95.7% 16.1%,98.5% 16.6%,100% 17.5%,100% 100%);mask-image:linear-gradient(90deg,transparent 14%,#000 24%,#000 100%);-webkit-mask-image:linear-gradient(90deg,transparent 14%,#000 24%,#000 100%)}
+.immersive-real-flag{clip-path:polygon(27.35% 18.5%,27.85% 18.65%,27.7% 21%,26.5% 77%,25.65% 77%,26.1% 45%,25.2% 39.4%,25.6% 33.6%,26.3% 24.4%,27.1% 20.6%)}
+.immersive-cows{position:absolute;left:0;bottom:0;width:19vw;max-width:350px;z-index:2;transform-origin:55% 90%;will-change:transform}
+.immersive-cows img{width:100%;height:auto}
+.immersive-swiss-flag{position:absolute;left:-2vw;bottom:13svh;height:34svh;width:auto;z-index:5;transform-origin:25% 100%;will-change:transform}
+.immersive-swiss-flag img{height:100%;width:auto;max-width:none}
+.immersive-flowers{position:absolute;width:42vw;max-width:760px;z-index:7;will-change:transform;transform-origin:50% 100%}
+.immersive-flowers img{width:100%;height:auto}
+.immersive-flowers-left{left:-10vw;bottom:-22svh;transform-origin:0% 100%}
+.immersive-flowers-right{right:-11vw;bottom:-15svh;width:29vw;max-width:550px;transform-origin:100% 100%}
+.immersive-flowers-right img{transform:scaleX(-1)}
+.immersive-reading-shade{position:absolute;inset:0;z-index:8;background:linear-gradient(90deg,#0b201f88,rgba(11,32,31,.27) 29%,transparent 55%),linear-gradient(180deg,#0c202035,transparent 25%,transparent 77%,#0c202033);pointer-events:none;will-change:opacity}
+.immersive-atmosphere{position:absolute;inset:0;z-index:9;background:linear-gradient(180deg,#091d2221,transparent 19%,transparent 83%,#091d2229);pointer-events:none}
+.immersive-intro{position:absolute;left:7vw;top:24svh;max-width:39vw;z-index:10;will-change:transform,opacity}
+.immersive-copy-inner{transition:opacity .35s ease}
+.immersive-eyebrow{font-family:var(--sans,Arial,sans-serif);font-size:9px;line-height:1.6;font-weight:400;letter-spacing:2.1px;margin:0 0 22px;text-shadow:0 1px 8px #15272180}
+.immersive-headline{font-family:var(--serif,Georgia,serif);font-weight:400;font-size:clamp(66px,7.4vw,142px);line-height:.87;letter-spacing:-.045em;margin:0 0 25px;text-shadow:0 2px 22px #10241e25}
+.immersive-headline>span,.immersive-headline>em{display:block;font-weight:400}
+.immersive-headline>em{letter-spacing:-.06em}
+.immersive-intro-body{font-family:var(--sans,Arial,sans-serif);font-size:12px;line-height:1.8;max-width:275px;margin:0;text-shadow:0 1px 9px #10241e80}
+.immersive-end{position:absolute;left:7vw;bottom:19svh;width:40vw;z-index:10;will-change:transform,opacity}
+.immersive-end p{font-family:var(--serif,Georgia,serif);font-weight:400;font-style:italic;font-size:clamp(42px,5.1vw,90px);line-height:1.04;letter-spacing:-.035em;margin:0;text-shadow:0 2px 22px #10241e70;text-wrap:balance}
+
+@media(min-width:1800px){.immersive-intro{top:25svh}.immersive-eyebrow{font-size:11px}.immersive-intro-body{font-size:14px;max-width:320px}}
+@media(max-width:1100px) and (min-width:761px){.immersive-intro{left:5vw;max-width:37vw;top:25svh}.immersive-eyebrow{font-size:8px;letter-spacing:1.4px}.immersive-headline{font-size:8vw}.immersive-intro-body{font-size:11px;max-width:240px}.immersive-restaurant{right:-8vw;height:107svh}.immersive-end{left:5vw}}
+
+.immersive-scene-mobile .immersive-background{transform-origin:48% 43%}
+.immersive-scene-mobile .immersive-background img{object-position:42% 50%}
+.immersive-scene-mobile .immersive-restaurant{right:-32vw;bottom:5svh;height:70svh;transform-origin:77% 87%}
+.immersive-scene-mobile .immersive-cows{left:auto;right:4vw;bottom:10svh;width:26vw;max-width:none;z-index:4;transform-origin:70% 95%}
+.immersive-scene-mobile .immersive-swiss-flag{left:-8vw;bottom:20svh;height:27svh}
+.immersive-scene-mobile .immersive-flowers-left{left:-26vw;bottom:-10svh;width:80vw;max-width:none}
+.immersive-scene-mobile .immersive-flowers-right{right:-24vw;bottom:-8svh;width:66vw;max-width:none}
+.immersive-scene-mobile .immersive-reading-shade{background:linear-gradient(180deg,#102b274d,transparent 38%,transparent 80%,#102b2755),linear-gradient(90deg,#11272466,transparent 78%)}
+.immersive-scene-mobile .immersive-intro{left:7vw;top:16.5svh;max-width:85vw}
+.immersive-scene-mobile .immersive-eyebrow{font-size:7px;letter-spacing:1.6px;margin-bottom:16px;max-width:270px}
+.immersive-scene-mobile .immersive-headline{font-size:clamp(47px,13.4vw,72px);line-height:.88;letter-spacing:-.045em;margin-bottom:14px}
+.immersive-scene-mobile .immersive-intro-body{font-size:10px;line-height:1.7;max-width:230px}
+.immersive-scene-mobile .immersive-end{left:7vw;bottom:19svh;width:81vw}
+.immersive-scene-mobile .immersive-end p{font-size:clamp(38px,11.5vw,64px);line-height:1.03;max-width:350px}
+@media(max-height:720px) and (max-width:760px){.immersive-scene-mobile .immersive-intro{top:17.5svh}.immersive-scene-mobile .immersive-headline{font-size:47px}.immersive-scene-mobile .immersive-eyebrow{margin-bottom:12px;font-size:6.5px}.immersive-scene-mobile .immersive-intro-body{font-size:9px}.immersive-scene-mobile .immersive-flowers-left{bottom:-15svh}.immersive-scene-mobile .immersive-flowers-right{bottom:-13svh}}
+@media(max-height:560px) and (orientation:landscape){.immersive-intro{top:29svh;max-width:40vw}.immersive-headline{font-size:clamp(36px,6.2vw,70px)}.immersive-eyebrow{font-size:6px;letter-spacing:1.3px;margin-bottom:12px}.immersive-intro-body{font-size:9px}.immersive-restaurant{height:112svh;right:-4vw}.immersive-end{bottom:20svh}.immersive-end p{font-size:40px}.immersive-flowers-left{bottom:-31svh}.immersive-flowers-right{bottom:-23svh}}
+@media(prefers-reduced-motion:reduce){.immersive-scene *, .immersive-copy-inner{will-change:auto!important;transition:none!important}}
+
+@media(max-height:560px) and (orientation:landscape){
+ .immersive-scene-mobile .immersive-background{transform-origin:42% 45%}
+ .immersive-scene-mobile .immersive-restaurant{height:112svh;right:-4vw;bottom:0}
+ .immersive-scene-mobile .immersive-intro{top:29svh;max-width:40vw}
+ .immersive-scene-mobile .immersive-headline{font-size:clamp(36px,6.2vw,70px);margin-bottom:12px}
+ .immersive-scene-mobile .immersive-eyebrow{font-size:6px;margin-bottom:12px}
+ .immersive-scene-mobile .immersive-intro-body{font-size:9px}
+ .immersive-scene-mobile .immersive-cows{left:0;right:auto;bottom:0;width:19vw;z-index:2}
+ .immersive-scene-mobile .immersive-swiss-flag{left:-2vw;bottom:13svh;height:34svh}
+ .immersive-scene-mobile .immersive-flowers-left{left:-10vw;bottom:-31svh;width:42vw}
+ .immersive-scene-mobile .immersive-flowers-right{right:-11vw;bottom:-23svh;width:29vw}
+ .immersive-scene-mobile .immersive-end{bottom:20svh;width:60vw}
+ .immersive-scene-mobile .immersive-end p{font-size:40px;max-width:none}
+}

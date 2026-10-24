@@ -1,0 +1,253 @@
+{
+  "generator": "built-in image_gen",
+  "created": "2026-10-24",
+  "assetCount": 14,
+  "export": {
+    "format": "WebP",
+    "quality": 84,
+    "maxEdge": 640,
+    "alphaPreserved": true,
+    "processing": "Pillow resize and format conversion only"
+  },
+  "note": "Photographies d’illustration générées pour la carte ; aucune modification des prix, descriptions ou labels alimentaires.",
+  "assets": [
+    {
+      "id": "perche",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: Crispy Swiss beer-battered freshwater perch fillets, golden delicate elongated fish pieces, a generous side of thin French fries and a small white ramekin of creamy herb-flecked tartare sauce. Authentic Egli Knusperli, not a single large fish-and-chip fillet.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-01b952a3-8ac8-40e7-9cf0-6fa14582dd11.png",
+      "output": "public/assets/menu/perche.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 80382,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "saumon-grille",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: A thick grilled salmon fillet with subtle char lines, natural pink-orange interior, gloss of teriyaki sauce; accompanying simple boiled small potatoes and mixed cooked vegetables, broccoli, carrots and green beans. A normal generous chalet restaurant meal, not fine-dining micro portions.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-1fe81e5e-6a53-4b7b-b6e7-72a1278a6b8b.png",
+      "output": "public/assets/menu/saumon-grille.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 78612,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "hamburger",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: One generous XL beef hamburger in a lightly toasted sesame bun, visible grilled beef patty, tomato slices, pickle slices and green lettuce, with a portion of golden thin French fries on the same plate. No cheese, no bacon, no egg. Approachable realistic Swiss chalet food.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-0cccc132-74df-48b2-9181-bf42dcae7864.png",
+      "output": "public/assets/menu/hamburger.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 84218,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "cheeseburger",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: One generous XL beef cheeseburger in a lightly toasted sesame bun, visible grilled beef patty and a layer of melted pale Swiss raclette cheese, tomato slices, pickle slices and green lettuce, with a portion of golden thin French fries on the same plate. No bacon or egg.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-c6f325e8-634b-41a0-ac96-cc7252b5c584.png",
+      "output": "public/assets/menu/cheeseburger.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 76096,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "burger-paysan",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: One generous Swiss farmer's beef burger in a lightly toasted sesame bun, visible grilled beef patty, crispy bacon, fried egg with golden yolk, a layer of melted pale Swiss raclette cheese, tomato slices, pickles and lettuce. A portion of golden thin French fries on the same white ceramic plate.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-0939755d-3324-4232-8f1f-097b762fe01c.png",
+      "output": "public/assets/menu/burger-paysan.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 85572,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "chickenburger",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: One generous chicken burger in a lightly toasted sesame bun, visibly real tender grilled chicken breast fillet, tomato slices, pickle slices and green lettuce; golden thin French fries on the same plate. No cheese, no bacon, no egg, no beef.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-e6087665-b080-4fd0-9d24-69b28b643376.png",
+      "output": "public/assets/menu/chickenburger.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 76672,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "burger-vegetal",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: One vegan vegetable burger in a lightly toasted sesame bun, a clearly vegetable-based golden patty with visible colorful vegetable and bean pieces, tomato slices, pickles and green lettuce, golden thin French fries on the same plate. Absolutely no cheese, egg, mayonnaise, meat or dairy. All ingredients plant based.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-e53616d5-bb6a-4820-aec6-8cbe21bae822.png",
+      "output": "public/assets/menu/burger-vegetal.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 77390,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "tarte-classique",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: One authentic Alsatian tarte flambée / Flammkuchen: large very thin oval crisp flatbread on a warm white oval ceramic platter, cream-colored crème fraîche base, small pieces of bacon lardons and delicate onion slices. Slightly charred crisp edges. NO tomato sauce, NO pizza cheese or thick pizza crust. Full flatbread visible, cut into six squares but still assembled.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-7be4250d-fee5-4815-bb81-6d8de2aa0028.png",
+      "output": "public/assets/menu/tarte-classique.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 81440,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "tarte-vegetarienne",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: One authentic vegetarian Alsatian tarte flambée / Flammkuchen: large very thin oval crisp flatbread on a warm white oval ceramic platter, cream-colored crème fraîche base, colorful roasted sliced vegetables, zucchini, red pepper and onion, with fresh green arugula on top. Slightly charred crisp edges. NO meat, NO tomato sauce, NO thick pizza crust. Full flatbread visible. The outer white cut-paper silhouette must be clean, continuous and organic, without a diffuse glow or checkerboard pattern.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-04eb31d1-022a-487b-a0e6-0caff6e22c3a.png",
+      "output": "public/assets/menu/tarte-vegetarienne.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 86702,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "tarte-saumon",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: One authentic Alsatian smoked salmon tarte flambée / Flammkuchen: large very thin oval crisp flatbread on a warm white oval ceramic platter, cream-colored crème fraîche base, delicate pink-orange smoked salmon ribbons and chopped fresh chives. Slightly charred crisp edges. NO tomato sauce, NO thick pizza crust, NO raw salmon chunks. Full flatbread visible. The outer white cut-paper silhouette must be clean, continuous and organic, without a diffuse glow or checkerboard pattern.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-e029ad7a-39d8-484d-9492-2570a5763381.png",
+      "output": "public/assets/menu/tarte-saumon.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 88894,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "wrap-vegetarien",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: A toasted flour tortilla vegetarian wrap cut diagonally into two halves showing a filling of grilled mixed vegetables, colorful bell peppers, zucchini and cheddar cheese. Halves arranged together on a warm white ceramic plate with a side of golden thin French fries. No meat or chicken. Realistic generous restaurant meal, wrap crisp grill marks. The outer white cut-paper silhouette must be clean, continuous and organic, without a diffuse glow or checkerboard pattern.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-5d4181ea-cb2b-41bd-9a59-b389f79dc390.png",
+      "output": "public/assets/menu/wrap-vegetarien.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 73630,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "wrap-poulet",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: A toasted flour tortilla chicken wrap cut diagonally into two halves showing tender grilled chicken breast strips, red bell peppers and cheddar cheese. Halves arranged together on a warm white ceramic plate with a side of golden thin French fries. Realistic generous restaurant meal, wrap crisp grill marks. The outer white cut-paper silhouette must be clean, continuous and organic, without a diffuse glow or checkerboard pattern.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-bd755743-8ffc-4389-983a-e0f2551809a0.png",
+      "output": "public/assets/menu/wrap-poulet.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 78954,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "nuggets-poulet",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: A children's meal of exactly FOUR golden chicken nuggets, each a separate irregular small rounded piece of fried breaded chicken, arranged clearly so all four can be counted, plus a small side of golden thin French fries on a small warm white ceramic plate. No other food or garnish. One of the four nuggets is cut partially open but remains connected to show white cooked chicken inside. Total exactly four pieces, not five or six.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-5aa5f4bb-9a7d-422e-8174-b23596a2e0dc.png",
+      "output": "public/assets/menu/nuggets-poulet.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 68756,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "nuggets-poisson",
+      "prompt": "Use case: product-mockup. Asset type: restaurant menu photographic paper cutout for a premium Swiss chalet website. Create one extremely photorealistic appetizing real food photograph, natural imperfect textures, crisp but not oversharpened. Soft warm neutral daylight from upper left, accurate food colors. Slightly elevated three-quarter camera angle, 50mm lens. One complete serving on a simple warm white ceramic plate, entire plate and all food fully within the frame with generous transparent padding. The photograph is physically scissor-cut around the plate silhouette, with a clean subtly irregular white paper border about 5–8 pixels wide visible around its outer edge, tiny realistic paper thickness. Genuine transparent alpha background everywhere outside the cutout. No background rectangle, table, cloth, hands, people, lettering, logos, watermark, or surrounding props. No CGI or illustration. Landscape composition, all subjects unified in one cutout. Subject: A children's meal of exactly FOUR golden fish nuggets, each a separate short oblong rectangular piece of crispy breaded white fish, arranged clearly so all four can be counted, plus a small side of golden thin French fries on a small warm white ceramic plate. No other food or garnish. One of the four nuggets has a small missing corner showing delicate flaky white fish inside, still one piece. Total exactly four pieces, not five or six. Visually distinct from rounded chicken nuggets.",
+      "source": "/workspace/scratch/da58fe833176/generated_images/exec-82c8ddfd-41ec-4a75-a75b-b33d627a90d0.png",
+      "output": "public/assets/menu/nuggets-poisson.webp",
+      "width": 640,
+      "height": 427,
+      "transparent": true,
+      "sourceType": "AI-generated illustration photograph",
+      "referenceImages": [],
+      "visualInspection": "Pass: full dish, ingredients consistent with menu, photographic cutout; child portions show exactly four nuggets.",
+      "bytes": 60112,
+      "alphaExtrema": [
+        0,
+        255
+      ]
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "soupe-patate-douce",
+    "panel": "food",
+    "category": "Soupe",
+    "name": "Soupe de patate douce",
+    "description": "Süsskartoffelsuppe · Préparée sur place, au lait de coco",
+    "price": "12.50",
+    "image": "/assets/menu/soupe-patate-douce.webp"
+  },
+  {
+    "id": "salad-bowl",
+    "panel": "food",
+    "category": "Salades",
+    "name": "Salad bowl",
+    "description": "Salatbowl · Salades de feuilles, vinaigrette aux graines",
+    "price": "10.50",
+    "image": "/assets/menu/salad-bowl.webp"
+  },
+  {
+    "id": "caprese",
+    "panel": "food",
+    "category": "Salades",
+    "name": "Insalata Caprese",
+    "description": "Tomates, mozzarella, pain grillé au basilic",
+    "price": "18.50",
+    "image": "/assets/menu/caprese.webp"
+  },
+  {
+    "id": "salade-berger",
+    "panel": "food",
+    "category": "Salades",
+    "name": "Salade du berger",
+    "description": "Hirtensalat · Tomates, concombre, olives, poivron, oignons, feta",
+    "price": "19.50",
+    "image": "/assets/menu/salade-berger.webp"
+  },
+  {
+    "id": "salade-poulet",
+    "panel": "food",
+    "category": "Salades",
+    "name": "Salade au poulet",
+    "description": "Pouletsalat · Émincé de poulet tiède, salade, melon, copeaux de fromage à rebibes",
+    "price": "22.50",
+    "image": "/assets/menu/salade-poulet.webp"
+  },
+  {
+    "id": "frites",
+    "panel": "food",
+    "category": "Salades",
+    "name": "Portion de frites",
+    "description": "Pommes frites",
+    "price": "9.50",
+    "image": "/assets/menu/frites.webp"
+  },
+  {
+    "id": "fondue",
+    "panel": "food",
+    "category": "Spécialités",
+    "name": "Fondue au fromage",
+    "description": "Käsefondue · Pain ou pommes de terre, petits oignons, cornichons, mini-épis de maïs · dès 2 personnes, prix par personne",
+    "price": "27.00",
+    "image": "/assets/menu/fondue.webp"
+  },
+  {
+    "id": "raclette",
+    "panel": "food",
+    "category": "Spécialités",
+    "name": "Assiette raclette",
+    "description": "Raclette-Teller · Pommes de terre, petits oignons, cornichons, mini-épis de maïs",
+    "price": "24.50",
+    "image": "/assets/menu/raclette.webp"
+  },
+  {
+    "id": "rosti-paysan",
+    "panel": "food",
+    "category": "Spécialités",
+    "name": "Rösti du paysan",
+    "description": "Bauernrösti · Oignons rôtis, lard, fromage à raclette, œuf au plat",
+    "price": "26.50",
+    "image": "/assets/menu/rosti-paysan.webp"
+  },
+  {
+    "id": "rosti-casimir",
+    "panel": "food",
+    "category": "Spécialités",
+    "name": "Rösti « Casimir »",
+    "description": "Curry-Rösti · Couronne de rösti, émincé de poulet au curry",
+    "price": "27.50",
+    "image": "/assets/menu/rosti-casimir.webp"
+  },
+  {
+    "id": "rosti-legumes",
+    "panel": "food",
+    "category": "Spécialités",
+    "name": "Rösti aux légumes",
+    "description": "Gemüserösti · Légumes et camembert",
+    "price": "25.50",
+    "image": "/assets/menu/rosti-legumes.webp"
+  },
+  {
+    "id": "bratwurst",
+    "panel": "food",
+    "category": "Spécialités",
+    "name": "Bratwurst XL & rösti",
+    "description": "XL Bratwurst mit Rösti · Saucisse grillée, sauce aux oignons",
+    "price": "28.50",
+    "image": "/assets/menu/bratwurst.webp"
+  },
+  {
+    "id": "macaronis",
+    "panel": "food",
+    "category": "Spécialités",
+    "name": "Macaronis du chalet",
+    "description": "Älpler Magronen · Pommes de terre, lard et fromage fondu",
+    "price": "23.50",
+    "image": "/assets/menu/macaronis.webp"
+  },
+  {
+    "id": "pierre-chaude",
+    "panel": "food",
+    "category": "Viandes & poissons",
+    "name": "Pierre chaude",
+    "description": "Heisser Lava-Stein · Entrecôte de bœuf 250 g à cuire à table, frites et légumes",
+    "price": "49.00",
+    "image": "/assets/menu/pierre-chaude.webp"
+  },
+  {
+    "id": "schnitzel",
+    "panel": "food",
+    "category": "Viandes & poissons",
+    "name": "Schnitzel de porc",
+    "description": "Schweinsschnitzel · Pané, frites",
+    "price": "28.50",
+    "image": "/assets/menu/schnitzel.webp"
+  },
+  {
+    "id": "perche",
+    "panel": "food",
+    "category": "Viandes & poissons",
+    "name": "Filets de perche croustillants",
+    "description": "Egli Knusperli im Bierteig · En pâte à bière, sauce tartare et frites",
+    "price": "28.50",
+    "image": "/assets/menu/perche.webp"
+  },
+  {
+    "id": "saumon-grille",
+    "panel": "food",
+    "category": "Viandes & poissons",
+    "name": "Saumon grillé",
+    "description": "Grillierter Lachs · Pommes de terre nature, légumes, sauce teriyaki",
+    "price": "32.50",
+    "image": "/assets/menu/saumon-grille.webp"
+  },
+  {
+    "id": "hamburger",
+    "panel": "food",
+    "category": "Burgers",
+    "name": "Hamburger XL",
+    "description": "Bœuf, tomate, cornichon, salade",
+    "price": "26.00",
+    "image": "/assets/menu/hamburger.webp"
+  },
+  {
+    "id": "cheeseburger",
+    "panel": "food",
+    "category": "Burgers",
+    "name": "Cheeseburger XL",
+    "description": "Käseburger · Bœuf, fromage à raclette, tomate, cornichon, salade",
+    "price": "26.50",
+    "image": "/assets/menu/cheeseburger.webp"
+  },
+  {
+    "id": "burger-paysan",
+    "panel": "food",
+    "category": "Burgers",
+    "name": "Burger du paysan",
+    "description": "Bauernburger XL · Bœuf, lard, œuf au plat, raclette, tomate, cornichon, salade",
+    "price": "28.00",
+    "image": "/assets/menu/burger-paysan.webp"
+  },
+  {
+    "id": "chickenburger",
+    "panel": "food",
+    "category": "Burgers",
+    "name": "Chickenburger",
+    "description": "Filet de poulet, tomate, cornichon, salade",
+    "price": "27.00",
+    "image": "/assets/menu/chickenburger.webp"
+  },
+  {
+    "id": "burger-vegetal",
+    "panel": "food",
+    "category": "Burgers",
+    "name": "Burger végétal",
+    "description": "Vegiburger · Galette de légumes, tomate, cornichon, salade",
+    "price": "23.50",
+    "image": "/assets/menu/burger-vegetal.webp"
+  },
+  {
+    "id": "tarte-classique",
+    "panel": "food",
+    "category": "Tartes flambées",
+    "name": "Classique",
+    "description": "Crème fraîche, lardons, oignons",
+    "price": "20.50",
+    "image": "/assets/menu/tarte-classique.webp"
+  },
+  {
+    "id": "tarte-vegetarienne",
+    "panel": "food",
+    "category": "Tartes flambées",
+    "name": "Végétarienne",
+    "description": "Vegi · Crème fraîche, légumes, roquette",
+    "price": "21.50",
+    "image": "/assets/menu/tarte-vegetarienne.webp"
+  },
+  {
+    "id": "tarte-saumon",
+    "panel": "food",
+    "category": "Tartes flambées",
+    "name": "Saumon",
+    "description": "Lachs · Crème fraîche, saumon fumé, ciboulette",
+    "price": "21.50",
+    "image": "/assets/menu/tarte-saumon.webp"
+  },
+  {
+    "id": "wrap-vegetarien",
+    "panel": "food",
+    "category": "Wraps",
+    "name": "Wrap végétarien",
+    "description": "Vegi Wrap · Légumes et cheddar",
+    "price": "21.50",
+    "image": "/assets/menu/wrap-vegetarien.webp"
+  },
+  {
+    "id": "wrap-poulet",
+    "panel": "food",
+    "category": "Wraps",
+    "name": "Wrap au poulet",
+    "description": "Poulet Wrap · Poulet, poivron, cheddar",
+    "price": "23.50",
+    "image": "/assets/menu/wrap-poulet.webp"
+  },
+  {
+    "id": "nuggets-poulet",
+    "panel": "food",
+    "category": "Pour les enfants",
+    "name": "Nuggets de la jungle",
+    "description": "Dschungel Nuggets · 4 nuggets de poulet, frites",
+    "price": "18.50",
+    "image": "/assets/menu/nuggets-poulet.webp"
+  },
+  {
+    "id": "nuggets-poisson",
+    "panel": "food",
+    "category": "Pour les enfants",
+    "name": "Nuggets de la mer",
+    "description": "Meer Nuggets · 4 nuggets de poisson, frites",
+    "price": "18.50",
+    "image": "/assets/menu/nuggets-poisson.webp"
+  },
+  {
+    "id": "eau-staubbach",
+    "panel": "drinks",
+    "category": "De la vallée",
+    "name": "Eau du Staubbach",
+    "description": "Staubbachwasser · Plate ou gazeuse, à la pression · 3 dl / 5 dl / 1 l",
+    "price": "3.00 · 4.50 · 8.00",
+    "image": "/assets/menu/eau-staubbach.webp"
+  },
+  {
+    "id": "the-froid",
+    "panel": "drinks",
+    "category": "De la vallée",
+    "name": "Notre thé froid",
+    "description": "Eistee hausgemacht · 3 dl / 5 dl / 1 l",
+    "price": "6.00 · 7.50 · 13.00",
+    "image": "/assets/menu/the-froid.webp"
+  },
+  {
+    "id": "sirop",
+    "panel": "drinks",
+    "category": "De la vallée",
+    "name": "Sirop pour les enfants",
+    "description": "Kindersirup",
+    "price": "offert",
+    "image": "/assets/menu/sirop.webp"
+  },
+  {
+    "id": "lager",
+    "panel": "drinks",
+    "category": "Bières & cidre",
+    "name": "Rugenbräu Lager",
+    "description": "Brasserie d’Interlaken · À la pression · 3 dl / 5 dl / 1,5 l",
+    "price": "5.00 · 6.50 · 17.00",
+    "image": "/assets/menu/lager.webp"
+  },
+  {
+    "id": "weizen",
+    "panel": "drinks",
+    "category": "Bières & cidre",
+    "name": "Rugen Weizen",
+    "description": "Bière blanche · À la pression · 3 dl / 5 dl / 1,5 l",
+    "price": "6.00 · 7.50 · 20.00",
+    "image": "/assets/menu/weizen.webp"
+  },
+  {
+    "id": "cidre",
+    "panel": "drinks",
+    "category": "Bières & cidre",
+    "name": "Cidre Möhl",
+    "description": "Suure Moscht · Avec ou sans alcool · 50 cl",
+    "price": "7.00",
+    "image": "/assets/menu/cidre.webp"
+  },
+  {
+    "id": "vin-blanc",
+    "panel": "drinks",
+    "category": "Vins suisses",
+    "name": "Fendant du Valais AOC",
+    "description": "Cave Rouvinez · Blanc · 1 dl / 2 dl / 5 dl",
+    "price": "5.50 · 9.50 · 23.50",
+    "image": "/assets/menu/vin-blanc.webp"
+  },
+  {
+    "id": "vin-rose",
+    "panel": "drinks",
+    "category": "Vins suisses",
+    "name": "Œil-de-Perdrix AOC",
+    "description": "Neuchâtel · Rosé · 1 dl / 2 dl / 5 dl / 75 cl",
+    "price": "7.50 · 13.00 · 25.50 · 35.00",
+    "image": "/assets/menu/vin-rose.webp"
+  },
+  {
+    "id": "vin-rouge",
+    "panel": "drinks",
+    "category": "Vins suisses",
+    "name": "Dôle du Valais AOC",
+    "description": "Cave Rouvinez · Rouge · 1 dl / 2 dl / 5 dl",
+    "price": "5.50 · 9.50 · 23.50",
+    "image": "/assets/menu/vin-rouge.webp"
+  },
+  {
+    "id": "aperitifs",
+    "panel": "drinks",
+    "category": "Apéritif & digestif",
+    "name": "Aperol Spritz · Hugo",
+    "description": "3 dl",
+    "price": "12.00",
+    "image": "/assets/menu/aperitifs.webp"
+  },
+  {
+    "id": "vieille-prune",
+    "panel": "drinks",
+    "category": "Apéritif & digestif",
+    "name": "Vieille prune",
+    "description": "2 cl / 4 cl",
+    "price": "7.50 · 14.00",
+    "image": "/assets/menu/vieille-prune.webp"
+  },
+  {
+    "id": "eaux-de-vie",
+    "panel": "drinks",
+    "category": "Apéritif & digestif",
+    "name": "Kirsch, pruneau, williams",
+    "description": "Obstler · 2 cl / 4 cl",
+    "price": "4.50 · 8.00",
+    "image": "/assets/menu/eaux-de-vie.webp"
+  },
+  {
+    "id": "chocolat-chaud",
+    "panel": "drinks",
+    "category": "Chaud & glacé",
+    "name": "Chocolat chaud Caotina",
+    "description": "Heisse Schoggi · Nature ou avec crème",
+    "price": "5.00 · 6.00",
+    "image": "/assets/menu/chocolat-chaud.webp"
+  },
+  {
+    "id": "cafes",
+    "panel": "drinks",
+    "category": "Chaud & glacé",
+    "name": "Café crème, espresso, cappuccino",
+    "description": "",
+    "price": "5.00 – 6.00",
+    "image": "/assets/menu/cafes.webp"
+  },
+  {
+    "id": "cafes-liqueur",
+    "panel": "drinks",
+    "category": "Chaud & glacé",
+    "name": "Café Baileys, Irish coffee",
+    "description": "Avec crème fouettée",
+    "price": "9.50",
+    "image": "/assets/menu/cafes-liqueur.webp"
+  },
+  {
+    "id": "iced-coffees",
+    "panel": "drinks",
+    "category": "Chaud & glacé",
+    "name": "Iced coffees",
+    "description": "Latte, flat white, mocha, fraise, menthe, coco",
+    "price": "5.00 – 8.50",
+    "image": "/assets/menu/iced-coffees.webp"
+  }
+]

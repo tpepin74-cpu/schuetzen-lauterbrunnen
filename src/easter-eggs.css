@@ -1,0 +1,103 @@
+/* Optional discoveries inside the existing photos; dimensions stay unchanged. */
+.egg-trigger {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-width: 44px;
+  min-height: 44px;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  border-radius: 16px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  line-height: 0;
+  cursor: pointer;
+  pointer-events: auto;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: #b92e2d20;
+}
+.egg-picture {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  transform-origin: 50% 85%;
+}
+.egg-trigger--bell .egg-picture { transform-origin: 50% 15%; }
+.egg-trigger img { user-select: none; }
+.egg-trigger--dog .egg-original,
+.egg-trigger--concierge .egg-original { transition: opacity 230ms ease; }
+.egg-trigger .egg-variant {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  opacity: 0;
+  transition: opacity 230ms ease;
+}
+.egg-trigger.has-alt-pose .egg-original { opacity: 0; }
+.egg-trigger.has-alt-pose .egg-variant { opacity: 1; }
+.egg-is-active { z-index: 8; }
+.pc-postman .egg-trigger,
+.pc-postman .egg-picture,
+.pc-restaurant-lettering .egg-trigger { height: auto; }
+.pc-postman .egg-original { display: block; width: 100%; height: auto; }
+.pc-postman-button { z-index: 4; }
+.pc-guide-avatar.egg-cutout img,
+.cg .cg__avatar.egg-cutout img { animation: none !important; }
+body.postcard-site .egg-trigger:focus-visible {
+  outline: 3px dashed var(--rouge, #b92e2d);
+  outline-offset: 5px;
+}
+.egg-bubble {
+  position: fixed;
+  z-index: 105;
+  max-width: min(290px, calc(100vw - 24px));
+  width: max-content;
+  box-sizing: border-box;
+  padding: 11px 18px;
+  border: 1px solid #d5c8b0;
+  border-radius: 16px 16px 16px 3px;
+  background: #fffdf6;
+  color: #244b3a;
+  box-shadow: 3px 4px 0 #b92e2d, 0 6px 20px #193a2d16;
+  font: 600 1.0625rem/1.4 var(--font, sans-serif);
+  text-align: center;
+  overflow-wrap: anywhere;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 150ms ease, visibility 150ms;
+}
+.egg-bubble.is-visible { opacity: 1; visibility: visible; }
+.egg-bubble[data-in-guide="true"] { z-index: 315; }
+.egg-announcement {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  html:not([data-reduced="true"]) .egg-trigger:not(.is-playing):hover .egg-picture {
+    filter: drop-shadow(0 3px 2px #b92e2d24);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .egg-trigger--dog .egg-original, .egg-trigger--concierge .egg-original,
+  .egg-trigger .egg-variant, .egg-bubble { transition: none; }
+}
+html[data-reduced="true"] .egg-trigger--dog .egg-original,
+html[data-reduced="true"] .egg-trigger--concierge .egg-original,
+html[data-reduced="true"] .egg-trigger .egg-variant,
+html[data-reduced="true"] .egg-bubble { transition: none; }
+@media print { .egg-bubble { display: none !important; } }

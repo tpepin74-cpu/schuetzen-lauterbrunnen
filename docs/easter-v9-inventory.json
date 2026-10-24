@@ -1,0 +1,1010 @@
+{
+  "collage_motifs": 14,
+  "total_enhanceable": 101,
+  "total_collage": 56,
+  "total_menu": 45,
+  "kinds": {
+    "edelweiss": 6,
+    "geranium": 6,
+    "bell": 5,
+    "dog": 5,
+    "boots": 5,
+    "concierge": 9,
+    "cable": 4,
+    "cow": 3,
+    "lettering": 1,
+    "friends": 2,
+    "alphorn": 4,
+    "train": 4,
+    "postman": 1,
+    "menu-hot": 12,
+    "menu-fresh": 6,
+    "menu-cheese": 3,
+    "menu-burger": 5,
+    "menu-tarte": 3,
+    "menu-bubbles": 5,
+    "menu-frost": 2,
+    "menu-toast": 6,
+    "menu-warm": 3,
+    "sled": 1
+  },
+  "excluded_existing_concierge_buttons": 8,
+  "pages": {
+    "chambres.html": {
+      "count": 6,
+      "kinds": {
+        "edelweiss": 1,
+        "geranium": 1,
+        "bell": 1,
+        "dog": 1,
+        "boots": 1,
+        "concierge": 1
+      },
+      "unmatched": [],
+      "interactive_ancestors": [],
+      "existing_concierge_buttons_excluded": 1,
+      "correct_credit_count": 1,
+      "old_credit_domain_present": false,
+      "items": [
+        {
+          "src": "/assets/collage/edelweiss.webp",
+          "kind": "edelweiss",
+          "parent_class": "pc-cut pc-hero-edelweiss",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/geranium.webp",
+          "kind": "geranium",
+          "parent_class": "pc-cut pc-hero-roomsflower",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cowbell.webp",
+          "kind": "bell",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/bernard.webp",
+          "kind": "dog",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/boots.webp",
+          "kind": "boots",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/concierge.webp",
+          "kind": "concierge",
+          "parent_class": "cg__avatar",
+          "interactive_ancestor": false
+        }
+      ],
+      "authorized_html_changes": [
+        "Crédit de réalisation Le Cerf à Lunettes : https://cerfalunettes.ch dans le pied de page",
+        "Sous-texte du lanceur Concierge : Vous avez une question ?",
+        "Logo d’en-tête agrandi ×2 : sizes=\"(max-width:760px) 209px, 270px\" ; styles dans src/header-shield.css"
+      ]
+    },
+    "index.html": {
+      "count": 13,
+      "kinds": {
+        "dog": 1,
+        "geranium": 1,
+        "cable": 2,
+        "concierge": 2,
+        "cow": 1,
+        "bell": 1,
+        "lettering": 1,
+        "friends": 1,
+        "alphorn": 1,
+        "train": 1,
+        "postman": 1
+      },
+      "unmatched": [],
+      "interactive_ancestors": [],
+      "existing_concierge_buttons_excluded": 1,
+      "correct_credit_count": 1,
+      "old_credit_domain_present": false,
+      "items": [
+        {
+          "src": "/assets/collage/bernard.webp",
+          "kind": "dog",
+          "parent_class": "pc-cut pc-hero-dog",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/geranium.webp",
+          "kind": "geranium",
+          "parent_class": "pc-cut pc-hero-flower",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cable-car.webp",
+          "kind": "cable",
+          "parent_class": "pc-cut pc-hero-cable",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/concierge.webp",
+          "kind": "concierge",
+          "parent_class": "pc-guide-avatar",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cow.webp",
+          "kind": "cow",
+          "parent_class": "pc-cut pc-discovery-cow",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cable-car.webp",
+          "kind": "cable",
+          "parent_class": "pc-cut pc-letter-cable",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cowbell.webp",
+          "kind": "bell",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/restaurant-lettering.webp",
+          "kind": "lettering",
+          "parent_class": "pc-restaurant-lettering",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/fondue-friends.webp",
+          "kind": "friends",
+          "parent_class": "pc-cut pc-section-friends",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/alphorn.webp",
+          "kind": "alphorn",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/train.webp",
+          "kind": "train",
+          "parent_class": "pc-cut pc-section-train",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/postman-friendly.webp",
+          "kind": "postman",
+          "parent_class": "pc-postman",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/concierge.webp",
+          "kind": "concierge",
+          "parent_class": "cg__avatar",
+          "interactive_ancestor": false
+        }
+      ],
+      "authorized_html_changes": [
+        "Crédit de réalisation Le Cerf à Lunettes : https://cerfalunettes.ch dans le pied de page",
+        "Sous-texte du lanceur Concierge : Vous avez une question ?",
+        "Logo d’en-tête agrandi ×2 : sizes=\"(max-width:760px) 209px, 270px\" ; styles dans src/header-shield.css",
+        "Accueil : remplacement de l’image du postier par /assets/collage/postman-friendly.webp, avec le lien HTML entre ses mains conservé"
+      ]
+    },
+    "infos.html": {
+      "count": 6,
+      "kinds": {
+        "train": 1,
+        "edelweiss": 2,
+        "dog": 1,
+        "boots": 1,
+        "concierge": 1
+      },
+      "unmatched": [],
+      "interactive_ancestors": [],
+      "existing_concierge_buttons_excluded": 1,
+      "correct_credit_count": 1,
+      "old_credit_domain_present": false,
+      "items": [
+        {
+          "src": "/assets/collage/train.webp",
+          "kind": "train",
+          "parent_class": "pc-cut pc-hero-train",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/edelweiss.webp",
+          "kind": "edelweiss",
+          "parent_class": "pc-cut pc-hero-accessflower",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/bernard.webp",
+          "kind": "dog",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/boots.webp",
+          "kind": "boots",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/edelweiss.webp",
+          "kind": "edelweiss",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/concierge.webp",
+          "kind": "concierge",
+          "parent_class": "cg__avatar",
+          "interactive_ancestor": false
+        }
+      ],
+      "authorized_html_changes": [
+        "Crédit de réalisation Le Cerf à Lunettes : https://cerfalunettes.ch dans le pied de page",
+        "Sous-texte du lanceur Concierge : Vous avez une question ?",
+        "Logo d’en-tête agrandi ×2 : sizes=\"(max-width:760px) 209px, 270px\" ; styles dans src/header-shield.css"
+      ]
+    },
+    "maison.html": {
+      "count": 6,
+      "kinds": {
+        "dog": 1,
+        "geranium": 2,
+        "alphorn": 1,
+        "bell": 1,
+        "concierge": 1
+      },
+      "unmatched": [],
+      "interactive_ancestors": [],
+      "existing_concierge_buttons_excluded": 1,
+      "correct_credit_count": 1,
+      "old_credit_domain_present": false,
+      "items": [
+        {
+          "src": "/assets/collage/bernard.webp",
+          "kind": "dog",
+          "parent_class": "pc-cut pc-hero-dog",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/geranium.webp",
+          "kind": "geranium",
+          "parent_class": "pc-cut pc-hero-flower",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/alphorn.webp",
+          "kind": "alphorn",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cowbell.webp",
+          "kind": "bell",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/geranium.webp",
+          "kind": "geranium",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/concierge.webp",
+          "kind": "concierge",
+          "parent_class": "cg__avatar",
+          "interactive_ancestor": false
+        }
+      ],
+      "authorized_html_changes": [
+        "Crédit de réalisation Le Cerf à Lunettes : https://cerfalunettes.ch dans le pied de page",
+        "Sous-texte du lanceur Concierge : Vous avez une question ?",
+        "Logo d’en-tête agrandi ×2 : sizes=\"(max-width:760px) 209px, 270px\" ; styles dans src/header-shield.css"
+      ]
+    },
+    "reservation.html": {
+      "count": 6,
+      "kinds": {
+        "edelweiss": 1,
+        "cable": 1,
+        "bell": 1,
+        "geranium": 1,
+        "alphorn": 1,
+        "concierge": 1
+      },
+      "unmatched": [],
+      "interactive_ancestors": [],
+      "existing_concierge_buttons_excluded": 1,
+      "correct_credit_count": 1,
+      "old_credit_domain_present": false,
+      "items": [
+        {
+          "src": "/assets/collage/edelweiss.webp",
+          "kind": "edelweiss",
+          "parent_class": "pc-cut pc-hero-edelweiss",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cable-car.webp",
+          "kind": "cable",
+          "parent_class": "pc-cut pc-hero-cable",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cowbell.webp",
+          "kind": "bell",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/geranium.webp",
+          "kind": "geranium",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/alphorn.webp",
+          "kind": "alphorn",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/concierge.webp",
+          "kind": "concierge",
+          "parent_class": "cg__avatar",
+          "interactive_ancestor": false
+        }
+      ],
+      "authorized_html_changes": [
+        "Crédit de réalisation Le Cerf à Lunettes : https://cerfalunettes.ch dans le pied de page",
+        "Sous-texte du lanceur Concierge : Vous avez une question ?",
+        "Logo d’en-tête agrandi ×2 : sizes=\"(max-width:760px) 209px, 270px\" ; styles dans src/header-shield.css"
+      ]
+    },
+    "restaurant.html": {
+      "count": 51,
+      "kinds": {
+        "friends": 1,
+        "cow": 2,
+        "menu-hot": 12,
+        "menu-fresh": 6,
+        "menu-cheese": 3,
+        "menu-burger": 5,
+        "menu-tarte": 3,
+        "menu-bubbles": 5,
+        "menu-frost": 2,
+        "menu-toast": 6,
+        "menu-warm": 3,
+        "geranium": 1,
+        "alphorn": 1,
+        "concierge": 1
+      },
+      "unmatched": [],
+      "interactive_ancestors": [],
+      "existing_concierge_buttons_excluded": 1,
+      "correct_credit_count": 1,
+      "old_credit_domain_present": false,
+      "items": [
+        {
+          "src": "/assets/collage/fondue-friends.webp",
+          "kind": "friends",
+          "parent_class": "pc-cut pc-hero-friends",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cow.webp",
+          "kind": "cow",
+          "parent_class": "pc-cut pc-hero-cow",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cow.webp",
+          "kind": "cow",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/soupe-patate-douce.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/salad-bowl.webp",
+          "kind": "menu-fresh",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/caprese.webp",
+          "kind": "menu-fresh",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/salade-berger.webp",
+          "kind": "menu-fresh",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/salade-poulet.webp",
+          "kind": "menu-fresh",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/frites.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/fondue.webp",
+          "kind": "menu-cheese",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/raclette.webp",
+          "kind": "menu-cheese",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/rosti-paysan.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/rosti-casimir.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/rosti-legumes.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/bratwurst.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/macaronis.webp",
+          "kind": "menu-cheese",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/pierre-chaude.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/schnitzel.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/perche.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/saumon-grille.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/hamburger.webp",
+          "kind": "menu-burger",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/cheeseburger.webp",
+          "kind": "menu-burger",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/burger-paysan.webp",
+          "kind": "menu-burger",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/chickenburger.webp",
+          "kind": "menu-burger",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/burger-vegetal.webp",
+          "kind": "menu-burger",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/tarte-classique.webp",
+          "kind": "menu-tarte",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/tarte-vegetarienne.webp",
+          "kind": "menu-tarte",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/tarte-saumon.webp",
+          "kind": "menu-tarte",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/wrap-vegetarien.webp",
+          "kind": "menu-fresh",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/wrap-poulet.webp",
+          "kind": "menu-fresh",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/nuggets-poulet.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/nuggets-poisson.webp",
+          "kind": "menu-hot",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/eau-staubbach.webp",
+          "kind": "menu-bubbles",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/the-froid.webp",
+          "kind": "menu-frost",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/sirop.webp",
+          "kind": "menu-bubbles",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/lager.webp",
+          "kind": "menu-bubbles",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/weizen.webp",
+          "kind": "menu-bubbles",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/cidre.webp",
+          "kind": "menu-bubbles",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/vin-blanc.webp",
+          "kind": "menu-toast",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/vin-rose.webp",
+          "kind": "menu-toast",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/vin-rouge.webp",
+          "kind": "menu-toast",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/aperitifs.webp",
+          "kind": "menu-toast",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/vieille-prune.webp",
+          "kind": "menu-toast",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/eaux-de-vie.webp",
+          "kind": "menu-toast",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/chocolat-chaud.webp",
+          "kind": "menu-warm",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/cafes.webp",
+          "kind": "menu-warm",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/cafes-liqueur.webp",
+          "kind": "menu-warm",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/menu/iced-coffees.webp",
+          "kind": "menu-frost",
+          "parent_class": "dish__visual",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/geranium.webp",
+          "kind": "geranium",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/alphorn.webp",
+          "kind": "alphorn",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/concierge.webp",
+          "kind": "concierge",
+          "parent_class": "cg__avatar",
+          "interactive_ancestor": false
+        }
+      ],
+      "authorized_html_changes": [
+        "Crédit de réalisation Le Cerf à Lunettes : https://cerfalunettes.ch dans le pied de page",
+        "Sous-texte du lanceur Concierge : Vous avez une question ?",
+        "Logo d’en-tête agrandi ×2 : sizes=\"(max-width:760px) 209px, 270px\" ; styles dans src/header-shield.css"
+      ]
+    },
+    "sejours.html": {
+      "count": 9,
+      "kinds": {
+        "boots": 2,
+        "edelweiss": 2,
+        "dog": 1,
+        "bell": 1,
+        "train": 1,
+        "sled": 1,
+        "concierge": 1
+      },
+      "unmatched": [],
+      "interactive_ancestors": [],
+      "existing_concierge_buttons_excluded": 1,
+      "correct_credit_count": 1,
+      "old_credit_domain_present": false,
+      "items": [
+        {
+          "src": "/assets/collage/boots.webp",
+          "kind": "boots",
+          "parent_class": "pc-cut pc-hero-stayboots",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/edelweiss.webp",
+          "kind": "edelweiss",
+          "parent_class": "pc-cut pc-hero-stayflowers",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/edelweiss.webp",
+          "kind": "edelweiss",
+          "parent_class": "pc-cut stay-story__cutout",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/bernard.webp",
+          "kind": "dog",
+          "parent_class": "pc-cut stay-story__cutout",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cowbell.webp",
+          "kind": "bell",
+          "parent_class": "pc-cut stay-story__cutout",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/boots.webp",
+          "kind": "boots",
+          "parent_class": "pc-cut stay-story__cutout",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/train.webp",
+          "kind": "train",
+          "parent_class": "pc-cut stay-story__cutout",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/sled.webp",
+          "kind": "sled",
+          "parent_class": "pc-cut stay-story__cutout",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/concierge.webp",
+          "kind": "concierge",
+          "parent_class": "cg__avatar",
+          "interactive_ancestor": false
+        }
+      ],
+      "authorized_html_changes": [
+        "Crédit de réalisation Le Cerf à Lunettes : https://cerfalunettes.ch dans le pied de page",
+        "Sous-texte du lanceur Concierge : Vous avez une question ?",
+        "Logo d’en-tête agrandi ×2 : sizes=\"(max-width:760px) 209px, 270px\" ; styles dans src/header-shield.css"
+      ]
+    },
+    "vallee.html": {
+      "count": 4,
+      "kinds": {
+        "train": 1,
+        "cable": 1,
+        "boots": 1,
+        "concierge": 1
+      },
+      "unmatched": [],
+      "interactive_ancestors": [],
+      "existing_concierge_buttons_excluded": 1,
+      "correct_credit_count": 1,
+      "old_credit_domain_present": false,
+      "items": [
+        {
+          "src": "/assets/collage/train.webp",
+          "kind": "train",
+          "parent_class": "pc-cut pc-hero-train",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/cable-car.webp",
+          "kind": "cable",
+          "parent_class": "pc-cut pc-hero-cable",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/boots.webp",
+          "kind": "boots",
+          "parent_class": "pc-cut pc-souvenir-image",
+          "interactive_ancestor": false
+        },
+        {
+          "src": "/assets/collage/concierge.webp",
+          "kind": "concierge",
+          "parent_class": "cg__avatar",
+          "interactive_ancestor": false
+        }
+      ],
+      "authorized_html_changes": [
+        "Crédit de réalisation Le Cerf à Lunettes : https://cerfalunettes.ch dans le pied de page",
+        "Sous-texte du lanceur Concierge : Vous avez une question ?",
+        "Logo d’en-tête agrandi ×2 : sizes=\"(max-width:760px) 209px, 270px\" ; styles dans src/header-shield.css"
+      ]
+    }
+  },
+  "version": "V10",
+  "scope": {
+    "source_pages": 8,
+    "counting_rule": "101 occurrences sur les huit HTML français ; les déclinaisons dans les huit langues ne multiplient pas les compteurs de motifs.",
+    "collage_motifs": 14,
+    "menu_families": 9,
+    "existing_concierge_launcher_images_excluded": 8
+  },
+  "authorized_html_changes": [
+    "Crédit de réalisation Le Cerf à Lunettes : https://cerfalunettes.ch dans le pied de page",
+    "Sous-texte du lanceur Concierge : Vous avez une question ?",
+    "Logo d’en-tête agrandi ×2 : sizes=\"(max-width:760px) 209px, 270px\" ; styles dans src/header-shield.css",
+    "Accueil : remplacement de l’image du postier par /assets/collage/postman-friendly.webp, avec le lien HTML entre ses mains conservé"
+  ],
+  "business_content_preservation": {
+    "rooms_total": 25,
+    "room_categories": 8,
+    "family_27m2_capacity": 5,
+    "superior_family_29m2_max_adults": 4,
+    "superior_family_29m2_sleeping_places": 6,
+    "menu_items": 45,
+    "room_ids_and_booking_references_preserved": true,
+    "french_menu_names_descriptions_prices_preserved": true,
+    "note": "Le runtime public/js/site.js évolue pour la localisation et les chemins de médias ; cette conservation des données métier ne signifie pas que le fichier JavaScript est inchangé."
+  },
+  "localization": {
+    "locales": [
+      "fr-CH",
+      "de-CH",
+      "en-GB",
+      "zh-Hans",
+      "ru",
+      "ko",
+      "it",
+      "es"
+    ],
+    "source_locale": "fr-CH",
+    "translated_languages": 7,
+    "pages_per_locale": 8,
+    "static_pages": 64,
+    "catalogue_entries_per_translation": 1380,
+    "static_entries": 1069,
+    "runtime_entries": 311,
+    "compiler": "scripts/localize-site.mjs",
+    "javascript_transform": "scripts/i18n-js.mjs",
+    "runtime_helpers": "scripts/locale-runtime.js",
+    "source_catalogues": [
+      "src/i18n/source-static.json",
+      "src/i18n/source-runtime.json"
+    ],
+    "coverage_report": "docs/localization-verification.json",
+    "strict_build_requires_complete_catalogues": true,
+    "note": "Les compteurs de chaînes constituent le contrat de compilation ; l’état de couverture se lit dans le rapport régénéré par la construction stricte.",
+    "localized_restaurant_lettering": "public/locales/{lang}/restaurant-lettering.svg",
+    "easter_matching_attribute": "data-original-src"
+  },
+  "header_logo": {
+    "source_aspect_ratio": [
+      547,
+      694
+    ],
+    "scale_vs_v8": 2,
+    "desktop": {
+      "header_height_px": 90,
+      "logo_initial_height_px": 342,
+      "reserved_shield_width_px": 269.56,
+      "compact_scale": 0.43,
+      "compact_logo_height_px": 147.06,
+      "compact_reserved_width_px": 116,
+      "brand_footprint_px": [
+        145,
+        76
+      ],
+      "hero_top_padding_px": 286,
+      "anchors_extra_padding_px": 22
+    },
+    "mobile_max_width_px": 760,
+    "mobile": {
+      "header_height_px": 76,
+      "logo_initial_height_px": 264,
+      "reserved_shield_width_px": 208.08,
+      "compact_scale": 0.44,
+      "compact_logo_height_px": 116.16,
+      "compact_reserved_width_px": 92,
+      "brand_footprint_px": [
+        110,
+        67
+      ],
+      "hero_top_padding_px": 218,
+      "anchors_extra_padding_px": 18
+    },
+    "sizes": "(max-width:760px) 209px, 270px",
+    "stylesheet": "src/header-shield.css",
+    "footer_logo_changed": false
+  },
+  "new_image_assets": [
+    {
+      "id": "concierge-wink",
+      "file": "public/assets/collage/concierge-wink.webp",
+      "dimensions": [
+        800,
+        1200
+      ],
+      "bytes": 185188,
+      "runtime_variant": "public/assets/optimized/collage/concierge-wink-480.webp",
+      "runtime_bytes": 66006,
+      "provenance": "docs/easter-v9-sprites.json",
+      "generated_source": "docs/asset-sources/concierge-wink-original.png"
+    },
+    {
+      "id": "fondue-fork",
+      "file": "public/assets/easter/fondue-fork.webp",
+      "dimensions": [
+        640,
+        640
+      ],
+      "bytes": 33276,
+      "runtime_variant": "public/assets/optimized/easter/fondue-fork-320.webp",
+      "runtime_bytes": 10968,
+      "provenance": "docs/easter-v9-sprites.json",
+      "generated_source": "docs/asset-sources/fondue-fork-original.png"
+    },
+    {
+      "id": "postman-friendly",
+      "file": "public/assets/collage/postman-friendly.webp",
+      "dimensions": [
+        1200,
+        1200
+      ],
+      "bytes": 148732,
+      "replaces": "public/assets/collage/postman.webp",
+      "provenance": "docs/postman-friendly-prompt.json",
+      "generated_source": "docs/asset-sources/postman-friendly-original.png"
+    }
+  ],
+  "existing_asset_provenance": {
+    "bernard_paw": "docs/easter-dog-asset.json",
+    "cow_audio": "docs/easter-audio-sources.json",
+    "cow_audio_source": "https://bigsoundbank.com/cow-moos-4-s2384.html",
+    "cow_audio_author": "Joseph SARDIN",
+    "cow_audio_license": "CC0 1.0 Universal",
+    "menu_photos": [
+      "docs/menu-photos-food-a.json",
+      "docs/menu-photos-food-b.json",
+      "docs/menu-photos-drinks.json"
+    ],
+    "original_hotel_content": "docs/source-html/LISEZMOI-original.md"
+  },
+  "performance": {
+    "manifest": "docs/performance-assets.json",
+    "snapshot_date": "2026-10-24",
+    "measurements": "Tailles statiques des fichiers, dimensions, alpha et intégrité des originaux.",
+    "responsive_candidates": true,
+    "runtime_variants": {
+      "dog_width_px": 640,
+      "concierge_width_px": 480,
+      "fork_width_px": 320
+    },
+    "new_wink_and_fork_original_bytes": 218464,
+    "new_wink_and_fork_runtime_variant_bytes": 76974,
+    "menu_original_bytes": 3465418,
+    "menu_small_candidates_bytes": 1157526,
+    "menu_medium_candidates_bytes": 2257634,
+    "browser_transfer_measurements": null,
+    "lighthouse_score": null,
+    "core_web_vitals": null,
+    "final_responsive_performance_validation": "in_progress"
+  },
+  "delivery": {
+    "seo_config": "src/seo-config.json",
+    "indexable": false,
+    "audience": "owner-private",
+    "production_handoff_required": true,
+    "deployment_claimed": false
+  }
+}

@@ -1,0 +1,28 @@
+body.postcard-site .foot__credit {
+  flex-basis: 100%;
+  display: flex;
+  align-items: baseline;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 0 6px;
+  margin-top: 5px;
+  padding-top: 12px;
+  border-top: 1px solid #fffdf735;
+  color: #fffdf7;
+  font-size: .9375rem;
+  line-height: 1.65;
+}
+body.postcard-site .foot__credit a {
+  display: inline-block;
+  padding-block: 8px;
+  color: inherit;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 1px;
+  overflow-wrap: anywhere;
+}
+body.postcard-site .foot__credit a:hover { text-decoration-thickness: 2px; }
+@media (max-width: 760px) {
+  body.postcard-site .foot__credit { justify-content: flex-start; }
+}

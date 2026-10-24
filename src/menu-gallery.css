@@ -1,0 +1,226 @@
+/* Photographic paper cutouts: the menu stays structured and readable. */
+body.postcard-site .carte--illustrated {
+  max-width: 1280px !important;
+  width: 100%;
+  padding: clamp(24px, 3.5vw, 50px);
+}
+body.postcard-site .carte--illustrated .carte__intro {
+  max-width: 49ch;
+  margin: 0 auto 24px;
+  text-align: center;
+  color: var(--ink-2);
+}
+body.postcard-site .carte--illustrated .segmented--c {
+  margin-bottom: 30px;
+  gap: 8px;
+  padding: 6px;
+}
+body.postcard-site .carte--illustrated .segmented button {
+  min-height: 52px;
+  padding: 12px 28px;
+}
+body.postcard-site .carte--illustrated .acc--carte > details {
+  border-color: #c8cabb;
+}
+body.postcard-site .carte--illustrated summary {
+  min-height: 88px;
+  padding: 20px 0;
+  gap: 18px;
+}
+body.postcard-site .carte--illustrated .menu-category {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 14px;
+  min-width: 0;
+  font: 700 clamp(1.45rem, 2.3vw, 1.8rem)/1.25 Cormorant, Georgia, serif;
+  color: var(--ink);
+}
+body.postcard-site .carte--illustrated .menu-category small {
+  margin: 0;
+  font: 500 1rem/1.5 Manrope, Arial, sans-serif;
+  color: var(--mute);
+}
+body.postcard-site .carte--illustrated summary::after {
+  width: 44px;
+  height: 44px;
+}
+body.postcard-site .carte--illustrated .acc__a {
+  padding: 4px 0 30px;
+}
+body.postcard-site .carte--illustrated .carte__list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+  gap: 24px;
+  align-items: stretch;
+}
+body.postcard-site .carte--illustrated .dish--photo {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #d8d6c9;
+  background: #fffdf7;
+  box-shadow: 0 4px 0 #e9e3d3, 0 10px 20px #193a2d08;
+  border-radius: 3px;
+  isolation: isolate;
+}
+body.postcard-site .carte--illustrated .dish__visual {
+  position: relative;
+  display: grid;
+  place-items: center;
+  height: 220px;
+  margin: 9px 9px 0;
+  padding: 13px 17px;
+  background: #eee9db;
+  overflow: hidden;
+}
+body.postcard-site .carte--illustrated .dish:nth-child(3n+2) .dish__visual {
+  background: #e3e9df;
+}
+body.postcard-site .carte--illustrated .dish:nth-child(3n) .dish__visual {
+  background: #f2e4dd;
+}
+body.postcard-site .carte--illustrated .dish__visual::before {
+  content: "";
+  position: absolute;
+  width: 88px;
+  height: 47px;
+  bottom: 13px;
+  left: -14px;
+  transform: rotate(-12deg);
+  background-color: #fffdf7;
+  background-image: repeating-linear-gradient(0deg, #b92e2d26 0 8px, transparent 8px 16px), repeating-linear-gradient(90deg, #b92e2d26 0 8px, transparent 8px 16px);
+  border: 2px solid #fffdf7;
+}
+body.postcard-site .carte--illustrated .dish__visual img {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  max-width: 330px;
+  min-height: 0;
+  object-fit: contain;
+  filter: drop-shadow(0 7px 4px #193a2d20);
+  transform: rotate(-2deg);
+  transition: transform .35s ease;
+}
+body.postcard-site .carte--illustrated .dish:nth-child(2n) .dish__visual img {
+  transform: rotate(2deg);
+}
+body.postcard-site .carte--illustrated .dish__body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-width: 0;
+  padding: 22px;
+}
+body.postcard-site .carte--illustrated .dish__h {
+  display: block;
+  margin-bottom: 10px;
+}
+body.postcard-site .carte--illustrated .dish__n {
+  font-size: 1.1875rem !important;
+  line-height: 1.45;
+  font-weight: 800;
+  color: var(--ink);
+  overflow-wrap: anywhere;
+}
+body.postcard-site .carte--illustrated .dish__tag {
+  font-size: .875rem !important;
+  line-height: 1.5;
+  padding: 2px 7px;
+  margin: 5px 0 0 5px;
+  border: 1px solid #bccaba;
+  background: #edf1e7;
+  color: #274d35;
+  border-radius: 2px;
+  vertical-align: middle;
+}
+body.postcard-site .carte--illustrated .dish__d {
+  font-size: 1rem !important;
+  line-height: 1.65;
+  color: var(--ink-2);
+  max-width: none;
+  margin: 0 0 20px;
+  overflow-wrap: anywhere;
+}
+body.postcard-site .carte--illustrated .dish__d i {
+  color: var(--mute);
+}
+body.postcard-site .carte--illustrated .dish__price {
+  display: flex;
+  align-items: baseline;
+  gap: 7px;
+  flex-wrap: wrap;
+  margin-top: auto;
+  padding-top: 13px;
+  border-top: 1px dashed #c9cbbb;
+  color: var(--rouge);
+}
+body.postcard-site .carte--illustrated .dish__currency {
+  font-size: .9375rem;
+  font-weight: 700;
+}
+body.postcard-site .carte--illustrated .dish__p {
+  margin: 0;
+  font-size: 1.125rem !important;
+  font-weight: 800;
+  line-height: 1.6;
+  white-space: normal;
+}
+body.postcard-site .carte--illustrated .carte__photo-note {
+  font-size: 1rem !important;
+  line-height: 1.6;
+  margin: 26px 0 0;
+  padding-top: 24px;
+  border-top: 1px solid #c8cabb;
+  color: var(--mute);
+}
+body.postcard-site .carte--illustrated .carte__foot {
+  margin-top: 24px;
+}
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  :root:not([data-reduced="true"]) body.postcard-site .carte--illustrated .dish:hover .dish__visual img {
+    transform: translateY(-4px) rotate(0deg);
+  }
+}
+@media (min-width: 1120px) {
+  body.postcard-site .carte--illustrated .carte__list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (max-width: 760px) {
+  body.postcard-site .carte--illustrated {
+    padding: 26px 18px;
+  }
+  body.postcard-site .carte--illustrated .segmented--c {
+    width: 100%;
+    flex-wrap: nowrap;
+  }
+  body.postcard-site .carte--illustrated .segmented button {
+    flex: 1;
+    padding-inline: 12px;
+  }
+  body.postcard-site .carte--illustrated .dish__body {
+    padding: 20px;
+  }
+  body.postcard-site .carte--illustrated .dish__visual {
+    height: 212px;
+  }
+  body.postcard-site .carte--illustrated .carte__list {
+    gap: 22px;
+  }
+  body.postcard-site .carte--illustrated .menu-category {
+    display: block;
+  }
+  body.postcard-site .carte--illustrated .menu-category small {
+    display: block;
+    margin-top: 5px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  body.postcard-site .carte--illustrated .dish__visual img { transition: none; }
+}
+:root[data-reduced="true"] body.postcard-site .carte--illustrated .dish__visual img { transition: none; }

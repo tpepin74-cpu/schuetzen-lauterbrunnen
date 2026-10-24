@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a-deux", "category": "a-deux", "label": "À deux", "title": "À deux, sous les sommets.", "short": "Des chalets, des cascades et du temps rien que pour vous.", "nights": "2 nuits", "season": "Printemps · été · automne", "image": "sch-vallee-soir", "alt": "La vallée de Lauterbrunnen dans la lumière du soir", "cutout": "edelweiss", "caption": "Le bonheur se partage.",
+    "intro": "Poser les valises. Ouvrir la fenêtre. Puis partir à deux, sans trop regarder l’heure. Le Schützen devient votre petit chez-vous au milieu des Alpes.",
+    "steps": [["Le premier jour", "Flâner dans Lauterbrunnen, découvrir ses chalets et admirer le Staubbach depuis le village."], ["Le lendemain", "Prendre de la hauteur vers Mürren ou Gimmelwald, deux villages sans voitures où s’attarder face aux montagnes."], ["De retour au chalet", "Se retrouver autour d’une fondue au restaurant du Schützen, puis profiter d’une nuit au calme."]],
+    "note": "Le sentier d’approche du Staubbach ouvre en été. Pour les excursions, consultez les ouvertures avant de partir.",
+    "sources": [["Lauterbrunnen Tourismus · Staubbach", "https://lauterbrunnen.swiss/fr/map/detail/cascade-de-staubbach-72e97e9f-26fb-4ec2-ba72-c035d9d03e75.html"], ["Jungfrau Region · villages", "https://jungfrauregion.swiss/en/stories/detail-stories/five-villages-five-hidden-gems-ce5d4e02-f1fd-40fd-bd66-fc3b7dbe881c.html"]]
+  },
+  {
+    "id": "en-famille", "category": "famille", "label": "En famille", "title": "Petits explorateurs, grands souvenirs.", "short": "Un petit train, des fleurs géantes et beaucoup de grand air.", "nights": "3 nuits", "season": "Été · selon ouverture", "image": "murren", "alt": "Les chalets de Mürren face aux sommets de l’Oberland bernois", "cutout": "bernard", "caption": "À hauteur de leurs rêves.",
+    "intro": "Des journées qui laissent de la place aux découvertes, aux pauses et aux envies des petits. Quelques idées pour retrouver le plaisir d’explorer ensemble.",
+    "steps": [["Une journée à Mürren", "Découvrir le village à pied et prendre le temps de regarder les montagnes, les chalets et les trains."], ["Cap sur Allmendhubel", "Monter en funiculaire vers le Flower Park, son univers de fleurs géantes et ses jeux. Prolonger la découverte sur le Flower Trail."], ["Une journée tout en douceur", "Se promener dans la vallée, choisir sa prochaine carte postale et rentrer au Schützen pour se retrouver à table."]],
+    "note": "Le Flower Park et le Flower Trail sont des idées estivales. Vérifiez les dates de circulation du funiculaire avant votre visite.",
+    "sources": [["Mürren Tourismus · Allmendhubel", "https://muerren.swiss/en/map/detail/allmendhubel-4afbeaa1-005f-4e3e-9df4-fae6d8b05bb9.html"]]
+  },
+  {
+    "id": "cascades", "category": "nature", "label": "Au fil de l’eau", "title": "La vallée fait son spectacle.", "short": "Marcher, lever les yeux et se laisser surprendre par l’eau.", "nights": "2 nuits", "season": "Printemps · été · automne", "image": "staubbach-street", "alt": "Le village de Lauterbrunnen au pied de la cascade du Staubbach", "cutout": "cowbell", "caption": "Lauterbrunnen, tout simplement.",
+    "intro": "Ici, les cascades font partie du paysage quotidien. Une escapade pour les découvrir à votre rythme, depuis le village jusque dans la montagne.",
+    "steps": [["Lever les yeux", "Commencer par le Staubbach et les vues depuis Lauterbrunnen. En été, emprunter son sentier d’approche lorsqu’il est ouvert."], ["Entrer dans la montagne", "Découvrir les chutes intérieures du Trümmelbach pendant leur saison d’ouverture."], ["Suivre la vallée", "Prolonger la promenade vers Stechelberg, puis retrouver le restaurant et le confort de l’hôtel."]],
+    "note": "Le Trümmelbach n’admet pas les enfants de moins de 4 ans ni les chiens. Sa saison habituelle va d’avril à début novembre, selon les conditions.",
+    "sources": [["Lauterbrunnen Tourismus · Trümmelbach", "https://lauterbrunnen.swiss/fr/map/detail/chutes-de-trummelbach-52c355bf-8544-4c9b-9885-427fc77657fb.html"], ["Trümmelbach · accès et saison", "https://truemmelbachfaelle.ch/smart/e/anreise.html"]]
+  },
+  {
+    "id": "randonnee", "category": "nature", "label": "À pied", "title": "Le grand air, à pleins poumons.", "short": "Un sentier, trois sommets mythiques et la journée devant soi.", "nights": "3 nuits", "season": "Été · début d’automne", "image": "eiger", "alt": "Le massif de l’Eiger et les paysages alpins de la région", "cutout": "boots", "caption": "Juste une envie de dehors.",
+    "intro": "Faire du Schützen son point de départ pour une escapade de marche. Une grande journée panoramique, une autre plus douce, et le plaisir de rentrer au chalet.",
+    "steps": [["Prendre ses repères", "Profiter d’une première balade dans le fond de vallée et choisir les sorties adaptées à sa forme."], ["Le grand panorama", "En saison et lorsque le sentier est ouvert, relier Männlichen à Kleine Scheidegg par le Panoramaweg : 4,5 km, environ 1 h 20 dans ce sens."], ["Prendre son temps", "S’attarder devant l’Eiger, le Mönch et la Jungfrau, puis garder une journée plus tranquille autour de Lauterbrunnen."]],
+    "note": "Une inspiration estivale : le Panoramaweg dépend de la saison, de la météo et de l’état des sentiers. Consultez son statut officiel avant de programmer la marche.",
+    "sources": [["Männlichen · Panoramaweg et état du sentier", "https://www.maennlichen.ch/de/sommer/erleben/panoramaweg.html"], ["Interlaken Tourismus · Kleine Scheidegg", "https://www.interlaken.swiss/en/experiences/mountains-panoramas/mountain-excursions/kleine-scheidegg"]]
+  },
+  {
+    "id": "sans-voiture", "category": "train", "label": "Sans voiture", "title": "Les Alpes, côté fenêtre.", "short": "Le voyage fait déjà partie des vacances. Installez-vous.", "nights": "3 nuits", "season": "Toute l’année · selon circulation", "image": "train-yellow", "alt": "Un train de montagne jaune au cœur des Alpes suisses", "cutout": "train", "caption": "Prochain arrêt : les beaux jours.",
+    "intro": "Arriver en train et garder les mains libres. Depuis Lauterbrunnen, les villages et les panoramas s’enchaînent au rythme des rails et des remontées.",
+    "steps": [["Une escale à Wengen", "Prendre le train vers Wengen et découvrir à pied ce village sans voitures."], ["Au plus près des sommets", "Poursuivre vers Kleine Scheidegg avec la Wengernalpbahn et profiter des vues sur l’Eiger, le Mönch et la Jungfrau."], ["Changer de versant", "Consacrer une autre journée à Mürren, puis retrouver Lauterbrunnen et votre chambre au Schützen."]],
+    "note": "Les transports se choisissent et se réservent séparément. Vérifiez les horaires et les éventuelles périodes de maintenance pour vos dates.",
+    "sources": [["Interlaken Tourismus · Kleine Scheidegg", "https://www.interlaken.swiss/en/experiences/mountains-panoramas/mountain-excursions/kleine-scheidegg"], ["Jungfrau Region · villages sans voitures", "https://jungfrauregion.swiss/en/stories/detail-stories/five-villages-five-hidden-gems-ce5d4e02-f1fd-40fd-bd66-fc3b7dbe881c.html"]]
+  },
+  {
+    "id": "hiver", "category": "hiver", "label": "L’hiver au chalet", "title": "Le froid aux joues. Le cœur au chaud.", "short": "Une balade d’hiver, une fondue et le bonheur de rentrer.", "nights": "2 à 3 nuits", "season": "Hiver · selon enneigement", "image": "sch-hiver", "alt": "L’Hotel Schützen et ses chalets voisins en hiver", "cutout": "sled", "caption": "La Suisse en version douillette.",
+    "intro": "Changer d’air au cœur de la saison froide. Des promenades, un petit voyage vers les hauteurs et de longues soirées autour d’une table chaleureuse.",
+    "steps": [["La vallée en hiver", "Se promener dans Lauterbrunnen et le long de la Lütschine blanche, suivant les conditions du jour."], ["Une échappée vers Sulwald", "Rejoindre Isenfluh puis Sulwald pour une promenade hivernale ou une activité de neige adaptée, lorsque les installations et itinéraires sont ouverts."], ["Le retour qu’on attend", "Profiter du restaurant du Schützen, partager une fondue et prendre le temps de la soirée."]],
+    "note": "La neige n’est pas garantie dans la vallée. Choisissez les activités selon l’enneigement, la météo et les ouvertures du moment.",
+    "sources": [["Jungfrau Region · Lauterbrunnen en hiver", "https://jungfrauregion.swiss/fr/stories/detail-stories/lauterbrunnen-en-hiver-d7ccdae0-f50b-4861-92c2-b0602e1ab953.html"]]
+  }
+]

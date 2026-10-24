@@ -1,0 +1,27 @@
+{
+  "html_entries": 8,
+  "qa_files": [],
+  "assets": {
+    "assets/collage/bernard-paw.webp": {
+      "exists": true,
+      "bytes": 184108
+    },
+    "assets/easter/cow-moo.mp3": {
+      "exists": true,
+      "bytes": 35467
+    },
+    "js/site.js": {
+      "exists": true,
+      "bytes": 65340
+    },
+    "js/data.js": {
+      "exists": true,
+      "bytes": 7122
+    },
+    "css/site-base.css": {
+      "exists": true,
+      "bytes": 69957
+    }
+  },
+  "business_sources_unchanged": true
+}

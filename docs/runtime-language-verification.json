@@ -1,0 +1,146 @@
+[
+  {
+    "lang": "fr",
+    "locale": "fr-CH",
+    "bookingLang": "fr",
+    "nights": [
+      "1 nuit",
+      "2 nuits",
+      "5 nuits",
+      "21 nuits"
+    ],
+    "guests": [
+      "1 adulte",
+      "2 adultes",
+      "5 adultes"
+    ],
+    "mailHasLineBreaks": true,
+    "mailPlaceholdersResolved": true
+  },
+  {
+    "lang": "de",
+    "locale": "de-CH",
+    "bookingLang": "de",
+    "nights": [
+      "1 Nacht",
+      "2 Nächte",
+      "5 Nächte",
+      "21 Nächte"
+    ],
+    "guests": [
+      "1 Erwachsener",
+      "2 Erwachsene",
+      "5 Erwachsene"
+    ],
+    "mailHasLineBreaks": true,
+    "mailPlaceholdersResolved": true
+  },
+  {
+    "lang": "en",
+    "locale": "en-GB",
+    "bookingLang": "en-gb",
+    "nights": [
+      "1 night",
+      "2 nights",
+      "5 nights",
+      "21 nights"
+    ],
+    "guests": [
+      "1 adult",
+      "2 adults",
+      "5 adults"
+    ],
+    "mailHasLineBreaks": true,
+    "mailPlaceholdersResolved": true
+  },
+  {
+    "lang": "zh",
+    "locale": "zh-Hans",
+    "bookingLang": "zh-cn",
+    "nights": [
+      "1晚",
+      "2晚",
+      "5晚",
+      "21晚"
+    ],
+    "guests": [
+      "1位成人",
+      "2位成人",
+      "5位成人"
+    ],
+    "mailHasLineBreaks": true,
+    "mailPlaceholdersResolved": true
+  },
+  {
+    "lang": "ru",
+    "locale": "ru",
+    "bookingLang": "ru",
+    "nights": [
+      "1 ночь",
+      "2 ночи",
+      "5 ночей",
+      "21 ночь"
+    ],
+    "guests": [
+      "1 взрослый",
+      "2 взрослых",
+      "5 взрослых"
+    ],
+    "mailHasLineBreaks": true,
+    "mailPlaceholdersResolved": true
+  },
+  {
+    "lang": "ko",
+    "locale": "ko",
+    "bookingLang": "ko",
+    "nights": [
+      "1박",
+      "2박",
+      "5박",
+      "21박"
+    ],
+    "guests": [
+      "성인 1명",
+      "성인 2명",
+      "성인 5명"
+    ],
+    "mailHasLineBreaks": true,
+    "mailPlaceholdersResolved": true
+  },
+  {
+    "lang": "it",
+    "locale": "it",
+    "bookingLang": "it",
+    "nights": [
+      "1 notte",
+      "2 notti",
+      "5 notti",
+      "21 notti"
+    ],
+    "guests": [
+      "1 adulto",
+      "2 adulti",
+      "5 adulti"
+    ],
+    "mailHasLineBreaks": true,
+    "mailPlaceholdersResolved": true
+  },
+  {
+    "lang": "es",
+    "locale": "es",
+    "bookingLang": "es",
+    "nights": [
+      "1 noche",
+      "2 noches",
+      "5 noches",
+      "21 noches"
+    ],
+    "guests": [
+      "1 adulto",
+      "2 adultos",
+      "5 adultos"
+    ],
+    "mailHasLineBreaks": true,
+    "mailPlaceholdersResolved": true
+  }
+]

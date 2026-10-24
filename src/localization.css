@@ -1,0 +1,46 @@
+/* Language choice uses native disclosure and real, crawlable page links. */
+html{overflow-x:clip}
+body.postcard-site main [id],body.postcard-site :is(a,button,input,select,textarea,summary){scroll-margin-top:calc(var(--shield-compact-height,147px) + 20px)}
+.language-picker{position:relative;flex:none;font:700 1rem/1.4 Manrope,Arial,sans-serif;z-index:3}
+.language-picker>summary{display:flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:10px 12px;list-style:none;border:1px solid #193a2d40;border-radius:4px;cursor:pointer;background:var(--card);color:var(--ink)}
+.language-picker>summary::-webkit-details-marker{display:none}
+.language-picker>summary svg{width:20px;height:20px;flex:none}
+.language-picker[open]>summary{border-color:var(--rouge)}
+.language-picker nav{position:absolute;top:calc(100% + 8px);right:0;min-width:230px;padding:10px;display:grid;grid-template-columns:1fr 1fr;gap:4px;background:var(--card);border:1px solid var(--line);box-shadow:0 12px 32px #193a2d24;border-radius:8px}
+.language-picker a,.footer-languages a{min-height:44px;display:flex;align-items:center;padding:8px 10px;text-decoration:none;color:inherit;border-radius:3px;font-size:1rem;line-height:1.5}
+.language-picker a[aria-current],.language-picker a:hover{background:#b92e2d10;color:var(--rouge)}
+.language-picker--mobile{display:none}
+.footer-languages{display:flex;flex-wrap:wrap;gap:6px 12px;flex-basis:100%;padding-top:14px;border-top:1px solid #fff4;color:#fffdf7}
+.footer-languages a{font-size:.9375rem}
+.footer-languages a[aria-current]{background:#fff2;text-decoration:underline;text-underline-offset:4px}
+body.postcard-site :is(h1,h2,h3,button,.pill,.btn,.cg-choice,.top__nav a,.app-nav span){overflow-wrap:anywhere}
+body.postcard-site .top__nav a{white-space:normal;font-size:1rem;line-height:1.35;hyphens:auto}
+body.postcard-site .top__nav ul{gap:clamp(10px,1vw,18px);align-items:center}
+body.postcard-site :is(.top__nav li,.cg__head>div,.pc-guide-choice>span,.rc__body,.dish__body){min-width:0}
+body.postcard-site .carte--illustrated .menu-category>span{min-width:0;overflow-wrap:anywhere}
+body.postcard-site .carte--illustrated .acc details[open]>summary::after{transform:none;background:linear-gradient(currentColor,currentColor) center/12px 2px no-repeat,var(--rouge);color:var(--card)}
+body.postcard-site .pc-hero__copy h1{hyphens:auto;text-wrap:balance}
+html:lang(zh) body.postcard-site{--font:"PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif;font-family:var(--font)}
+html:lang(ko) body.postcard-site{--font:"Apple SD Gothic Neo","Malgun Gothic","Noto Sans CJK KR",sans-serif;font-family:var(--font)}
+html:lang(ru) body.postcard-site{--font:Arial,"Helvetica Neue",sans-serif;font-family:var(--font)}
+html:is(:lang(zh),:lang(ko),:lang(ru)) body.postcard-site :is(button,.pill,.btn,small,.eyebrow,input,select,textarea,.cg .msg,.cg-choice,.cg-choice b,.cg__head,.app-nav>a,.app-nav>button,.language-picker,.pc-postman-button){font-family:var(--font)!important}
+html:lang(zh) body.postcard-site :is(h1,h2,h3,figcaption){font-family:"Songti SC","Noto Serif CJK SC",serif;letter-spacing:.01em;line-height:1.35}
+html:lang(ko) body.postcard-site :is(h1,h2,h3,figcaption){font-family:"AppleMyungjo","Batang","Noto Serif CJK KR",serif;letter-spacing:0;line-height:1.35;word-break:keep-all;overflow-wrap:anywhere}
+html:lang(ru) body.postcard-site :is(h1,h2,h3,figcaption){font-family:Georgia,"Times New Roman",serif;letter-spacing:-.025em}
+html:is(:lang(zh),:lang(ko)) body.postcard-site .pc-hero h1{font-size:clamp(42px,5.8vw,78px)}
+html:is(:lang(zh),:lang(ko)) body.postcard-site :is(.eyebrow,.pc-ribbon){letter-spacing:.04em!important}
+@media(max-width:1450px){.top__nav{display:none!important}.top__menu{display:inline-flex!important}}
+@media(max-width:760px){
+  .top__acts>.language-picker{display:none}
+  .language-picker--mobile{display:block;margin:0 0 18px;max-width:310px}
+  .language-picker--mobile>summary{justify-content:space-between}
+  .language-picker--mobile nav{position:static;margin-top:8px;box-shadow:none}
+  body.postcard-site .app-nav>a,body.postcard-site .app-nav>button{padding-inline:3px;line-height:1.35;hyphens:none}
+  body.postcard-site .app-nav span{text-align:center}
+  body.postcard-site :is(.pc-ticket-label,.pc-ticket-field,.field,.stepper,.cal__head){min-width:0}
+  body.postcard-site .pc-postman-button{font-size:1rem;line-height:1.35}
+  html:not(:lang(fr)) body.postcard-site .pc-hero h1{font-size:clamp(46px,13.5vw,60px)}
+  html:is(:lang(zh),:lang(ko)) body.postcard-site .pc-hero h1{font-size:46px}
+  html:lang(ru) body.postcard-site .pc-hero h1{font-size:clamp(42px,11.5vw,64px)}
+}
+@media print{.language-picker,.footer-languages{display:none!important}}

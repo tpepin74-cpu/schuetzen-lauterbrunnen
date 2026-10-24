@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "flowRange": 0.5,
+  "logicalAspect": 1.7777777777777777,
+  "cascade": {
+    "src": "/assets/journey/cascade.webp",
+    "aspect": 1.7768331562167907
+  },
+  "water": {
+    "src": "/assets/cinematic/water-close.webp",
+    "aspect": 1.7768331562167907
+  },
+  "frames": [
+    {
+      "id": "approach",
+      "p": 0.19,
+      "src": "/assets/cinematic/approach.webp",
+      "aspect": 1.7768331562167907
+    },
+    {
+      "id": "steps-low",
+      "p": 0.285,
+      "src": "/assets/cinematic/steps-low.webp",
+      "aspect": 1.7768331562167907
+    },
+    {
+      "id": "steps-high",
+      "p": 0.34,
+      "src": "/assets/cinematic/steps-high.webp",
+      "aspect": 1.7768331562167907
+    },
+    {
+      "id": "landing",
+      "p": 0.395,
+      "src": "/assets/cinematic/landing.webp",
+      "aspect": 1.7768331562167907
+    },
+    {
+      "id": "terrace-turn",
+      "p": 0.415,
+      "src": "/assets/cinematic/terrasse-turn.webp",
+      "aspect": 1.7768331562167907
+    },
+    {
+      "id": "table-wide",
+      "p": 0.435,
+      "src": "/assets/cinematic/table-wide.webp",
+      "aspect": 1.778723404255319
+    },
+    {
+      "id": "table-approach",
+      "p": 0.49,
+      "src": "/assets/cinematic/table-approach.webp",
+      "aspect": 1.7768331562167907
+    },
+    {
+      "id": "fondue",
+      "p": 0.558,
+      "src": "/assets/journey/fondue.webp",
+      "aspect": 1.7768331562167907
+    }
+  ],
+  "transitions": [
+    {
+      "from": "approach",
+      "to": "steps-low",
+      "forward": "/assets/cinematic/flow-approach-steps-low-f.png",
+      "backward": "/assets/cinematic/flow-approach-steps-low-b.png",
+      "range": 0.5
+    },
+    {
+      "from": "steps-low",
+      "to": "steps-high",
+      "forward": "/assets/cinematic/flow-steps-low-steps-high-f.png",
+      "backward": "/assets/cinematic/flow-steps-low-steps-high-b.png",
+      "range": 0.5
+    },
+    {
+      "from": "steps-high",
+      "to": "landing",
+      "forward": "/assets/cinematic/flow-steps-high-landing-f.png",
+      "backward": "/assets/cinematic/flow-steps-high-landing-b.png",
+      "range": 0.5
+    },
+    {
+      "from": "landing",
+      "to": "terrace-turn",
+      "forward": "/assets/cinematic/flow-landing-terrace-turn-f.png",
+      "backward": "/assets/cinematic/flow-landing-terrace-turn-b.png",
+      "range": 0.5
+    },
+    {
+      "from": "terrace-turn",
+      "to": "table-wide",
+      "forward": "/assets/cinematic/flow-terrace-turn-table-wide-f.png",
+      "backward": "/assets/cinematic/flow-terrace-turn-table-wide-b.png",
+      "range": 0.5
+    },
+    {
+      "from": "table-wide",
+      "to": "table-approach",
+      "forward": "/assets/cinematic/flow-table-wide-table-approach-f.png",
+      "backward": "/assets/cinematic/flow-table-wide-table-approach-b.png",
+      "range": 0.5
+    },
+    {
+      "from": "table-approach",
+      "to": "fondue",
+      "forward": "/assets/cinematic/flow-table-approach-fondue-f.png",
+      "backward": "/assets/cinematic/flow-table-approach-fondue-b.png",
+      "range": 0.5
+    }
+  ],
+  "mobile": {
+    "logicalAspect": 0.6666666666666666,
+    "frames": [
+      {
+        "id": "table-wide",
+        "p": 0.435,
+        "src": "/assets/cinematic/table-wide-mobile.webp",
+        "aspect": 0.6666666666666666
+      },
+      {
+        "id": "table-approach",
+        "p": 0.49,
+        "src": "/assets/cinematic/table-approach-mobile.webp",
+        "aspect": 0.6666666666666666
+      },
+      {
+        "id": "fondue",
+        "p": 0.558,
+        "src": "/assets/journey/fondue-mobile.webp",
+        "aspect": 0.6666666666666666
+      }
+    ],
+    "transitions": [
+      {
+        "from": "approach",
+        "to": "steps-low",
+        "forward": "/assets/cinematic/flow-mobile-approach-steps-low-f.png",
+        "backward": "/assets/cinematic/flow-mobile-approach-steps-low-b.png",
+        "range": 0.5
+      },
+      {
+        "from": "steps-low",
+        "to": "steps-high",
+        "forward": "/assets/cinematic/flow-mobile-steps-low-steps-high-f.png",
+        "backward": "/assets/cinematic/flow-mobile-steps-low-steps-high-b.png",
+        "range": 0.5
+      },
+      {
+        "from": "steps-high",
+        "to": "landing",
+        "forward": "/assets/cinematic/flow-mobile-steps-high-landing-f.png",
+        "backward": "/assets/cinematic/flow-mobile-steps-high-landing-b.png",
+        "range": 0.5
+      },
+      {
+        "from": "landing",
+        "to": "terrace-turn",
+        "forward": "/assets/cinematic/flow-mobile-landing-terrace-turn-f.png",
+        "backward": "/assets/cinematic/flow-mobile-landing-terrace-turn-b.png",
+        "range": 0.5
+      },
+      {
+        "from": "terrace-turn",
+        "to": "table-wide",
+        "forward": "/assets/cinematic/flow-mobile-terrace-turn-table-wide-f.png",
+        "backward": "/assets/cinematic/flow-mobile-terrace-turn-table-wide-b.png",
+        "range": 0.5
+      },
+      {
+        "from": "table-wide",
+        "to": "table-approach",
+        "forward": "/assets/cinematic/flow-mobile-table-wide-table-approach-f.png",
+        "backward": "/assets/cinematic/flow-mobile-table-wide-table-approach-b.png",
+        "range": 0.5
+      },
+      {
+        "from": "table-approach",
+        "to": "fondue",
+        "forward": "/assets/cinematic/flow-mobile-table-approach-fondue-f.png",
+        "backward": "/assets/cinematic/flow-mobile-table-approach-fondue-b.png",
+        "range": 0.5
+      }
+    ]
+  }
+}

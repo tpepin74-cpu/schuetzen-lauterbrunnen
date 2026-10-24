@@ -1,0 +1,90 @@
+/* Readable content first. Decorative postmarks never carry essential information. */
+:root[data-theme="light"]{--mute:#526052;--ink-2:#344d40;--copy-size:1.125rem;--ui-size:1rem}
+body.postcard-site{font-size:var(--copy-size);line-height:1.65}
+body.postcard-site main p{font-size:var(--copy-size)!important;line-height:1.7}
+body.postcard-site main p.eyebrow,body.postcard-site .eyebrow{font:800 .875rem/1.6 Manrope,Arial,sans-serif!important;letter-spacing:.075em!important}
+body.postcard-site main :is(small,.pc-crumbs,.rc__spec,.rc__k,.rgal__count,.chip,.board__head){font-size:.9375rem;line-height:1.55}
+body.postcard-site :is(.pill,.btn,.link-arrow,.tabs button,.segmented button,.anchors__list a,.anchors__toggle,.anchors__on){font-size:var(--ui-size)!important;line-height:1.5;min-height:48px}
+body.postcard-site :is(input,select,textarea){font-size:1rem!important;line-height:1.5}
+body.postcard-site :is(label,legend,summary,.rfacts li,.perks span,.ticks li,.picker__kv,.bookcard__price small,.stepper b,.cal__title,.cal__month,.dish__n,.dish__p,.dish__d,.dish__note){font-size:1rem!important;line-height:1.6}
+body.postcard-site summary{min-height:50px;height:auto}
+body.postcard-site :is(.stepper small,.picker__note,.bookcard__note,.sheet__note,.cal__hint,.form-note,.foot__base,.foot__h,.foot__col a,.foot__contact a,.foot__brand address,.foot__book a,.card__k){font-size:.9375rem!important;line-height:1.65}
+body.postcard-site :is(.board__row,.board__a,.board__v,.board__t,.idea__tag,.tile__b small,.rc__p,.rrow__p,.value p,.cards3 p){font-size:1rem;line-height:1.6}
+body.postcard-site .cal__grid button{font-size:1rem;min-height:42px}
+body.postcard-site :is(.pc-discovery-body>small,.pc-ticket small,.pc-foot-kicker){font-size:.875rem!important;line-height:1.5;letter-spacing:.05em}
+body.postcard-site .pc-ticket-field strong{font-size:1.0625rem;line-height:1.5}
+body.postcard-site .pc-ticket-label b{font-size:1.85rem;line-height:1.13}
+body.postcard-site .pc-ticket{grid-template-columns:1.25fr .8fr .8fr 1fr 1.35fr;gap:20px;padding:26px;min-height:132px}
+body.postcard-site .pc-ticket>.pill{white-space:normal;text-align:center}
+body.postcard-site .pc-hero__intro{max-width:38ch;font-size:1.1875rem!important;line-height:1.7}
+body.postcard-site .pc-room-overview{max-width:38ch;margin:-2px 0 28px;color:var(--ink-2)}
+body.postcard-site .pc-room-overview strong{color:var(--rouge);font-weight:800}
+body.postcard-site .pc-room-overview span{margin-inline:6px}
+body.postcard-site .pc-hero h1{letter-spacing:-.045em}
+body.postcard-site :is(.rc__t,.rrow__t,.shead h2,.stay-card h3){letter-spacing:-.035em;line-height:1.1}
+body.postcard-site .pc-photo figcaption{font-size:1.625rem;line-height:1.2}
+body.postcard-site .pc-photo--small figcaption{font-size:1.25rem;line-height:1.15}
+body.postcard-site .pc-handnote{font-size:1.7rem;line-height:1.1}
+body.postcard-site .pc-postmark small{font-size:6px}
+body.postcard-site .pc-card-postmark small{font-size:6px;line-height:1.2}
+body.postcard-site .pc-stamp small{font-size:9px}
+body.postcard-site .pc-foot-postage span{font-size:8px}
+body.postcard-site .pc-souvenir-note small{display:none}
+body.postcard-site .pc-ribbon{font-size:.9375rem;line-height:1.5;white-space:normal;text-align:center;flex-wrap:wrap;gap:18px;padding-block:20px}
+body.postcard-site .pc-ribbon span{font-size:inherit}
+body.postcard-site .pc-letter-paper p{max-width:52ch}
+body.postcard-site .pc-letter-signature{font-family:Cormorant,Georgia,serif;font-size:2rem!important}
+body.postcard-site .foot__social a{width:48px;height:48px}
+body.postcard-site .foot__grid{gap:40px 30px;grid-template-columns:1fr .9fr 1fr 1.4fr}
+body.postcard-site .foot__contact a{overflow-wrap:anywhere}
+body.postcard-site .foot__h{font-weight:800;color:#fffdf7}
+body.postcard-site .foot__col a,body.postcard-site .foot__brand address,body.postcard-site .foot__base{color:#fffdf7}
+body.postcard-site .foot__col li{margin-bottom:8px}
+body.postcard-site .pill:focus-visible,body.postcard-site .btn:focus-visible,body.postcard-site a:focus-visible,body.postcard-site button:focus-visible,body.postcard-site input:focus-visible,body.postcard-site select:focus-visible,body.postcard-site summary:focus-visible{outline:3px solid #b92e2d;outline-offset:4px}
+body.postcard-site .foot :focus-visible,body.postcard-site .pc-stay-outro :focus-visible{outline-color:#fffdf7}
+body.postcard-site :is(.acc,.shead,.rrow,.rc,.split2,.split,.cards3,.bookcard,.picker,.stay-card,.pc-guide-entry){min-width:0}
+body.postcard-site .pc-hero__actions{gap:18px;flex-wrap:wrap}
+body.postcard-site .cg-tab{bottom:var(--cg-launcher-bottom,22px);font-size:1rem;width:22em;max-width:calc(100vw - 48px);height:auto}
+body.postcard-site .cg-tab>span{min-width:0;overflow-wrap:anywhere}
+body.postcard-site .cg-tab>span small{font-size:1rem;text-wrap:balance}
+body.postcard-site :is(a,button,input,select,textarea,summary){scroll-margin-top:calc(var(--top-h) + 18px);scroll-margin-bottom:calc(var(--app-nav-offset,0px) + 20px)}
+body.postcard-site :is(.pc-hero__copy,.foot__big,.pc-guide-entry__intro,.pc-hero__art){min-width:0}
+body.postcard-site :is(h1,h2,h3,.plat a,.plat b,.foot__big,.tile b){overflow-wrap:anywhere}
+body.postcard-site :is(.tile,.tile__b){min-width:0}
+body.postcard-site .pc-hero--index h1 em{white-space:normal}
+body.postcard-site .skip{top:0;transform:translateY(calc(-100% - 12px));transition:transform .2s}
+body.postcard-site .skip:focus{top:0;transform:translateY(calc(12px + env(safe-area-inset-top,0px)))}
+/* Secondary information stays readable too: rates, hours, origin, and next-page links. */
+body.postcard-site :is(.pc-discovery-link,.hrs__k,.hrs__n,.links__d,.icard .kv,.carte__origin,.carte__origin strong,.carte__origin li,.plat figcaption>span,.plat figcaption em,.stats span,.bookcard__call,.mnav__contact a,.field .lbl){font-size:1rem!important;line-height:1.6}
+body.postcard-site :is(.rc__m,.idea__m,.board__head span,.suite__k,.dish__tag,.cal__grid .dow){font-size:.875rem!important;line-height:1.5;letter-spacing:.035em}
+body.postcard-site .suite__d{font-size:1.0625rem;line-height:1.6}
+body.postcard-site .pc-discovery-link{min-height:50px;gap:16px}
+body.postcard-site .plat figcaption em{display:block;margin-top:3px}
+body.postcard-site .dish__tag{padding:4px 8px;vertical-align:middle}
+body.postcard-site .pc-guide-entry p.eyebrow{font-size:.875rem!important}
+body.postcard-site .cal-nav{min-width:44px;min-height:44px}
+body.postcard-site .cal-top .sum-dates{flex:1;min-width:0;gap:8px}
+body.postcard-site .cal-top .sum-dates>div{min-width:0;padding:10px}
+body.postcard-site .cal-top .sum-dates b{display:block;font-size:1rem;line-height:1.5;white-space:normal}
+body.postcard-site .cal-controls{display:flex;align-items:center;justify-content:space-between;gap:14px 20px;flex-wrap:wrap;margin-top:16px;padding:14px 0 4px}
+body.postcard-site .cal-feedback{flex:1;min-width:min(100%,220px)}
+body.postcard-site .cal-feedback :is(.cal__hint,.cal__error){font-size:1rem!important;line-height:1.6;margin:0;color:var(--ink-2)}
+body.postcard-site .cal-feedback .cal__error{color:var(--rouge);margin-bottom:6px;font-weight:700}
+body.postcard-site .cal__error a{text-decoration:underline;text-underline-offset:3px;display:inline-block}
+body.postcard-site .cal-clear{flex:none;max-width:100%;min-height:48px;padding:10px 15px;border:1px solid currentColor;border-radius:3px;background:var(--card);color:var(--ink);font:700 1rem/1.5 Manrope,Arial,sans-serif;cursor:pointer}
+body.postcard-site .cal-clear:hover:not(:disabled){background:var(--ink);color:var(--card)}
+body.postcard-site .cal-clear:disabled{opacity:.5;cursor:default}
+body.postcard-site :is(.sheet .note,.sheet .sum-dates small,.sheet .ralert__pick small,.carte__origin dt){font-size:.9375rem!important;line-height:1.65;white-space:normal}
+body.postcard-site :is(.sheet .ralert__pick,.links__t){font-size:1rem}
+body.postcard-site .mnav__contact a{display:inline-flex;align-items:center;min-height:48px}
+body.postcard-site .suite__txt{grid-template-columns:minmax(0,1fr) auto}
+body.postcard-site .map-readable h3{font-size:1.7rem;line-height:1.2;margin:20px 0}
+body.postcard-site .map-readable dl{margin:0;display:grid;gap:18px}
+body.postcard-site .map-readable dt{font:800 1rem/1.5 Manrope,Arial,sans-serif;color:var(--rouge)}
+body.postcard-site .map-readable dd{font-size:1rem;line-height:1.65;margin:6px 0 0}
+@media(max-width:980px){body.postcard-site .mapcard{transform:none}body.postcard-site .mapcard>.map{display:none}body.postcard-site .map-readable h3{margin-top:0}}
+@media(max-width:1180px){body.postcard-site .pc-ticket{grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}body.postcard-site .pc-ticket-label{grid-column:1/3;border-right:0}body.postcard-site .pc-ticket>.pill{grid-column:3;grid-row:1}body.postcard-site .pc-ticket-field{border-top:1px dashed var(--line);padding-top:18px}body.postcard-site .foot__grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:760px){:root[data-theme="light"]{--copy-size:1.0625rem}body.postcard-site .pc-hero__intro{font-size:1.125rem!important}body.postcard-site .pc-ticket{grid-template-columns:1fr 1fr;padding:25px 21px;gap:20px 16px;margin-top:15px}body.postcard-site .pc-ticket-label{grid-column:1/-1;margin-bottom:0}body.postcard-site .pc-ticket-label b{font-size:2rem}body.postcard-site .pc-ticket>.pill{grid-column:1/-1;grid-row:auto;margin:0;min-height:56px}body.postcard-site .pc-ticket-field:nth-of-type(3){grid-column:1/-1}body.postcard-site .pc-ticket small{font-size:.875rem!important}body.postcard-site .pc-ticket-field strong{font-size:1.0625rem}body.postcard-site .pc-guide-entry p.eyebrow{font-size:.8125rem!important}body.postcard-site .pc-guide-entry h2{font-size:2.15rem}body.postcard-site .pc-guide-entry__intro>p:last-child{font-size:1rem!important}body.postcard-site .pc-ribbon{font-size:.875rem;gap:15px}body.postcard-site .foot__grid{grid-template-columns:1fr}body.postcard-site .foot__brand{max-width:none}body.postcard-site .pc-photo--small figcaption{font-size:1.125rem}body.postcard-site .pc-hero--index .pc-photo--main figcaption{font-size:1.35rem}body.postcard-site .pc-crumbs{font-size:.9375rem}body.postcard-site .anchors__list a{min-height:48px}body.postcard-site .rrow__acts{display:flex;flex-wrap:wrap;gap:14px}body.postcard-site .rrow__acts .pill{flex:1 1 auto;white-space:normal;text-align:center}body.postcard-site .perks{grid-template-columns:1fr 1fr;gap:18px 15px}body.postcard-site .stay-source-note{font-size:.9375rem!important}body.postcard-site .stay-card__label{font-size:.9375rem!important}body.postcard-site .app-nav>a,body.postcard-site .app-nav>button{font-size:12px}body.postcard-site .pc-handnote{font-size:1.4rem}}
+@media(max-width:370px){body.postcard-site .pc-guide-entry h2{font-size:2rem}body.postcard-site .pc-guide-entry__intro{padding-left:0;padding-top:180px}body.postcard-site .pc-guide-avatar{top:-8px;bottom:auto;left:50%;transform:translateX(-50%);height:180px;width:155px}body.postcard-site .rfacts{grid-template-columns:1fr}body.postcard-site .app-nav>a,body.postcard-site .app-nav>button{font-size:12px}}
+@media(max-width:760px){body.postcard-site{padding-bottom:var(--app-nav-offset,var(--app-nav-h))}body.postcard-site .tiles{grid-template-columns:repeat(2,minmax(0,1fr))}.app-nav{height:auto;min-height:var(--app-nav-h)}body.postcard-site .app-nav>a,body.postcard-site .app-nav>button{font-size:14px}.app-nav>a>span,.app-nav>button>span{max-width:100%;overflow-wrap:anywhere;text-align:center}.stay-feedback{bottom:calc(var(--app-nav-offset,var(--app-nav-h)) + 15px)}.mnav{padding-bottom:calc(var(--app-nav-offset,var(--app-nav-h)) + 25px)}}
+@media(max-width:380px){body.postcard-site .app-nav>a,body.postcard-site .app-nav>button{font-size:13px}}

@@ -1,0 +1,427 @@
+{
+  "count": 45,
+  "groups": {
+    "menu-hot": 12,
+    "menu-fresh": 6,
+    "menu-cheese": 3,
+    "menu-burger": 5,
+    "menu-tarte": 3,
+    "menu-bubbles": 5,
+    "menu-frost": 2,
+    "menu-toast": 6,
+    "menu-warm": 3
+  },
+  "items": [
+    {
+      "id": "soupe-patate-douce",
+      "kind": "menu-hot",
+      "menuId": "soupe-patate-douce",
+      "label": "Faire apparaître un nuage gourmand : Soupe de patate douce",
+      "stop": "Arrêter la surprise : Soupe de patate douce",
+      "message": "Un petit nuage dans le bol.",
+      "duration": 3900
+    },
+    {
+      "id": "salad-bowl",
+      "kind": "menu-fresh",
+      "menuId": "salad-bowl",
+      "label": "Faire danser les feuilles : Salad bowl",
+      "stop": "Arrêter la surprise : Salad bowl",
+      "message": "Les feuilles prennent le large !",
+      "duration": 3900
+    },
+    {
+      "id": "caprese",
+      "kind": "menu-fresh",
+      "menuId": "caprese",
+      "label": "Faire danser les feuilles : Insalata Caprese",
+      "stop": "Arrêter la surprise : Insalata Caprese",
+      "message": "Le basilic fait son numéro.",
+      "duration": 3900
+    },
+    {
+      "id": "salade-berger",
+      "kind": "menu-fresh",
+      "menuId": "salade-berger",
+      "label": "Faire danser les feuilles : Salade du berger",
+      "stop": "Arrêter la surprise : Salade du berger",
+      "message": "Le berger a semé de la bonne humeur.",
+      "duration": 3900
+    },
+    {
+      "id": "salade-poulet",
+      "kind": "menu-fresh",
+      "menuId": "salade-poulet",
+      "label": "Faire danser les feuilles : Salade au poulet",
+      "stop": "Arrêter la surprise : Salade au poulet",
+      "message": "Une salade qui bat des feuilles.",
+      "duration": 3900
+    },
+    {
+      "id": "frites",
+      "kind": "menu-hot",
+      "menuId": "frites",
+      "label": "Faire apparaître un nuage gourmand : Portion de frites",
+      "stop": "Arrêter la surprise : Portion de frites",
+      "message": "Crousti-clic !",
+      "duration": 3900
+    },
+    {
+      "id": "fondue",
+      "kind": "menu-cheese",
+      "menuId": "fondue",
+      "label": "Étirer le fromage : Fondue au fromage",
+      "stop": "Arrêter la surprise : Fondue au fromage",
+      "message": "Qui a perdu son pain ?",
+      "duration": 3900
+    },
+    {
+      "id": "raclette",
+      "kind": "menu-cheese",
+      "menuId": "raclette",
+      "label": "Étirer le fromage : Assiette raclette",
+      "stop": "Arrêter la surprise : Assiette raclette",
+      "message": "Le fromage prend ses aises.",
+      "duration": 3900
+    },
+    {
+      "id": "rosti-paysan",
+      "kind": "menu-hot",
+      "menuId": "rosti-paysan",
+      "label": "Faire apparaître un nuage gourmand : Rösti du paysan",
+      "stop": "Arrêter la surprise : Rösti du paysan",
+      "message": "Le rösti fait sa révérence.",
+      "duration": 3900
+    },
+    {
+      "id": "rosti-casimir",
+      "kind": "menu-hot",
+      "menuId": "rosti-casimir",
+      "label": "Faire apparaître un nuage gourmand : Rösti « Casimir »",
+      "stop": "Arrêter la surprise : Rösti « Casimir »",
+      "message": "Casimir chauffe la piste !",
+      "duration": 3900
+    },
+    {
+      "id": "rosti-legumes",
+      "kind": "menu-hot",
+      "menuId": "rosti-legumes",
+      "label": "Faire apparaître un nuage gourmand : Rösti aux légumes",
+      "stop": "Arrêter la surprise : Rösti aux légumes",
+      "message": "Les légumes ont le rösti dans la peau.",
+      "duration": 3900
+    },
+    {
+      "id": "bratwurst",
+      "kind": "menu-hot",
+      "menuId": "bratwurst",
+      "label": "Faire apparaître un nuage gourmand : Bratwurst XL & rösti",
+      "stop": "Arrêter la surprise : Bratwurst XL & rösti",
+      "message": "La pause qui fait « mmmh ».",
+      "duration": 3900
+    },
+    {
+      "id": "macaronis",
+      "kind": "menu-cheese",
+      "menuId": "macaronis",
+      "label": "Étirer le fromage : Macaronis du chalet",
+      "stop": "Arrêter la surprise : Macaronis du chalet",
+      "message": "Le fil rouge ? Le fromage.",
+      "duration": 3900
+    },
+    {
+      "id": "pierre-chaude",
+      "kind": "menu-hot",
+      "menuId": "pierre-chaude",
+      "label": "Faire apparaître un nuage gourmand : Pierre chaude",
+      "stop": "Arrêter la surprise : Pierre chaude",
+      "message": "Chaud devant, sommets derrière !",
+      "duration": 3900
+    },
+    {
+      "id": "schnitzel",
+      "kind": "menu-hot",
+      "menuId": "schnitzel",
+      "label": "Faire apparaître un nuage gourmand : Schnitzel de porc",
+      "stop": "Arrêter la surprise : Schnitzel de porc",
+      "message": "Un petit pas de pané.",
+      "duration": 3900
+    },
+    {
+      "id": "perche",
+      "kind": "menu-hot",
+      "menuId": "perche",
+      "label": "Faire apparaître un nuage gourmand : Filets de perche croustillants",
+      "stop": "Arrêter la surprise : Filets de perche croustillants",
+      "message": "La perche fait des vagues.",
+      "duration": 3900
+    },
+    {
+      "id": "saumon-grille",
+      "kind": "menu-hot",
+      "menuId": "saumon-grille",
+      "label": "Faire apparaître un nuage gourmand : Saumon grillé",
+      "stop": "Arrêter la surprise : Saumon grillé",
+      "message": "Le saumon remonte à table.",
+      "duration": 3900
+    },
+    {
+      "id": "hamburger",
+      "kind": "menu-burger",
+      "menuId": "hamburger",
+      "label": "Faire rebondir le burger : Hamburger XL",
+      "stop": "Arrêter la surprise : Hamburger XL",
+      "message": "Le burger a du ressort.",
+      "duration": 3900
+    },
+    {
+      "id": "cheeseburger",
+      "kind": "menu-burger",
+      "menuId": "cheeseburger",
+      "label": "Faire rebondir le burger : Cheeseburger XL",
+      "stop": "Arrêter la surprise : Cheeseburger XL",
+      "message": "Sésame, ouvre-toi !",
+      "duration": 3900
+    },
+    {
+      "id": "burger-paysan",
+      "kind": "menu-burger",
+      "menuId": "burger-paysan",
+      "label": "Faire rebondir le burger : Burger du paysan",
+      "stop": "Arrêter la surprise : Burger du paysan",
+      "message": "Un étage de bonheur en plus.",
+      "duration": 3900
+    },
+    {
+      "id": "chickenburger",
+      "kind": "menu-burger",
+      "menuId": "chickenburger",
+      "label": "Faire rebondir le burger : Chickenburger",
+      "stop": "Arrêter la surprise : Chickenburger",
+      "message": "Ce poulet sait rebondir.",
+      "duration": 3900
+    },
+    {
+      "id": "burger-vegetal",
+      "kind": "menu-burger",
+      "menuId": "burger-vegetal",
+      "label": "Faire rebondir le burger : Burger végétal",
+      "stop": "Arrêter la surprise : Burger végétal",
+      "message": "Le potager fait son grand saut.",
+      "duration": 3900
+    },
+    {
+      "id": "tarte-classique",
+      "kind": "menu-tarte",
+      "menuId": "tarte-classique",
+      "label": "Faire valser la tarte : Classique",
+      "stop": "Arrêter la surprise : Classique",
+      "message": "Une petite valse alsacienne.",
+      "duration": 3900
+    },
+    {
+      "id": "tarte-vegetarienne",
+      "kind": "menu-tarte",
+      "menuId": "tarte-vegetarienne",
+      "label": "Faire valser la tarte : Végétarienne",
+      "stop": "Arrêter la surprise : Végétarienne",
+      "message": "La roquette entre en piste.",
+      "duration": 3900
+    },
+    {
+      "id": "tarte-saumon",
+      "kind": "menu-tarte",
+      "menuId": "tarte-saumon",
+      "label": "Faire valser la tarte : Saumon",
+      "stop": "Arrêter la surprise : Saumon",
+      "message": "Le saumon mène la danse.",
+      "duration": 3900
+    },
+    {
+      "id": "wrap-vegetarien",
+      "kind": "menu-fresh",
+      "menuId": "wrap-vegetarien",
+      "label": "Faire danser les feuilles : Wrap végétarien",
+      "stop": "Arrêter la surprise : Wrap végétarien",
+      "message": "Le jardin s’est fait un câlin.",
+      "duration": 3900
+    },
+    {
+      "id": "wrap-poulet",
+      "kind": "menu-fresh",
+      "menuId": "wrap-poulet",
+      "label": "Faire danser les feuilles : Wrap au poulet",
+      "stop": "Arrêter la surprise : Wrap au poulet",
+      "message": "Bien roulé, bien joué !",
+      "duration": 3900
+    },
+    {
+      "id": "nuggets-poulet",
+      "kind": "menu-hot",
+      "menuId": "nuggets-poulet",
+      "label": "Faire apparaître un nuage gourmand : Nuggets de la jungle",
+      "stop": "Arrêter la surprise : Nuggets de la jungle",
+      "message": "La jungle a rendez-vous à table.",
+      "duration": 3900
+    },
+    {
+      "id": "nuggets-poisson",
+      "kind": "menu-hot",
+      "menuId": "nuggets-poisson",
+      "label": "Faire apparaître un nuage gourmand : Nuggets de la mer",
+      "stop": "Arrêter la surprise : Nuggets de la mer",
+      "message": "Petits poissons, grande aventure.",
+      "duration": 3900
+    },
+    {
+      "id": "eau-staubbach",
+      "kind": "menu-bubbles",
+      "menuId": "eau-staubbach",
+      "label": "Faire pétiller la photo : Eau du Staubbach",
+      "stop": "Arrêter la surprise : Eau du Staubbach",
+      "message": "La cascade fait une pause.",
+      "duration": 3900
+    },
+    {
+      "id": "the-froid",
+      "kind": "menu-frost",
+      "menuId": "the-froid",
+      "label": "Faire danser les glaçons : Notre thé froid",
+      "stop": "Arrêter la surprise : Notre thé froid",
+      "message": "Le thé a mis ses glaçons.",
+      "duration": 3900
+    },
+    {
+      "id": "sirop",
+      "kind": "menu-bubbles",
+      "menuId": "sirop",
+      "label": "Faire pétiller la photo : Sirop pour les enfants",
+      "stop": "Arrêter la surprise : Sirop pour les enfants",
+      "message": "Un petit plouf de couleur !",
+      "duration": 3900
+    },
+    {
+      "id": "lager",
+      "kind": "menu-bubbles",
+      "menuId": "lager",
+      "label": "Faire pétiller la photo : Rugenbräu Lager",
+      "stop": "Arrêter la surprise : Rugenbräu Lager",
+      "message": "Les bulles prennent de l’altitude.",
+      "duration": 3900
+    },
+    {
+      "id": "weizen",
+      "kind": "menu-bubbles",
+      "menuId": "weizen",
+      "label": "Faire pétiller la photo : Rugen Weizen",
+      "stop": "Arrêter la surprise : Rugen Weizen",
+      "message": "Un petit nuage de mousse.",
+      "duration": 3900
+    },
+    {
+      "id": "cidre",
+      "kind": "menu-bubbles",
+      "menuId": "cidre",
+      "label": "Faire pétiller la photo : Cidre Möhl",
+      "stop": "Arrêter la surprise : Cidre Möhl",
+      "message": "La pomme a le cœur pétillant.",
+      "duration": 3900
+    },
+    {
+      "id": "vin-blanc",
+      "kind": "menu-toast",
+      "menuId": "vin-blanc",
+      "label": "Trinquer avec la photo : Fendant du Valais AOC",
+      "stop": "Arrêter la surprise : Fendant du Valais AOC",
+      "message": "À vos Alpes !",
+      "duration": 3900,
+      "audioKind": "toast"
+    },
+    {
+      "id": "vin-rose",
+      "kind": "menu-toast",
+      "menuId": "vin-rose",
+      "label": "Trinquer avec la photo : Œil-de-Perdrix AOC",
+      "stop": "Arrêter la surprise : Œil-de-Perdrix AOC",
+      "message": "La vie voit les Alpes en rose.",
+      "duration": 3900,
+      "audioKind": "toast"
+    },
+    {
+      "id": "vin-rouge",
+      "kind": "menu-toast",
+      "menuId": "vin-rouge",
+      "label": "Trinquer avec la photo : Dôle du Valais AOC",
+      "stop": "Arrêter la surprise : Dôle du Valais AOC",
+      "message": "On trinque aux beaux détours.",
+      "duration": 3900,
+      "audioKind": "toast"
+    },
+    {
+      "id": "aperitifs",
+      "kind": "menu-toast",
+      "menuId": "aperitifs",
+      "label": "Trinquer avec la photo : Aperol Spritz · Hugo",
+      "stop": "Arrêter la surprise : Aperol Spritz · Hugo",
+      "message": "Tchin, tchin, les voisins !",
+      "duration": 3900,
+      "audioKind": "toast"
+    },
+    {
+      "id": "vieille-prune",
+      "kind": "menu-toast",
+      "menuId": "vieille-prune",
+      "label": "Trinquer avec la photo : Vieille prune",
+      "stop": "Arrêter la surprise : Vieille prune",
+      "message": "La prune fait son petit salut.",
+      "duration": 3900,
+      "audioKind": "toast"
+    },
+    {
+      "id": "eaux-de-vie",
+      "kind": "menu-toast",
+      "menuId": "eaux-de-vie",
+      "label": "Trinquer avec la photo : Kirsch, pruneau, williams",
+      "stop": "Arrêter la surprise : Kirsch, pruneau, williams",
+      "message": "Les fruits lèvent leur verre.",
+      "duration": 3900,
+      "audioKind": "toast"
+    },
+    {
+      "id": "chocolat-chaud",
+      "kind": "menu-warm",
+      "menuId": "chocolat-chaud",
+      "label": "Faire apparaître un cœur de vapeur : Chocolat chaud Caotina",
+      "stop": "Arrêter la surprise : Chocolat chaud Caotina",
+      "message": "Un câlin qui se boit.",
+      "duration": 3900
+    },
+    {
+      "id": "cafes",
+      "kind": "menu-warm",
+      "menuId": "cafes",
+      "label": "Faire apparaître un cœur de vapeur : Café crème, espresso, cappuccino",
+      "stop": "Arrêter la surprise : Café crème, espresso, cappuccino",
+      "message": "Le café a le cœur chaud.",
+      "duration": 3900
+    },
+    {
+      "id": "cafes-liqueur",
+      "kind": "menu-warm",
+      "menuId": "cafes-liqueur",
+      "label": "Faire apparaître un cœur de vapeur : Café Baileys, Irish coffee",
+      "stop": "Arrêter la surprise : Café Baileys, Irish coffee",
+      "message": "Le café s’est mis sur son trente-et-un.",
+      "duration": 3900
+    },
+    {
+      "id": "iced-coffees",
+      "kind": "menu-frost",
+      "menuId": "iced-coffees",
+      "label": "Faire danser les glaçons : Iced coffees",
+      "stop": "Arrêter la surprise : Iced coffees",
+      "message": "Le café part aux sports d’hiver.",
+      "duration": 3900
+    }
+  ]
+}

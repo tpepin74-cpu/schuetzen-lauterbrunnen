@@ -1,0 +1,72 @@
+{
+  "left-bread": {
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "bytes": 128530,
+    "alpha_bbox": [
+      0,
+      63,
+      1514,
+      1024
+    ]
+  },
+  "right-fork": {
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "bytes": 91652,
+    "alpha_bbox": [
+      46,
+      67,
+      1536,
+      1024
+    ]
+  },
+  "right-cheese": {
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "bytes": 102920,
+    "alpha_bbox": [
+      14,
+      50,
+      1536,
+      1024
+    ]
+  },
+  "left-empty": {
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "bytes": 116170,
+    "alpha_bbox": [
+      0,
+      41,
+      1506,
+      1024
+    ]
+  },
+  "bread-cube": {
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "bytes": 299206,
+    "alpha_bbox": [
+      0,
+      15,
+      1242,
+      1254
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "stay.ideas.one": "{count} idée à découvrir",
+  "stay.ideas.other": "{count} idées à découvrir",
+  "stay.savedIdeas.one": "{count} idée dans votre carnet",
+  "stay.savedIdeas.other": "{count} idées dans votre carnet",
+  "language.label": "Choisir la langue",
+  "language.heading": "Langues",
+  "language.close": "Fermer le choix de langue"
+}

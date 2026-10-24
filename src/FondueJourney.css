@@ -1,0 +1,7 @@
+.fondue-journey{position:absolute;inset:0;z-index:3;overflow:hidden;pointer-events:none;background:#594d39;isolation:isolate}
+.fondue-camera{position:absolute;inset:0;transform-origin:50% 65%;}
+.fondue-stage-svg{display:block;position:absolute;inset:0;width:100%;height:100%;overflow:visible;}
+.hand-rig{transform-origin:0 0;transform-box:view-box;}
+.hand-rig image{filter:url(#photo-edge);}
+.bread-on-fork{transform-origin:50% 50%;}
+.fondue-mobile .fondue-camera{transform-origin:51% 63%;}

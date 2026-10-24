@@ -1,0 +1,40 @@
+{
+  "title": "Sprites photographiques des Easter eggs — V9",
+  "created": "2026-10-24",
+  "method": "Built-in image_gen.imagegen only; one call per asset, no CLI",
+  "assets": [
+    {
+      "id": "concierge-wink",
+      "input": "public/assets/collage/concierge.webp",
+      "output": "public/assets/collage/concierge-wink.webp",
+      "original_generated": "docs/asset-sources/concierge-wink-original.png",
+      "prompt": "Use case: precise-object-edit.\nAsset type: alternate interactive photographic sprite for a Swiss paper-cut postcard website.\nInput image: the provided concierge.webp is the EDIT TARGET.\nPrimary request: keep this EXACT friendly middle-aged Swiss concierge photograph, and make him give a small mischievous wink with ONLY the eye on the viewer's LEFT closed. Preserve the other eye open looking at the viewer. Keep the spectacles and all facial identity exactly. Mouth retains the same natural closed smile, perhaps only imperceptibly warmer.\nCrucial invariants: preserve exact 800 by 1200 portrait canvas framing, exact head position, body pose, hands, key, moustache, hat, edelweiss, white shirt, red embroidered waistcoat, neck scarf, light, texture and scale. Do not move or resize anything. Both hands and brass key stay precisely where they are. The second image will be crossfaded over the first, so all edges and the silhouette MUST align.\nStyle: real photograph, genuine skin and fabric texture, same warm-neutral light, the same white paper-cut contour. Preserve original transparency outside the paper outline. No drawn eye or illustration.\nBackground: genuinely transparent alpha, no black/white filled background.\nChange ONLY the eyelids necessary for the one-eye wink. No new objects, no gestures, no text, no watermark, no new facial hair or clothing.",
+      "generated_dimensions": [
+        1024,
+        1536
+      ],
+      "final_dimensions": [
+        800,
+        1200
+      ],
+      "processing": "Mechanical resize to original source 800×1200 using Lanczos, WebP quality88/method6. No cropping, compositing or image retouch. Alpha preserved.",
+      "visual_validation": "Same concierge, hat/edelweiss, moustache, glasses, waistcoat, brass key and both hands. One eye closed in a friendly wink. Generator closed the viewer-right eye despite prompt requesting viewer-left; parent requirement only specified a single-eye wink. Pose and overall canvas closely match original; slight photographic changes remain so a short crossfade is recommended."
+    },
+    {
+      "id": "fondue-fork",
+      "output": "public/assets/easter/fondue-fork.webp",
+      "original_generated": "docs/asset-sources/fondue-fork-original.png",
+      "prompt": "Use case: product-mockup.\nAsset type: small realistic photographic cut-paper sprite for an interactive Swiss fondue menu.\nPrimary request: one full long slender fondue fork with a small dark walnut wooden handle, a thin polished stainless steel shaft, and one golden crusty bread cube pierced at the tip, lightly coated with creamy melted Swiss cheese.\nComposition: one object isolated, diagonal from the bread tip in the lower-left toward the handle in the upper-right. The complete handle, shaft and bread are inside the square frame, generously framed by about 8 percent transparent margin. Fork length dominates. Bread should be clearly recognisable with porous real crumb and golden crust. A short delicate cheese droplet on the cube is fine, but no long cheese string extending outside it.\nStyle: very realistic warm-neutral food product photograph, natural material texture, soft highlights on the steel, subtle 3D volume. Add a thin irregular white paper-cut outline around the complete silhouette, like the photographic cutouts in a premium Swiss postcard collage. No surrounding paper rectangle.\nBackground: true transparent alpha. No table, hands, people, plate, fondue pot, shadows cast on any ground, text or watermark. Only one single fork and its single bread cube. Not vector, not illustration, not plastic.",
+      "generated_dimensions": [
+        1254,
+        1254
+      ],
+      "final_dimensions": [
+        640,
+        640
+      ],
+      "processing": "Mechanical downscale to640×640 using Lanczos, WebP quality88/method6. No crop or retouch. Alpha preserved.",
+      "visual_validation": "One full thin steel fondue fork, walnut handle at upper-right, golden bread cube and melted cheese at lower-left; true transparent cutout with white edge, no hand or plate. Diagonal permits dipping/rising animation."
+    }
+  ]
+}

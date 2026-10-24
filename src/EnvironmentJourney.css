@@ -1,0 +1,83 @@
+.environment-journey {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  overflow: hidden;
+  pointer-events: none;
+  background: #444f43;
+  isolation: isolate;
+}
+
+.ej-scene,
+.ej-landscape-half,
+.ej-cliff-cut,
+.ej-cut-edge {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.ej-photo {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 50%;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.ej-house {
+  z-index: 1;
+  transform-origin: 42% 73%;
+}
+
+.ej-house-photo { object-position: 50% 73%; }
+
+.ej-stairs {
+  z-index: 2;
+  transform-origin: 50% 55%;
+}
+
+.ej-stairs .ej-photo { object-position: 50% 62%; }
+
+.ej-terrace {
+  z-index: 3;
+  transform-origin: 50% 61%;
+}
+
+.ej-terrace .ej-photo { object-position: 50% 55%; }
+
+.ej-landscape-half {
+  z-index: 5;
+  transform-origin: 50% 50%;
+}
+
+.ej-cascade-photo { object-position: 50% 47%; }
+
+.ej-cut-edge {
+  z-index: 1;
+  overflow: visible;
+}
+
+.ej-parting-mist {
+  position: absolute;
+  z-index: 6;
+  inset: -10% 32%;
+  opacity: 0;
+  background: radial-gradient(ellipse at 50% 56%, rgba(234,241,231,.68), rgba(232,239,232,.13) 45%, transparent 69%);
+  transform-origin: 50% 50%;
+}
+
+.ej-mobile .ej-house { transform-origin: 40% 74%; }
+.ej-mobile .ej-house-photo { object-position: 44% 65%; }
+.ej-mobile .ej-cascade-photo { object-position: 50% 49%; }
+.ej-mobile .ej-stairs { transform-origin: 50% 55%; }
+.ej-mobile .ej-stairs .ej-photo { object-position: 50% 58%; }
+.ej-mobile .ej-terrace .ej-photo { object-position: 54% 53%; }
+
+@media (prefers-reduced-motion: reduce) {
+  .ej-cut-edge,
+  .ej-parting-mist { display: none; }
+}

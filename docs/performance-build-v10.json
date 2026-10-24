@@ -1,0 +1,420 @@
+{
+  "measured_at": "2026-10-24T16:56:41.862528+00:00",
+  "scope": "Official final v10 dist after FINAL BUILD READY; active HTML references only. qa-v10.html and unreferenced historic hashed bundles excluded. No build or application source change made by this audit.",
+  "method": {
+    "raw": "Exact filesystem byte counts in dist.",
+    "gzip": "Each file compressed independently with Python gzip, level 9, mtime 0. This is a reproducible estimate, not observed HTTP Content-Encoding or transfer bytes.",
+    "units": "bytes (octets), not KiB"
+  },
+  "shared": {
+    "javascript": [
+      {
+        "url": "/assets/postcard-motion-DZkGm50Y.js",
+        "bytes": 124147,
+        "gzip9_bytes": 41992
+      }
+    ],
+    "stylesheets": [
+      {
+        "url": "/css/site-base.css",
+        "bytes": 66535,
+        "gzip9_bytes": 14373
+      },
+      {
+        "url": "/assets/postcard-motion-942-UCEu.css",
+        "bytes": 121520,
+        "gzip9_bytes": 25854
+      }
+    ],
+    "stylesheets_total": {
+      "bytes": 188055,
+      "gzip9_bytes": 40227
+    },
+    "fonts_preloaded": [
+      {
+        "url": "/assets/manrope-latin.woff",
+        "bytes": 21588,
+        "gzip9_bytes": 21538
+      },
+      {
+        "url": "/assets/cormorant-garamond-italic.woff",
+        "bytes": 33536,
+        "gzip9_bytes": 33485
+      }
+    ],
+    "fonts_raw_total": 55124,
+    "font_display": "swap; WOFF sources preserved, no WOFF2 encoder installed"
+  },
+  "locales": {
+    "fr": {
+      "index_html": {
+        "url": "/index.html",
+        "bytes": 72616,
+        "gzip9_bytes": 13959
+      },
+      "scripts": {
+        "runtime": {
+          "url": "/locales/fr/runtime.js",
+          "bytes": 13619,
+          "gzip9_bytes": 4635
+        },
+        "data": {
+          "url": "/locales/fr/data.js",
+          "bytes": 6882,
+          "gzip9_bytes": 2488
+        },
+        "site": {
+          "url": "/locales/fr/site.js",
+          "bytes": 53866,
+          "gzip9_bytes": 19823
+        }
+      },
+      "locale_scripts_total": {
+        "bytes": 74367,
+        "gzip9_bytes": 26946
+      },
+      "all_referenced_js_total": {
+        "bytes": 198514,
+        "gzip9_bytes": 68938
+      },
+      "index_html_js_css_total": {
+        "bytes": 459185,
+        "gzip9_bytes": 123124
+      }
+    },
+    "en": {
+      "index_html": {
+        "url": "/en/index.html",
+        "bytes": 71885,
+        "gzip9_bytes": 13761
+      },
+      "scripts": {
+        "runtime": {
+          "url": "/locales/en/runtime.js",
+          "bytes": 13209,
+          "gzip9_bytes": 5585
+        },
+        "data": {
+          "url": "/locales/en/data.js",
+          "bytes": 6320,
+          "gzip9_bytes": 2300
+        },
+        "site": {
+          "url": "/locales/en/site.js",
+          "bytes": 52705,
+          "gzip9_bytes": 19424
+        }
+      },
+      "locale_scripts_total": {
+        "bytes": 72234,
+        "gzip9_bytes": 27309
+      },
+      "all_referenced_js_total": {
+        "bytes": 196381,
+        "gzip9_bytes": 69301
+      },
+      "index_html_js_css_total": {
+        "bytes": 456321,
+        "gzip9_bytes": 123289
+      }
+    },
+    "de": {
+      "index_html": {
+        "url": "/de/index.html",
+        "bytes": 72759,
+        "gzip9_bytes": 14166
+      },
+      "scripts": {
+        "runtime": {
+          "url": "/locales/de/runtime.js",
+          "bytes": 13828,
+          "gzip9_bytes": 6014
+        },
+        "data": {
+          "url": "/locales/de/data.js",
+          "bytes": 6761,
+          "gzip9_bytes": 2510
+        },
+        "site": {
+          "url": "/locales/de/site.js",
+          "bytes": 54034,
+          "gzip9_bytes": 20021
+        }
+      },
+      "locale_scripts_total": {
+        "bytes": 74623,
+        "gzip9_bytes": 28545
+      },
+      "all_referenced_js_total": {
+        "bytes": 198770,
+        "gzip9_bytes": 70537
+      },
+      "index_html_js_css_total": {
+        "bytes": 459584,
+        "gzip9_bytes": 124930
+      }
+    },
+    "it": {
+      "index_html": {
+        "url": "/it/index.html",
+        "bytes": 72426,
+        "gzip9_bytes": 14014
+      },
+      "scripts": {
+        "runtime": {
+          "url": "/locales/it/runtime.js",
+          "bytes": 13579,
+          "gzip9_bytes": 5702
+        },
+        "data": {
+          "url": "/locales/it/data.js",
+          "bytes": 6824,
+          "gzip9_bytes": 2399
+        },
+        "site": {
+          "url": "/locales/it/site.js",
+          "bytes": 53467,
+          "gzip9_bytes": 19710
+        }
+      },
+      "locale_scripts_total": {
+        "bytes": 73870,
+        "gzip9_bytes": 27811
+      },
+      "all_referenced_js_total": {
+        "bytes": 198017,
+        "gzip9_bytes": 69803
+      },
+      "index_html_js_css_total": {
+        "bytes": 458498,
+        "gzip9_bytes": 124044
+      }
+    },
+    "es": {
+      "index_html": {
+        "url": "/es/index.html",
+        "bytes": 72494,
+        "gzip9_bytes": 14025
+      },
+      "scripts": {
+        "runtime": {
+          "url": "/locales/es/runtime.js",
+          "bytes": 13679,
+          "gzip9_bytes": 5722
+        },
+        "data": {
+          "url": "/locales/es/data.js",
+          "bytes": 6797,
+          "gzip9_bytes": 2403
+        },
+        "site": {
+          "url": "/locales/es/site.js",
+          "bytes": 53514,
+          "gzip9_bytes": 19752
+        }
+      },
+      "locale_scripts_total": {
+        "bytes": 73990,
+        "gzip9_bytes": 27877
+      },
+      "all_referenced_js_total": {
+        "bytes": 198137,
+        "gzip9_bytes": 69869
+      },
+      "index_html_js_css_total": {
+        "bytes": 458686,
+        "gzip9_bytes": 124121
+      }
+    },
+    "ru": {
+      "index_html": {
+        "url": "/ru/index.html",
+        "bytes": 78842,
+        "gzip9_bytes": 15577
+      },
+      "scripts": {
+        "runtime": {
+          "url": "/locales/ru/runtime.js",
+          "bytes": 18443,
+          "gzip9_bytes": 7211
+        },
+        "data": {
+          "url": "/locales/ru/data.js",
+          "bytes": 10147,
+          "gzip9_bytes": 3052
+        },
+        "site": {
+          "url": "/locales/ru/site.js",
+          "bytes": 59286,
+          "gzip9_bytes": 20850
+        }
+      },
+      "locale_scripts_total": {
+        "bytes": 87876,
+        "gzip9_bytes": 31113
+      },
+      "all_referenced_js_total": {
+        "bytes": 212023,
+        "gzip9_bytes": 73105
+      },
+      "index_html_js_css_total": {
+        "bytes": 478920,
+        "gzip9_bytes": 128909
+      }
+    },
+    "zh": {
+      "index_html": {
+        "url": "/zh/index.html",
+        "bytes": 71869,
+        "gzip9_bytes": 14550
+      },
+      "scripts": {
+        "runtime": {
+          "url": "/locales/zh/runtime.js",
+          "bytes": 13253,
+          "gzip9_bytes": 6559
+        },
+        "data": {
+          "url": "/locales/zh/data.js",
+          "bytes": 5835,
+          "gzip9_bytes": 2567
+        },
+        "site": {
+          "url": "/locales/zh/site.js",
+          "bytes": 52162,
+          "gzip9_bytes": 20159
+        }
+      },
+      "locale_scripts_total": {
+        "bytes": 71250,
+        "gzip9_bytes": 29285
+      },
+      "all_referenced_js_total": {
+        "bytes": 195397,
+        "gzip9_bytes": 71277
+      },
+      "index_html_js_css_total": {
+        "bytes": 455321,
+        "gzip9_bytes": 126054
+      }
+    },
+    "ko": {
+      "index_html": {
+        "url": "/ko/index.html",
+        "bytes": 74168,
+        "gzip9_bytes": 14744
+      },
+      "scripts": {
+        "runtime": {
+          "url": "/locales/ko/runtime.js",
+          "bytes": 14726,
+          "gzip9_bytes": 6635
+        },
+        "data": {
+          "url": "/locales/ko/data.js",
+          "bytes": 6982,
+          "gzip9_bytes": 2663
+        },
+        "site": {
+          "url": "/locales/ko/site.js",
+          "bytes": 54729,
+          "gzip9_bytes": 20160
+        }
+      },
+      "locale_scripts_total": {
+        "bytes": 76437,
+        "gzip9_bytes": 29458
+      },
+      "all_referenced_js_total": {
+        "bytes": 200584,
+        "gzip9_bytes": 71450
+      },
+      "index_html_js_css_total": {
+        "bytes": 462807,
+        "gzip9_bytes": 126421
+      }
+    }
+  },
+  "reference_validation": {
+    "html_pages_checked": 64,
+    "all_pages_reference_expected_common_and_locale_scripts": true,
+    "all_pages_reference_expected_stylesheets": true,
+    "mismatches": []
+  },
+  "blocking_resources": {
+    "render_blocking_stylesheets": [
+      "/css/site-base.css",
+      "/assets/postcard-motion-942-UCEu.css"
+    ],
+    "parser_blocking_script": "/locales/{lang}/runtime.js is a classic synchronous script in the body, not the head; it pauses parsing when encountered.",
+    "deferred_scripts": [
+      "/locales/{lang}/data.js",
+      "/locales/{lang}/site.js"
+    ],
+    "deferred_module": "/assets/postcard-motion-DZkGm50Y.js",
+    "note": "Static classification from HTML attributes. Execution time, main-thread work, browser scheduling and render delay were not measured."
+  },
+  "images": {
+    "source_manifest": "docs/performance-assets.json",
+    "candidate_groups_before_after": {
+      "collage": {
+        "sources": 17,
+        "original_bytes": 4551112,
+        "small_bytes": 445098,
+        "medium_bytes": 1327048,
+        "small_reduction_percent": 90.2,
+        "medium_reduction_percent": 70.8
+      },
+      "easter": {
+        "sources": 1,
+        "original_bytes": 33276,
+        "small_bytes": 4522,
+        "medium_bytes": 10968,
+        "small_reduction_percent": 86.4,
+        "medium_reduction_percent": 67.0
+      },
+      "menu": {
+        "sources": 45,
+        "original_bytes": 3465418,
+        "small_bytes": 1157526,
+        "medium_bytes": 2257634,
+        "small_reduction_percent": 66.6,
+        "medium_reduction_percent": 34.9
+      },
+      "photograph": {
+        "sources": 53,
+        "original_bytes": 8900336,
+        "small_bytes": 1702230,
+        "medium_bytes": 3778060,
+        "small_reduction_percent": 80.9,
+        "medium_reduction_percent": 57.6
+      }
+    },
+    "unique_candidate_urls": 394,
+    "all_candidates_exist_in_dist": true,
+    "all_candidate_bytes_match_manifest": true,
+    "missing": [],
+    "size_mismatches": [],
+    "index_declared_eager_mapped_candidates": {
+      "mapped_unique_photos": 4,
+      "original_fallback_bytes": 1498614,
+      "small_candidates_bytes": 137352,
+      "medium_candidates_bytes": 391542
+    },
+    "index_images": {
+      "elements": 42,
+      "srcset_elements": 41,
+      "fetchpriority_high": [
+        "/img/sch-facade-staubbach.webp"
+      ]
+    },
+    "note": "Original versus small/medium represents alternative candidates, never resources to add together. Candidate sizes are exact; actual selection depends on viewport, DPR, sizes and browser policy. Eager comparison excludes logos, inline placeholders and other files absent from the optimization manifest. Lazy images may load later."
+  },
+  "limits": [
+    "No Lighthouse score, network timing, Core Web Vitals or real-user metric is inferred.",
+    "HTML/JS/CSS totals omit images, fonts, icons, manifests, later requests and transport headers; fonts and images are reported separately.",
+    "Only the current locale scripts are referenced by its HTML. The eight locale totals must not be added to represent a single page load.",
+    "Gzip compression level, Brotli, caching, HTTP protocol, device performance and CDN behavior may change actual transfers and load behavior.",
+    "This is an artifact audit of dist, not an HTTP verification of the subsequently published host."
+  ]
+}
