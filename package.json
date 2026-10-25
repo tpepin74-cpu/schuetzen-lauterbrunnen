@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "scripts": { "dev": "vite --host 0.0.0.0", "build": "vite build" },
+  "scripts": { "dev": "vite --host 0.0.0.0", "build": "vite build", "build:github": "node scripts/build-github-pages.mjs" },
   "dependencies": { "react": "^19.1.0", "react-dom": "^19.1.0", "framer-motion": "^12.23.0", "lucide-react": "^0.468.0" },
   "devDependencies": { "vite": "^6.3.5" }
 }

@@ -1,5 +1,13 @@
 # Schützen · Cartes postales suisses — V10
 
+## Publication publique sur GitHub Pages, sans indexation
+
+La cible GitHub Pages est `https://tpepin74-cpu.github.io/schuetzen-lauterbrunnen/`. Le workflow publie uniquement le résultat de `npm run build:github` : les 64 pages et la page 404 portent `noindex,nofollow,noimageindex`, avec des liens et médias adaptés au sous-répertoire du projet. La compilation vérifie les huit langues et les références locales avant déploiement.
+
+Le site est accessible par son lien. La consigne de non-indexation concerne ses pages ; l’interface du dépôt GitHub public reste visible et recherchable. Les instructions et limites sont détaillées dans [GITHUB-PAGES.md](docs/GITHUB-PAGES.md).
+
+La configuration du build standard conserve le Site privé existant.
+
 Le site reprend le catalogue fourni dans `hotel-schuetzen-site.zip` et le présente sous forme de cartes postales suisses : photographies découpées à bord blanc, papier crème, rouge suisse, vert sapin, Vichy rouge, géraniums et petits souvenirs alpins. Le contenu de découverte et le parcours de réservation restent au centre.
 
 La V10 étend les surprises interactives à **101 occurrences photographiques sur les huit pages de référence** : **56 collages répartis en 14 motifs**, et **45 photos de carte réparties en 9 familles d’animation**. Elle ajoute un concierge qui fait un clin d’œil, une fourchette à fondue photographique, un nouveau postier jaune à grande barbe blanche, un blason d’en-tête deux fois plus grand que celui de la V8 et le crédit commun vers **cerfalunettes.ch**.

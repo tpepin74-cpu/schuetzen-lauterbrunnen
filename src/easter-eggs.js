@@ -9,7 +9,7 @@ const surprise = (kind, label, message, extra = {}) => ({
 const surprises = {
   'bernard.webp': surprise('dog', 'Demander la patte au Saint-Bernard', 'Tope là !', {
     stop: 'Laisser le Saint-Bernard reposer sa patte', duration: 6000,
-    variant: '/assets/optimized/collage/bernard-paw-640.webp',
+    variant: import.meta.env.BASE_URL + 'assets/optimized/collage/bernard-paw-640.webp',
   }),
   'cow.webp': surprise('cow', 'Faire meugler la vache (son)', 'Meuh… bienvenue !', {
     stop: 'Arrêter le meuglement de la vache', audioKind: 'cow', duration: 3400,
@@ -28,7 +28,7 @@ const surprises = {
   'postman-friendly.webp': surprise('postman', 'Recevoir le petit courrier du postier', 'Un bisou suisse, affranchi avec soin.', { audioKind: 'stamp' }),
   'restaurant-lettering.webp': surprise('lettering', 'Faire danser les lettres « Notre restaurant »', 'À taaable !'),
   'concierge.webp': surprise('concierge', 'Recevoir un clin d’œil du concierge', 'Entre nous… le chien connaît tous les secrets.', {
-    variant: '/assets/optimized/collage/concierge-wink-480.webp', variantHold: 950, duration: 3400,
+    variant: import.meta.env.BASE_URL + 'assets/optimized/collage/concierge-wink-480.webp', variantHold: 950, duration: 3400,
   }),
 };
 
@@ -115,7 +115,7 @@ function say(message) {
 function playMoo() {
   if (!moo) {
     moo = document.createElement('audio');
-    moo.src = '/assets/easter/cow-moo.mp3';
+    moo.src = import.meta.env.BASE_URL + 'assets/easter/cow-moo.mp3';
     moo.preload = 'none';
     moo.hidden = true;
     moo.dataset.easterAudio = 'cow';
@@ -222,7 +222,7 @@ async function activate(button, wrapper, visual, config, variant) {
 
 let forkPreload;
 function prepareFork() {
-  if (!forkPreload) { forkPreload = new Image(); forkPreload.decoding = 'async'; forkPreload.src = '/assets/optimized/easter/fondue-fork-320.webp'; }
+  if (!forkPreload) { forkPreload = new Image(); forkPreload.decoding = 'async'; forkPreload.src = import.meta.env.BASE_URL + 'assets/optimized/easter/fondue-fork-320.webp'; }
 }
 
 const images = document.querySelectorAll('.pc-cut > img, .dish__visual > img, .pc-guide-avatar > img, .cg__avatar > img, .pc-restaurant-lettering > img, .pc-postman > img');

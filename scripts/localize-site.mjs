@@ -9,7 +9,20 @@ const root=path.resolve(new URL('..',import.meta.url).pathname);
 const readJSON=file=>JSON.parse(fs.readFileSync(path.join(root,file),'utf8'));
 const esc=value=>String(value).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
 const decode=value=>value.replaceAll('&amp;','&').replaceAll('&quot;','"').replaceAll('&#39;',"'").replaceAll('&lt;','<').replaceAll('&gt;','>').replaceAll('&nbsp;','\u00a0');
-const route=(page,lang)=>`${lang==='fr'?'':'/'+lang}/${page==='index'?'':page+'.html'}`;
+export const siteBasePath=`${(process.env.SITE_BASE_PATH||'/').replace(/\/+$/,'')}/`;
+if(!siteBasePath.startsWith('/')||siteBasePath.startsWith('//')||/[?#\\]/.test(siteBasePath)||siteBasePath.split('/').some(part=>part==='.'||part==='..'))throw new Error('SITE_BASE_PATH must be an absolute URL path, such as /schuetzen-lauterbrunnen/.');
+const assetPath=value=>value.startsWith(siteBasePath)?value:siteBasePath+value.replace(/^\/+/,'');
+const route=(page,lang)=>`${siteBasePath}${lang==='fr'?'':lang+'/'}${page==='index'?'':page+'.html'}`;
+function deploymentSettings(config){
+  const originURL=new URL(process.env.SITE_PUBLIC_ORIGIN||config.origin);
+  if(!['https:','http:'].includes(originURL.protocol)||originURL.pathname!=='/'||originURL.search||originURL.hash)throw new Error('SITE_PUBLIC_ORIGIN must contain only the origin; use SITE_BASE_PATH for a project subdirectory.');
+  const audience=process.env.SITE_AUDIENCE||config.audience;
+  const publicUnlisted=audience==='public-unlisted';
+  const envIndexable=process.env.SITE_INDEXABLE;
+  if(envIndexable!==undefined&&!['true','false'].includes(envIndexable))throw new Error('SITE_INDEXABLE must be true or false.');
+  const indexable=!publicUnlisted&&(envIndexable===undefined?config.indexable===true:envIndexable==='true');
+  return {origin:originURL.origin,audience,publicUnlisted,indexable};
+}
 const hreflang=lang=>lang==='zh'?'zh-Hans':lang;
 const dictionary=lang=>lang==='fr'?{}:(fs.existsSync(path.join(root,`src/i18n/${lang}.json`))?readJSON(`src/i18n/${lang}.json`):{});
 const translator=dict=>value=>{
@@ -38,6 +51,7 @@ function imageTag(tag,manifest,lang){
   if(!record)return tag;
   tag=setAttr(tag,'width',record.original.width);
   tag=setAttr(tag,'height',record.original.height);
+  // This is a logical lookup key for photo Easter eggs, not a requested asset URL.
   tag=setAttr(tag,'data-original-src',key);
   tag=setAttr(tag,'srcset',record.srcset);
   let sizes=getAttr(tag,'sizes');
@@ -59,8 +73,7 @@ function imageTag(tag,manifest,lang){
 
 export function prepareHTML(source,page,lang='fr') {
   const config=readJSON('src/seo-config.json'), locale=locales[lang], dict=dictionary(lang), tr=translator(dict);
-  const origin=(process.env.SITE_PUBLIC_ORIGIN||config.origin).replace(/\/$/,'');
-  const indexable=process.env.SITE_INDEXABLE==='true'||config.indexable;
+  const {origin,indexable,publicUnlisted}=deploymentSettings(config),siteURL=origin+siteBasePath;
   const manifest=fs.existsSync(path.join(root,'docs/performance-assets.json'))?readJSON('docs/performance-assets.json'):{images:{}};
   let result=source.replace(/<script\b[^>]*type="application\/ld\+json"[^>]*>[\s\S]*?<\/script>/gi,'');
   result=result.replace(/<script\b[^>]*>[\s\S]*?<\/script>|<style\b[^>]*>[\s\S]*?<\/style>|<!--[\s\S]*?-->|<[^>]+>|[^<]+/g,part=>{
@@ -89,16 +102,17 @@ export function prepareHTML(source,page,lang='fr') {
   result=result.replace(/<link rel="manifest"[^>]*>/,`<link rel="manifest" href="/locales/${lang}/manifest.webmanifest">`);
   result=result.replace(/<link\b[^>]*rel="(?:canonical|alternate)"[^>]*>/g,'');
   result=result.replace(/<meta\b[^>]*(?:property="og:(?:url|locale|image)"|name="twitter:image")[^>]*>/g,'');
-  result=result.replace(/<meta\s+name="robots"[^>]*>/,`<meta name="robots" content="${indexable?'index,follow,max-image-preview:large':'noindex,follow'}">`);
+  result=result.replace(/<meta\b[^>]*\bname=["'](?:robots|googlebot|bingbot)["'][^>]*>/gi,'');
+  result=result.replace('</head>',`<meta name="robots" content="${publicUnlisted?'noindex,nofollow,noimageindex':indexable?'index,follow,max-image-preview:large':'noindex,follow'}">\n</head>`);
   const url=origin+route(page,lang);
   const title=decode(result.match(/<title>([\s\S]*?)<\/title>/i)?.[1]||config.hotelName);
   const description=decode(result.match(/<meta name="description" content="([^"]*)"/)?.[1]||'');
-  const image=origin+'/img/sch-facade-staubbach.webp';
-  const graph=[{'@type':'WebPage','@id':url+'#page',url,name:title,description,inLanguage:locale.locale,isPartOf:{'@id':origin+'/#website'},about:{'@id':origin+'/#hotel'}},
-    {'@type':'Hotel','@id':origin+'/#hotel',name:config.hotelName,url:origin+'/',telephone:config.phone,email:config.email,numberOfRooms:25,image:origin+'/img/sch-facade-staubbach.webp',logo:origin+'/img/logo.webp',address:{'@type':'PostalAddress',streetAddress:'Fuhren 439',postalCode:'3822',addressLocality:'Lauterbrunnen',addressRegion:'BE',addressCountry:'CH'},geo:{'@type':'GeoCoordinates',latitude:46.59482,longitude:7.90709}}];
-  if(page==='index')graph.push({'@type':'WebSite','@id':origin+'/#website',url:origin+'/',name:config.hotelName,inLanguage:Object.values(locales).map(x=>x.locale)});
+  const image=siteURL+'img/sch-facade-staubbach.webp';
+  const graph=[{'@type':'WebPage','@id':url+'#page',url,name:title,description,inLanguage:locale.locale,isPartOf:{'@id':siteURL+'#website'},about:{'@id':siteURL+'#hotel'}},
+    {'@type':'Hotel','@id':siteURL+'#hotel',name:config.hotelName,url:siteURL,telephone:config.phone,email:config.email,numberOfRooms:25,image,logo:siteURL+'img/logo.webp',address:{'@type':'PostalAddress',streetAddress:'Fuhren 439',postalCode:'3822',addressLocality:'Lauterbrunnen',addressRegion:'BE',addressCountry:'CH'},geo:{'@type':'GeoCoordinates',latitude:46.59482,longitude:7.90709}}];
+  if(page==='index')graph.push({'@type':'WebSite','@id':siteURL+'#website',url:siteURL,name:config.hotelName,inLanguage:Object.values(locales).map(x=>x.locale)});
   else graph.push({'@type':'BreadcrumbList',itemListElement:[{'@type':'ListItem',position:1,name:tr('Accueil'),item:origin+route('index',lang)},{'@type':'ListItem',position:2,name:tr({chambres:'Chambres',restaurant:'Restaurant',sejours:'Idées de séjour',vallee:'La vallée',maison:'Le chalet',infos:'Infos & accès',reservation:'Réservation'}[page]),item:url}]});
-  if(page==='restaurant')graph.push({'@type':'Restaurant','@id':origin+'/#restaurant',name:'Restaurant Schützen',url,hasMenu:url+'#carte',telephone:config.phone,servesCuisine:[{fr:'Cuisine suisse',de:'Schweizer Küche',en:'Swiss cuisine',zh:'瑞士菜',ru:'Швейцарская кухня',ko:'스위스 요리',it:'Cucina svizzera',es:'Cocina suiza'}[lang]],address:graph[1].address,image:origin+'/img/sch-resto.webp',containedInPlace:{'@id':origin+'/#hotel'},acceptsReservations:false});
+  if(page==='restaurant')graph.push({'@type':'Restaurant','@id':siteURL+'#restaurant',name:'Restaurant Schützen',url,hasMenu:url+'#carte',telephone:config.phone,servesCuisine:[{fr:'Cuisine suisse',de:'Schweizer Küche',en:'Swiss cuisine',zh:'瑞士菜',ru:'Швейцарская кухня',ko:'스위스 요리',it:'Cucina svizzera',es:'Cocina suiza'}[lang]],address:graph[1].address,image:siteURL+'img/sch-resto.webp',containedInPlace:{'@id':siteURL+'#hotel'},acceptsReservations:false});
   const seo=`<link rel="canonical" href="${url}">\n${Object.entries(locales).map(([key,l])=>`<link rel="alternate" hreflang="${hreflang(key)}" href="${origin+route(page,key)}">`).join('\n')}\n<link rel="alternate" hreflang="x-default" href="${origin+route(page,'fr')}">\n<meta property="og:url" content="${url}"><meta property="og:locale" content="${locale.og}"><meta property="og:image" content="${image}"><meta property="og:image:width" content="1920"><meta property="og:image:height" content="1446"><meta name="twitter:image" content="${image}">\n<script type="application/ld+json">${JSON.stringify({'@context':'https://schema.org','@graph':graph}).replaceAll('<','\\u003c')}</script>`;
   result=result.replace('</head>',seo+'\n</head>');
   result=result.replace('<div class="top__acts">',`<div class="top__acts">${languagePicker(page,lang,tr)}`);
@@ -109,6 +123,8 @@ export function prepareHTML(source,page,lang='fr') {
   result=result.replace(/<span class="menu-category">([^<]*)(<small>([^<]*)<\/small>)?<\/span>/g,(_,name,sub='')=>`<span class="menu-category"><span>${name}</span>${lang==='fr'?sub:''}</span>`);
   // The locale must exist before any deferred application script or module runs.
   result=result.replace(/(<script\b[^>]*src="\/locales\/[^/]+\/data\.js"[^>]*>)/,`<script src="/locales/${lang}/runtime.js"></script>\n$1`);
+  // Keep asset URLs unprefixed here: Vite resolves public files and applies its
+  // matching base to src, srcset, stylesheets, fonts, scripts and manifests.
   return result;
 }
 
@@ -121,7 +137,8 @@ export function emitLocaleResources({strict=false}={}){
   for(const photo of readJSON('src/menu-photos.json'))runtimeIds.add(messageId(photo.name));
   const messages={...readJSON('src/i18n/runtime-messages.json'),...readJSON('src/i18n/runtime-extra.json')};
   const dataSource=JSON.parse(fs.readFileSync(path.join(root,'public/js/data.js'),'utf8').split('=')[1].replace(/;\s*$/,''));
-  const report={languages:{},pageCount:pages.length*Object.keys(locales).length,origin:readJSON('src/seo-config.json').origin};
+  const deployment=deploymentSettings(readJSON('src/seo-config.json'));
+  const report={languages:{},pageCount:pages.length*Object.keys(locales).length,origin:deployment.origin,basePath:siteBasePath,audience:deployment.audience,indexable:deployment.indexable};
   for(const [lang,locale]of Object.entries(locales)){
     const dict=dictionary(lang),tr=translator(dict);
     const missing=lang==='fr'?[]:sourceEntries.filter(x=>typeof dict[x.id]!=='string'||!dict[x.id].trim()).map(x=>x.id);
@@ -136,8 +153,8 @@ export function emitLocaleResources({strict=false}={}){
     for(const room of data.rooms){for(const key of ['name','guests','view','beds'])room[key]=tr(room[key]);room.feats=room.feats.map(tr);}
     data.faq=data.faq.map(pair=>pair.map(tr));data.events=data.events.map(pair=>pair.map(tr));data.pages=data.pages.map(p=>({...p,title:tr(p.title)}));
     fs.writeFileSync(path.join(dir,'data.js'),'window.SCH='+JSON.stringify(data).replaceAll('<','\\u003c')+';\n');
-    fs.writeFileSync(path.join(dir,'manifest.webmanifest'),JSON.stringify({id:'/',name:'Hotel Schützen Lauterbrunnen',short_name:'Schützen',lang:locale.locale,start_url:route('index',lang),scope:'/',display:'standalone',background_color:'#f8f4e9',theme_color:'#b92e2d',icons:[{src:'/img/icon-512.png',sizes:'512x512',type:'image/png'},{src:'/img/apple-touch-icon.png',sizes:'180x180',type:'image/png'}]}));
-    let js=translateJS(fs.readFileSync(path.join(root,'public/js/site.js'),'utf8'),dict).replace(/([`'"])img\//g,'$1/img/');
+    fs.writeFileSync(path.join(dir,'manifest.webmanifest'),JSON.stringify({id:siteBasePath,name:'Hotel Schützen Lauterbrunnen',short_name:'Schützen',lang:locale.locale,start_url:route('index',lang),scope:siteBasePath,display:'standalone',background_color:'#f8f4e9',theme_color:'#b92e2d',icons:[{src:assetPath('img/icon-512.png'),sizes:'512x512',type:'image/png'},{src:assetPath('img/apple-touch-icon.png'),sizes:'180x180',type:'image/png'}]}));
+    let js=translateJS(fs.readFileSync(path.join(root,'public/js/site.js'),'utf8'),dict).replace(/([`'"]|,\s*)\/?img\//g,(_,prefix)=>prefix+assetPath('img/'));
     fs.writeFileSync(path.join(dir,'site.js'),js);
     const label=tr('Notre restaurant'), units=[...label].reduce((n,c)=>n+(/[\u2e80-\u9fff\uac00-\ud7af]/u.test(c)?1:.59),0), fontSize=Math.min(175,1260/units);
     fs.writeFileSync(path.join(dir,'restaurant-lettering.svg'),`<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500"><path d="M90 387c320-55 1000-55 1320 0" stroke="#193a2d" stroke-width="12" fill="none"/><path d="M110 408c320-55 960-55 1280 0" stroke="#b92e2d" stroke-width="6" stroke-dasharray="20 8" fill="none"/><text x="750" y="300" text-anchor="middle" font-family="Georgia,serif" font-size="${fontSize.toFixed(1)}" font-weight="bold" fill="#b92e2d" stroke="#fffdf7" stroke-width="24" stroke-linejoin="round" paint-order="stroke">${esc(label)}</text></svg>`);
@@ -153,14 +170,28 @@ export function emitLocaleResources({strict=false}={}){
 
 export async function finishBuild(){
   if(!fs.existsSync(path.join(root,'dist/index.html')))return;
-  const config=readJSON('src/seo-config.json'),origin=(process.env.SITE_PUBLIC_ORIGIN||config.origin).replace(/\/$/,'');
-  const indexable=process.env.SITE_INDEXABLE==='true'||config.indexable;
+  const config=readJSON('src/seo-config.json');
+  const {origin,indexable,publicUnlisted}=deploymentSettings(config);
+  if(publicUnlisted){
+    // Crawlers must be able to read each page's noindex directive. A project's
+    // robots.txt is informational; the host's root robots.txt remains authoritative.
+    fs.writeFileSync(path.join(root,'dist/robots.txt'),'User-agent: *\nAllow: /\n');
+    for(const file of ['sitemap.xml','llms.txt'])fs.rmSync(path.join(root,'dist',file),{force:true});
+  }else{
   const urls=pages.flatMap(page=>Object.keys(locales).map(lang=>`<url><loc>${origin+route(page,lang)}</loc>${Object.entries(locales).map(([key,l])=>`<xhtml:link rel="alternate" hreflang="${hreflang(key)}" href="${origin+route(page,key)}"/>`).join('')}<xhtml:link rel="alternate" hreflang="x-default" href="${origin+route(page,'fr')}"/></url>`));
   fs.writeFileSync(path.join(root,'dist/sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${urls.join('')}</urlset>`);
-  fs.writeFileSync(path.join(root,'dist/robots.txt'),`User-agent: *\n${indexable?'Allow: /':'Disallow: /'}\nSitemap: ${origin}/sitemap.xml\n`);
+  fs.writeFileSync(path.join(root,'dist/robots.txt'),`User-agent: *\n${indexable?'Allow: /':'Disallow: /'}\nSitemap: ${origin+assetPath('sitemap.xml')}\n`);
   const data=JSON.parse(fs.readFileSync(path.join(root,'public/js/data.js'),'utf8').split('=')[1].replace(/;\s*$/,''));
-  const facts=`# Hotel Schützen Lauterbrunnen\n\n> Chalet-hôtel de 25 chambres à Lauterbrunnen, Suisse. Restaurant, terrasse et vue sur le Staubbach.\n\n## Contact\nFuhren 439, 3822 Lauterbrunnen, Suisse\nTéléphone : ${config.phone}\nE-mail : ${config.email}\n\n## Chambres\n25 chambres, 8 catégories présentées sur le site.\n${data.rooms.map(r=>`- ${r.name} : ${r.size} ; ${r.guests} ; ${r.beds}.`).join('\n')}\n\n## Questions pratiques\n${data.faq.map(([q,a])=>`### ${q}\n${a}`).join('\n\n')}\n\n## Pages et langues\n${Object.entries(locales).map(([l,c])=>`- ${c.name} : ${origin+route('index',l)}`).join('\n')}\n\n- Chambres : ${origin}/chambres.html\n- Restaurant et carte : ${origin}/restaurant.html\n- Idées de séjour : ${origin}/sejours.html\n- La vallée : ${origin}/vallee.html\n- Le chalet : ${origin}/maison.html\n- Informations et accès : ${origin}/infos.html\n- Réservation : ${origin}/reservation.html\n`;
+  const facts=`# Hotel Schützen Lauterbrunnen\n\n> Chalet-hôtel de 25 chambres à Lauterbrunnen, Suisse. Restaurant, terrasse et vue sur le Staubbach.\n\n## Contact\nFuhren 439, 3822 Lauterbrunnen, Suisse\nTéléphone : ${config.phone}\nE-mail : ${config.email}\n\n## Chambres\n25 chambres, 8 catégories présentées sur le site.\n${data.rooms.map(r=>`- ${r.name} : ${r.size} ; ${r.guests} ; ${r.beds}.`).join('\n')}\n\n## Questions pratiques\n${data.faq.map(([q,a])=>`### ${q}\n${a}`).join('\n\n')}\n\n## Pages et langues\n${Object.entries(locales).map(([l,c])=>`- ${c.name} : ${origin+route('index',l)}`).join('\n')}\n\n- Chambres : ${origin+route('chambres','fr')}\n- Restaurant et carte : ${origin+route('restaurant','fr')}\n- Idées de séjour : ${origin+route('sejours','fr')}\n- La vallée : ${origin+route('vallee','fr')}\n- Le chalet : ${origin+route('maison','fr')}\n- Informations et accès : ${origin+route('infos','fr')}\n- Réservation : ${origin+route('reservation','fr')}\n`;
   fs.writeFileSync(path.join(root,'dist/llms.txt'),facts);
+  }
+  const mainManifest=path.join(root,'dist/manifest.webmanifest');
+  if(fs.existsSync(mainManifest)){
+    const manifest=JSON.parse(fs.readFileSync(mainManifest,'utf8'));
+    manifest.id=siteBasePath;manifest.scope=siteBasePath;manifest.start_url=route('index','fr');
+    manifest.icons=manifest.icons.map(icon=>({...icon,src:assetPath(icon.src)}));
+    fs.writeFileSync(mainManifest,JSON.stringify(manifest));
+  }
   for(const dir of ['version-2','version-collage','version-fondue','assets/immersive','assets/journey'])fs.rmSync(path.join(root,'dist',dir),{recursive:true,force:true});
   for(const name of fs.readdirSync(path.join(root,'dist/assets')))if(/^original-\d+\./.test(name))fs.rmSync(path.join(root,'dist/assets',name));
   for(const name of fs.readdirSync(path.join(root,'dist')))if(/^qa-.*\.html$/.test(name))fs.rmSync(path.join(root,'dist',name));

@@ -50,5 +50,8 @@
     }
   },
   "pageCount": 64,
-  "origin": "https://schuetzen-lauterbrunnen-atelier.thibault-ds.chatgpt.site"
+  "origin": "https://tpepin74-cpu.github.io",
+  "basePath": "/schuetzen-lauterbrunnen/",
+  "audience": "public-unlisted",
+  "indexable": false
 }
