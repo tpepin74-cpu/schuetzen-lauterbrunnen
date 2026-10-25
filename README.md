@@ -70,8 +70,8 @@ Les scripts historiques lisent les fichiers existants ; ils ne reconstruisent pa
 
 | Langue | Code | Racine publique |
 | --- | --- | --- |
-| Français de Suisse | `fr-CH` | `/` |
-| Allemand de Suisse | `de-CH` | `/de/` |
+| Français de Suisse | `fr-CH` | `/fr/` |
+| Allemand de Suisse | `de-CH` | `/` |
 | Anglais britannique | `en-GB` | `/en/` |
 | Chinois simplifié | `zh-Hans` | `/zh/` |
 | Russe | `ru` | `/ru/` |
@@ -79,7 +79,7 @@ Les scripts historiques lisent les fichiers existants ; ils ne reconstruisent pa
 | Italien | `it` | `/it/` |
 | Espagnol | `es` | `/es/` |
 
-Le français des huit HTML racine reste la source éditoriale. Le contrat des sept catalogues traduits est de **1 069 entrées statiques + 311 entrées runtime = 1 380 chaînes** : textes, SEO, attributs accessibles, formulaires, calendrier, concierge, messages et e-mails préparés. Les IDs techniques, références Booking, montants, capacités et placeholders sont conservés.
+Le français des huit HTML source reste la source éditoriale ; le build publie l’allemand de Suisse à la racine, et le français sous `/fr/`. Le contrat des sept catalogues traduits est de **1 069 entrées statiques + 311 entrées runtime = 1 380 chaînes** : textes, SEO, attributs accessibles, formulaires, calendrier, concierge, messages et e-mails préparés. Les IDs techniques, références Booking, montants, capacités et placeholders sont conservés.
 
 `scripts/localize-site.mjs` produit les HTML des sept répertoires de langues, les fichiers `public/locales/{lang}/runtime.js`, `data.js`, `site.js` et le lettrage SVG localisé du restaurant. `scripts/i18n-js.mjs` traduit les textes du JavaScript à partir de son AST ; `scripts/locale-runtime.js` fournit les pluriels et la substitution des messages ; `public/js/site.js` formate les dates et nombres dans la langue active. Les fichiers générés ne sont pas les sources à modifier manuellement.
 

@@ -11,7 +11,7 @@ return {
   build: {
     target: 'es2020', emptyOutDir: true,
     rollupOptions: {
-      input: Object.fromEntries(Object.keys(locales).flatMap(lang => pages.map(page => [lang+'-'+page, (lang==='fr'?'':lang+'/')+page+'.html']))),
+      input: Object.fromEntries(Object.keys(locales).flatMap(lang => pages.map(page => [lang+'-'+page, (lang==='de'?'':lang+'/')+page+'.html']))),
     },
   },
 };});

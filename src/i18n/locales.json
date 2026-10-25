@@ -1,10 +1,58 @@
 {
-  "fr": {"locale":"fr-CH","name":"Français","code":"FR","bookingLang":"fr","og":"fr_CH"},
-  "de": {"locale":"de-CH","name":"Deutsch","code":"DE","bookingLang":"de","og":"de_CH"},
-  "en": {"locale":"en-GB","name":"English","code":"EN","bookingLang":"en-gb","og":"en_GB"},
-  "zh": {"locale":"zh-Hans","name":"简体中文","code":"中文","bookingLang":"zh-cn","og":"zh_CN"},
-  "ru": {"locale":"ru","name":"Русский","code":"RU","bookingLang":"ru","og":"ru_RU"},
-  "ko": {"locale":"ko","name":"한국어","code":"KO","bookingLang":"ko","og":"ko_KR"},
-  "it": {"locale":"it","name":"Italiano","code":"IT","bookingLang":"it","og":"it_IT"},
-  "es": {"locale":"es","name":"Español","code":"ES","bookingLang":"es","og":"es_ES"}
+  "de": {
+    "locale": "de-CH",
+    "name": "Deutsch",
+    "code": "DE",
+    "bookingLang": "de",
+    "og": "de_CH"
+  },
+  "fr": {
+    "locale": "fr-CH",
+    "name": "Français",
+    "code": "FR",
+    "bookingLang": "fr",
+    "og": "fr_CH"
+  },
+  "en": {
+    "locale": "en-GB",
+    "name": "English",
+    "code": "EN",
+    "bookingLang": "en-gb",
+    "og": "en_GB"
+  },
+  "zh": {
+    "locale": "zh-Hans",
+    "name": "简体中文",
+    "code": "中文",
+    "bookingLang": "zh-cn",
+    "og": "zh_CN"
+  },
+  "ru": {
+    "locale": "ru",
+    "name": "Русский",
+    "code": "RU",
+    "bookingLang": "ru",
+    "og": "ru_RU"
+  },
+  "ko": {
+    "locale": "ko",
+    "name": "한국어",
+    "code": "KO",
+    "bookingLang": "ko",
+    "og": "ko_KR"
+  },
+  "it": {
+    "locale": "it",
+    "name": "Italiano",
+    "code": "IT",
+    "bookingLang": "it",
+    "og": "it_IT"
+  },
+  "es": {
+    "locale": "es",
+    "name": "Español",
+    "code": "ES",
+    "bookingLang": "es",
+    "og": "es_ES"
+  }
 }

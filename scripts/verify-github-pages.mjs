@@ -30,11 +30,11 @@ function checkReference(value, source) {
 }
 
 for (const lang of locales) for (const page of pages) {
-  const relative = (lang === 'fr' ? '' : lang + '/') + page + '.html';
+  const relative = (lang === 'de' ? '' : lang + '/') + page + '.html';
   const html = fs.readFileSync(path.join(dist, relative), 'utf8');
   const robots = [...html.matchAll(/<meta\b[^>]*name=["']robots["'][^>]*content=["']([^"']*)["'][^>]*>/gi)];
   if (robots.length !== 1 || !['noindex', 'nofollow', 'noimageindex'].every(rule => robots[0]?.[1].split(/\s*,\s*/).includes(rule))) errors.push(`${relative}: noindex policy missing or incomplete`);
-  const expectedCanonical = origin + base + (lang === 'fr' ? '' : lang + '/') + (page === 'index' ? '' : page + '.html');
+  const expectedCanonical = origin + base + (lang === 'de' ? '' : lang + '/') + (page === 'index' ? '' : page + '.html');
   const canonical = html.match(/<link\b[^>]*rel=["']canonical["'][^>]*href=["']([^"']*)["']/i)?.[1];
   if (canonical !== expectedCanonical) errors.push(`${relative}: canonical mismatch: ${canonical}`);
   const alternates = [...html.matchAll(/<link\b[^>]*rel=["']alternate["'][^>]*href=["']([^"']*)["']/gi)];

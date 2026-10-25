@@ -12,7 +12,7 @@ const decode=value=>value.replaceAll('&amp;','&').replaceAll('&quot;','"').repla
 export const siteBasePath=`${(process.env.SITE_BASE_PATH||'/').replace(/\/+$/,'')}/`;
 if(!siteBasePath.startsWith('/')||siteBasePath.startsWith('//')||/[?#\\]/.test(siteBasePath)||siteBasePath.split('/').some(part=>part==='.'||part==='..'))throw new Error('SITE_BASE_PATH must be an absolute URL path, such as /schuetzen-lauterbrunnen/.');
 const assetPath=value=>value.startsWith(siteBasePath)?value:siteBasePath+value.replace(/^\/+/,'');
-const route=(page,lang)=>`${siteBasePath}${lang==='fr'?'':lang+'/'}${page==='index'?'':page+'.html'}`;
+const route=(page,lang)=>`${siteBasePath}${lang==='de'?'':lang+'/'}${page==='index'?'':page+'.html'}`;
 function deploymentSettings(config){
   const originURL=new URL(process.env.SITE_PUBLIC_ORIGIN||config.origin);
   if(!['https:','http:'].includes(originURL.protocol)||originURL.pathname!=='/'||originURL.search||originURL.hash)throw new Error('SITE_PUBLIC_ORIGIN must contain only the origin; use SITE_BASE_PATH for a project subdirectory.');
@@ -113,7 +113,7 @@ export function prepareHTML(source,page,lang='fr') {
   if(page==='index')graph.push({'@type':'WebSite','@id':siteURL+'#website',url:siteURL,name:config.hotelName,inLanguage:Object.values(locales).map(x=>x.locale)});
   else graph.push({'@type':'BreadcrumbList',itemListElement:[{'@type':'ListItem',position:1,name:tr('Accueil'),item:origin+route('index',lang)},{'@type':'ListItem',position:2,name:tr({chambres:'Chambres',restaurant:'Restaurant',sejours:'Idées de séjour',vallee:'La vallée',maison:'Le chalet',infos:'Infos & accès',reservation:'Réservation'}[page]),item:url}]});
   if(page==='restaurant')graph.push({'@type':'Restaurant','@id':siteURL+'#restaurant',name:'Restaurant Schützen',url,hasMenu:url+'#carte',telephone:config.phone,servesCuisine:[{fr:'Cuisine suisse',de:'Schweizer Küche',en:'Swiss cuisine',zh:'瑞士菜',ru:'Швейцарская кухня',ko:'스위스 요리',it:'Cucina svizzera',es:'Cocina suiza'}[lang]],address:graph[1].address,image:siteURL+'img/sch-resto.webp',containedInPlace:{'@id':siteURL+'#hotel'},acceptsReservations:false});
-  const seo=`<link rel="canonical" href="${url}">\n${Object.entries(locales).map(([key,l])=>`<link rel="alternate" hreflang="${hreflang(key)}" href="${origin+route(page,key)}">`).join('\n')}\n<link rel="alternate" hreflang="x-default" href="${origin+route(page,'fr')}">\n<meta property="og:url" content="${url}"><meta property="og:locale" content="${locale.og}"><meta property="og:image" content="${image}"><meta property="og:image:width" content="1920"><meta property="og:image:height" content="1446"><meta name="twitter:image" content="${image}">\n<script type="application/ld+json">${JSON.stringify({'@context':'https://schema.org','@graph':graph}).replaceAll('<','\\u003c')}</script>`;
+  const seo=`<link rel="canonical" href="${url}">\n${Object.entries(locales).map(([key,l])=>`<link rel="alternate" hreflang="${hreflang(key)}" href="${origin+route(page,key)}">`).join('\n')}\n<link rel="alternate" hreflang="x-default" href="${origin+route(page,'de')}">\n<meta property="og:url" content="${url}"><meta property="og:locale" content="${locale.og}"><meta property="og:image" content="${image}"><meta property="og:image:width" content="1920"><meta property="og:image:height" content="1446"><meta name="twitter:image" content="${image}">\n<script type="application/ld+json">${JSON.stringify({'@context':'https://schema.org','@graph':graph}).replaceAll('<','\\u003c')}</script>`;
   result=result.replace('</head>',seo+'\n</head>');
   result=result.replace('<div class="top__acts">',`<div class="top__acts">${languagePicker(page,lang,tr)}`);
   result=result.replace('<nav aria-label="'+esc(tr('Pages du site'))+'">',`${languagePicker(page,lang,tr,true)}<nav aria-label="${esc(tr('Pages du site'))}">`);
@@ -159,7 +159,7 @@ export function emitLocaleResources({strict=false}={}){
     const label=tr('Notre restaurant'), units=[...label].reduce((n,c)=>n+(/[\u2e80-\u9fff\uac00-\ud7af]/u.test(c)?1:.59),0), fontSize=Math.min(175,1260/units);
     fs.writeFileSync(path.join(dir,'restaurant-lettering.svg'),`<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500"><path d="M90 387c320-55 1000-55 1320 0" stroke="#193a2d" stroke-width="12" fill="none"/><path d="M110 408c320-55 960-55 1280 0" stroke="#b92e2d" stroke-width="6" stroke-dasharray="20 8" fill="none"/><text x="750" y="300" text-anchor="middle" font-family="Georgia,serif" font-size="${fontSize.toFixed(1)}" font-weight="bold" fill="#b92e2d" stroke="#fffdf7" stroke-width="24" stroke-linejoin="round" paint-order="stroke">${esc(label)}</text></svg>`);
     report.languages[lang]={locale:locale.locale,translated:sourceEntries.length-missing.length,expected:sourceEntries.length,missing};
-    if(lang!=='fr'){
+    if(lang!=='de'){
       fs.mkdirSync(path.join(root,lang),{recursive:true});
       for(const page of pages)fs.writeFileSync(path.join(root,lang,page+'.html'),prepareHTML(fs.readFileSync(path.join(root,page+'.html'),'utf8'),page,lang));
     }
@@ -178,7 +178,7 @@ export async function finishBuild(){
     fs.writeFileSync(path.join(root,'dist/robots.txt'),'User-agent: *\nAllow: /\n');
     for(const file of ['sitemap.xml','llms.txt'])fs.rmSync(path.join(root,'dist',file),{force:true});
   }else{
-  const urls=pages.flatMap(page=>Object.keys(locales).map(lang=>`<url><loc>${origin+route(page,lang)}</loc>${Object.entries(locales).map(([key,l])=>`<xhtml:link rel="alternate" hreflang="${hreflang(key)}" href="${origin+route(page,key)}"/>`).join('')}<xhtml:link rel="alternate" hreflang="x-default" href="${origin+route(page,'fr')}"/></url>`));
+  const urls=pages.flatMap(page=>Object.keys(locales).map(lang=>`<url><loc>${origin+route(page,lang)}</loc>${Object.entries(locales).map(([key,l])=>`<xhtml:link rel="alternate" hreflang="${hreflang(key)}" href="${origin+route(page,key)}"/>`).join('')}<xhtml:link rel="alternate" hreflang="x-default" href="${origin+route(page,'de')}"/></url>`));
   fs.writeFileSync(path.join(root,'dist/sitemap.xml'),`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${urls.join('')}</urlset>`);
   fs.writeFileSync(path.join(root,'dist/robots.txt'),`User-agent: *\n${indexable?'Allow: /':'Disallow: /'}\nSitemap: ${origin+assetPath('sitemap.xml')}\n`);
   const data=JSON.parse(fs.readFileSync(path.join(root,'public/js/data.js'),'utf8').split('=')[1].replace(/;\s*$/,''));
@@ -188,7 +188,7 @@ export async function finishBuild(){
   const mainManifest=path.join(root,'dist/manifest.webmanifest');
   if(fs.existsSync(mainManifest)){
     const manifest=JSON.parse(fs.readFileSync(mainManifest,'utf8'));
-    manifest.id=siteBasePath;manifest.scope=siteBasePath;manifest.start_url=route('index','fr');
+    manifest.id=siteBasePath;manifest.scope=siteBasePath;manifest.start_url=route('index','de');
     manifest.icons=manifest.icons.map(icon=>({...icon,src:assetPath(icon.src)}));
     fs.writeFileSync(mainManifest,JSON.stringify(manifest));
   }
@@ -216,7 +216,7 @@ export function localizationPlugin(){return{
   name:'schuetzen-localized-pages',
   transformIndexHtml:{order:'pre',handler(html,ctx){
     const file=path.basename(ctx.filename||'index.html','.html');if(!pages.includes(file))return html;
-    const relative=path.relative(root,ctx.filename||'index.html');const possible=relative.split(path.sep)[0];const lang=locales[possible]?possible:'fr';
+    const relative=path.relative(root,ctx.filename||'index.html');const possible=relative.split(path.sep)[0];const lang=locales[possible]?possible:'de';
     return prepareHTML(fs.readFileSync(path.join(root,file+'.html'),'utf8'),file,lang);
   }},
   transform(code,id){if(/\/src\/(?:experience|easter-eggs|easter-scenes|menu-easter-eggs)\.js(?:\?|$)/.test(id))return {code:translateJS(code,{},{runtime:true}),map:null};},
