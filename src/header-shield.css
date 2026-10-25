@@ -68,11 +68,11 @@ body.postcard-site .mnav {
 
 @media (max-width: 760px) {
   body.postcard-site {
-    --shield-height: 264px;
-    --shield-width: 208.08px;
-    --shield-compact-height: 116.16px;
-    --shield-compact-width: 92px;
-    --shield-hero-padding: 218px;
+    --shield-height: 184.8px;
+    --shield-width: 145.66px;
+    --shield-compact-height: 81.31px;
+    --shield-compact-width: 64.4px;
+    --shield-hero-padding: 166px;
   }
 
   body.postcard-site .top__brand {
