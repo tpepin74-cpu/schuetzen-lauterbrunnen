@@ -118,7 +118,7 @@ export function prepareHTML(source,page,lang='fr') {
   result=result.replace('<div class="top__acts">',`<div class="top__acts">${languagePicker(page,lang,tr)}`);
   result=result.replace('<nav aria-label="'+esc(tr('Pages du site'))+'">',`${languagePicker(page,lang,tr,true)}<nav aria-label="${esc(tr('Pages du site'))}">`);
   result=result.replace('<span class="foot__credit">',`<nav class="footer-languages" aria-label="${esc(tr('Langues'))}">${languageLinks(page,lang,true)}</nav><span class="foot__credit">`);
-  const shortNav={de:['Start','Ideen','Zimmer','Hilfe','Buchen'],en:['Home','Ideas','Rooms','Help','Book'],zh:['首页','灵感','客房','咨询','预订'],ru:['Главная','Идеи','Номера','Помощь','Бронь'],ko:['홈','여행','객실','문의','예약'],it:['Inizio','Idee','Camere','Aiuto','Prenota'],es:['Inicio','Planes','Habitaciones','Ayuda','Reservar']};
+  const shortNav={fr:['Accueil','Séjours','Chambres','Concierge','Réserver'],de:['Start','Ideen','Zimmer','Hilfe','Buchen'],en:['Home','Ideas','Rooms','Help','Book'],zh:['首页','灵感','客房','咨询','预订'],ru:['Главная','Идеи','Номера','Помощь','Бронь'],ko:['홈','여행','객실','문의','예약'],it:['Inizio','Idee','Camere','Aiuto','Prenota'],es:['Inicio','Planes','Habitaciones','Ayuda','Reservar']};
   if(shortNav[lang])result=result.replace(/(<nav class="app-nav"[^>]*>)([\s\S]*?)(<\/nav>)/,(_,start,body,end)=>{let i=0;return start+body.replace(/<span>[^<]*<\/span>/g,()=>`<span>${shortNav[lang][i++]}</span>`)+end;});
   result=result.replace(/<span class="menu-category">([^<]*)(<small>([^<]*)<\/small>)?<\/span>/g,(_,name,sub='')=>`<span class="menu-category"><span>${name}</span>${lang==='fr'?sub:''}</span>`);
   // The locale must exist before any deferred application script or module runs.
